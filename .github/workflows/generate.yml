@@ -17,6 +17,16 @@ jobs:
 
       - run: npm ci
 
+      - name: Verify secret is set
+        run: |
+          if [ -z "$OPENROUTER_API_KEY" ]; then
+            echo "ERROR: OPENROUTER_API_KEY is empty!"
+            exit 1
+          fi
+          echo "Key is set, length: ${#OPENROUTER_API_KEY} chars, starts with: ${OPENROUTER_API_KEY:0:6}..."
+        env:
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+
       - run: npx tsx scripts/generate.ts
         env:
           OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
