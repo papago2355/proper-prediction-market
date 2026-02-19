@@ -5,36 +5,56 @@
   --font-retro: "Press Start 2P", system-ui, sans-serif;
   --font-terminal: "VT323", monospace;
   --font-tech: "Share Tech Mono", monospace;
-  
+
   --color-crt-green: #33ff00;
+  --color-crt-green-soft: #4ade80;
   --color-crt-amber: #ffb000;
   --color-crt-blue: #00ffff;
-  --color-dark-bg: #050505;
+  --color-dark-bg: #0a0e1a;
+  --color-dark-surface: #0d1117;
+  --color-dark-card: #161b22;
+  --color-glow-purple: #7c3aed;
 }
 
 @layer base {
   body {
-    background-color: var(--color-dark-bg);
-    color: var(--color-crt-green);
+    background: linear-gradient(135deg, var(--color-dark-bg) 0%, var(--color-dark-surface) 50%, #0a0a1a 100%);
+    color: var(--color-crt-green-soft);
     font-family: var(--font-terminal);
     overflow-x: hidden;
+    min-height: 100vh;
   }
 }
 
 @layer utilities {
   .text-shadow-glow {
+    text-shadow: 0 0 10px currentColor, 0 0 40px currentColor;
+  }
+
+  .text-shadow-glow-sm {
     text-shadow: 0 0 5px currentColor;
   }
-  
+
+  .box-glow-green {
+    box-shadow: 0 0 15px rgba(51, 255, 0, 0.3), inset 0 0 15px rgba(51, 255, 0, 0.05);
+  }
+
+  .box-glow-amber {
+    box-shadow: 0 0 15px rgba(255, 176, 0, 0.3), inset 0 0 15px rgba(255, 176, 0, 0.05);
+  }
+
+  .box-glow-blue {
+    box-shadow: 0 0 15px rgba(0, 255, 255, 0.3), inset 0 0 15px rgba(0, 255, 255, 0.05);
+  }
+
   .scanlines {
-    background: linear-gradient(
-      to bottom,
-      rgba(255,255,255,0),
-      rgba(255,255,255,0) 50%,
-      rgba(0,0,0,0.2) 50%,
-      rgba(0,0,0,0.2)
+    background: repeating-linear-gradient(
+      0deg,
+      transparent,
+      transparent 2px,
+      rgba(0, 0, 0, 0.15) 2px,
+      rgba(0, 0, 0, 0.15) 4px
     );
-    background-size: 100% 4px;
     position: fixed;
     top: 0;
     left: 0;
@@ -44,21 +64,21 @@
     z-index: 50;
   }
 
-  .crt-flicker {
-    animation: flicker 0.15s infinite;
-    pointer-events: none;
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background: rgba(18, 16, 16, 0.02);
-    z-index: 51;
+  @keyframes pulse-glow {
+    0%, 100% { opacity: 0.6; }
+    50% { opacity: 1; }
   }
 
-  @keyframes flicker {
-    0% { opacity: 0.9; }
-    50% { opacity: 1.0; }
-    100% { opacity: 0.9; }
+  @keyframes blink-cursor {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0; }
+  }
+
+  .animate-pulse-glow {
+    animation: pulse-glow 2s ease-in-out infinite;
+  }
+
+  .animate-blink-cursor {
+    animation: blink-cursor 0.8s step-end infinite;
   }
 }
