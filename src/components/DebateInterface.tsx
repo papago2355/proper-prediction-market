@@ -114,7 +114,7 @@ export const DebateInterface: React.FC<DebateInterfaceProps> = ({
         <div className="flex justify-center gap-4 mt-3 text-crt-green-soft/50 text-xs font-tech">
           <span>STATUS: ACTIVE</span>
           <span>//</span>
-          <span>DEBATE: {isLive ? 'IN PROGRESS' : 'COMPLETE'}</span>
+          <span>DEBATE: {isLive || completedCount < messages.length ? 'IN PROGRESS' : 'COMPLETE'}</span>
         </div>
       </div>
 
@@ -160,7 +160,7 @@ export const DebateInterface: React.FC<DebateInterfaceProps> = ({
             ))}
           </AnimatePresence>
 
-          {isLive && completedCount >= messages.length && messages.length > 0 && (
+          {!isLive && completedCount >= messages.length && messages.length > 0 && (
             <div className="text-crt-green-soft/40 text-xs mt-4 text-center font-tech">
               {'>'} DEBATE CONCLUDED. AWAITING NEW DIRECTIVE...
             </div>
