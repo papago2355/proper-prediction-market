@@ -54,7 +54,7 @@ export const RobotAvatar: React.FC<RobotAvatarProps> = ({
   }, [seed, size]);
 
   const glowFilter = isSpeaking
-    ? `drop-shadow(0 0 8px ${color}) drop-shadow(0 0 16px ${color})`
+    ? `drop-shadow(0 0 4px ${color}) drop-shadow(0 0 8px ${color})`
     : `drop-shadow(0 0 3px ${color})`;
 
   return (
@@ -90,11 +90,11 @@ export const RobotAvatar: React.FC<RobotAvatarProps> = ({
       {/* Eye glow when speaking */}
       {isSpeaking && (
         <>
-          <rect x={3 * grid.px} y={1 * grid.px} width={grid.px * 1.5} height={grid.px} fill={color} opacity={0.6} rx={2}>
-            <animate attributeName="opacity" values="0.6;0.2;0.6" dur="0.5s" repeatCount="indefinite" />
+          <rect x={3 * grid.px} y={1 * grid.px} width={grid.px * 1.5} height={grid.px} fill={color} opacity={0.3} rx={2}>
+            <animate attributeName="opacity" values="0.3;0.1;0.3" dur="0.5s" repeatCount="indefinite" />
           </rect>
-          <rect x={5.5 * grid.px} y={1 * grid.px} width={grid.px * 1.5} height={grid.px} fill={color} opacity={0.6} rx={2}>
-            <animate attributeName="opacity" values="0.6;0.2;0.6" dur="0.5s" repeatCount="indefinite" />
+          <rect x={5.5 * grid.px} y={1 * grid.px} width={grid.px * 1.5} height={grid.px} fill={color} opacity={0.3} rx={2}>
+            <animate attributeName="opacity" values="0.3;0.1;0.3" dur="0.5s" repeatCount="indefinite" />
           </rect>
         </>
       )}

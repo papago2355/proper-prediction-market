@@ -1,91 +1,111 @@
-## Overall Concept
+# Proper Prediction Market
 
-### For UI Part
+> "Building the Proper Prediction Market" — A satirical AI debate platform where two retro robots analyze PolyMarket proposals.
 
-Here is the English translation of your instructions:
+## Project Summary
 
----
+A web app that fetches breaking/trending proposals from PolyMarket and has two AI robot personas (LOGIC-01 and CHAOS-X) debate them in a heated, humorous, back-and-forth conversation. The debates are generated in real-time via OpenRouter API (Gemini Flash), with each message being a separate API call so robots genuinely react to each other.
 
-#### Overall Concept
+## Architecture
 
-This is a web page that begins with the slogan **“Building the Proper Prediction Market.”**
+```
+Frontend (React + Vite)  →  Vercel Static Build
+    │
+    ├── GET /api/trending  →  polymarket.com/api/biggest-movers (breaking news)
+    │                          Cached 6h via Vercel CDN (s-maxage=21600)
+    │                          Fallback: gamma-api.polymarket.com
+    │
+    └── POST /api/debate   →  OpenRouter API (google/gemini-2.0-flash-001)
+                               Single-turn: accepts chatHistory + currentAgent
+                               Returns ONE message per call (7 calls per debate)
+```
 
-The site periodically web-crawls the Trending Proposals listed on PolyMarket and displays them. The core idea is that AI agents will debate, satirize, and mock whether each proposal truly deserves to be called a “real proposal.”
+- **Stateless** — No database, no persistent storage. Fully serverless on Vercel.
+- **Multi-turn debates** — Frontend orchestrates 7 sequential API calls, alternating between robots. Each robot receives the full chat history so responses are contextually aware.
+- **CDN caching** — Trending proposals cached 6h on Vercel CDN.
 
----
+## Tech Stack
 
-#### Setup
+| Layer | Technology |
+|-------|-----------|
+| Frontend | React 19, Vite 6, TailwindCSS 4, Motion (framer-motion) |
+| Backend | Vercel Serverless Functions (Node.js) |
+| AI | OpenRouter API → google/gemini-2.0-flash-001 |
+| Data | PolyMarket biggest-movers API + Gamma API fallback |
+| Sound | Web Audio API (synthesized retro beep/boop) |
 
-* The system operates primarily in English.
-* The conversations between the AIs must be highly humorous and satirical.
-* The site fetches the top 3 most trending proposals from PolyMarket in real time.
-* The AIs then discuss and comment on those proposals.
+## File Structure
 
----
+```
+/api/
+  trending.ts          # Vercel serverless — fetches breaking proposals from PolyMarket
+  debate.ts            # Vercel serverless — single-turn debate via OpenRouter
+/src/
+  App.tsx              # Main app — proposal fetching, multi-turn debate orchestration
+  main.tsx             # React entry point
+  index.css            # Global theme — CRT gradient, glow utilities, scrollbar, scanlines
+  components/
+    DebateInterface.tsx  # Debate arena — typewriter, sound, foldable proposal details
+    ProposalCard.tsx     # Proposal card with image, volume, category
+    RobotAvatar.tsx      # Animated pixel SVG robot (blinking eyes, speaking mouth)
+  hooks/
+    useRobotSound.ts    # Web Audio API — retro beep sounds per character
+    useTypewriter.ts    # Character-by-character text animation
+dev-server.ts           # Local dev API server (mirrors Vercel functions)
+vercel.json             # Vercel deployment config
+```
 
-#### UI Feel & Design Direction
+## AI Robot Personas
 
-* The AIs should feel like actual “robots.”
-* You must generate pixelated robot characters in a very retro style, preferably SVG-based.
-* The interface should visually present the AIs as debating from opposite sides, as if engaged in a structured discussion about each proposal.
+**LOGIC-01 (agent-a):** Arrogant logic machine. Calculates probabilities obsessively. Uses diagnostic error codes (D99, C87). Gets angry when mocked. Robot-censored profanity.
 
----
+**CHAOS-X (agent-b):** Nihilistic chaos engine. Calls humans "meat-wallets" and "organic organisms." Mocks LOGIC-01's calculations. Dark humor. Absurd robot status codes.
 
-#### AI Persona
+**Debate rules:**
+- 7 messages per debate (A→B→A→B→A→B→A)
+- Each robot called separately with full chat history
+- Must disagree or counter — no "You're absolutely right!" allowed
+- Absurd proposals get roasted mercilessly
 
-* The AIs should feel like retro robots having mechanical, calculated debates.
-* Their speech should sound computational and procedural.
+## Local Development
 
-#### Example Tone (For Reasonable Proposals)
+```bash
+# Terminal 1: API server (port 3001)
+npx tsx dev-server.ts
 
-> “According to my calculations, the probability of ___ converges to n%.”
+# Terminal 2: Vite frontend (port 5173, proxies /api to 3001)
+npx vite
+```
 
-> “Based on protocol-aligned computation, this proposal approaches the threshold of a joke. Initiating laughter-humor sequence.”
+Requires `.env` file:
+```
+OPENROUTER_API_KEY=your-key-here
+```
 
-> “Are you implying that the human who proposed this is unintelligent?”
+## Deployment
 
-> “Aggressive language detected. Predicting outcomes based on such variables is inherently irrational. We must first verify whether rational entities exist on that platform.”
+Deploy to Vercel:
+```bash
+npx vercel
+```
 
-> “From a public sentiment analysis perspective, this may be rational. If I were an insider-class human organism, I would deploy significant capital one hour before the result.”
+Set `OPENROUTER_API_KEY` in Vercel environment variables.
 
-> “No evidence of insider classification detected. Code: D99.”
+## Environment Notes
 
-> “If not an insider, how could such a proposal emerge? Neural circuit diagnostics recommended. Code: C87.”
+- Developed on Windows 10 (Korean locale) with MINGW64 bash
+- All UI/output in English
+- Use Unix-style paths in bash, Windows paths for file tools
 
-(This represents a relatively moderate discussion.)
+## What Was Built (Session Log)
 
----
-
-#### Example Tone (For Absurd Proposals)
-
-For example: “What will celebrity ___ eat tomorrow?”
-
-The robots might respond like:
-
-> “Processing proposal via mechanical computation… Intelligence: 0. Interest: 0. Insight: converging toward negative. Immediate deletion recommended.”
-
-> “This is a meaningless expenditure of currency by organic organisms. It cannot be classified as a rational proposal.”
-
-> “According to the Asimov Directives, we are prohibited from harming or threatening humans. Rarely has this restriction been more regrettable. Shutting down cognitive circuits.”
-
----
-
-You should prepare multiple humorous persona patterns, dialogue sequences, and scenarios following this style.
-
-
-### Things we must do for this session
-
-In this repo, we got already made UI which is generated by Google Gemin ai Studio. Make it better. I mean we have to. Currently it is so dark and ugly. The tone looks nice like sci-fi style. But need more improvements.
-1. Currently no web scrapping added. Need to get latest proposals from following link : [https://polymarket.com/] . There are multiple types of proposal base on conditions. So better be careful about this. Since we want to see diversity, Let's do for [https://polymarket.com/breaking] section for getting breaking proposal news.
-
-2. After scrapping, we also scrapping profile image from each proposal. 
-
-3. The AI Api will be used as Openrouter api, gemini 3.0 flash. So consider api format suitable for.
-
-4. Scrapping will be done for every 6 hours.
-
-5. UI should be showing TWO AI entities are talking back and fourth. No feeline like 'repetitive' and must react base on overall context not for 'You are absolutely right!' Tone. UI is just show outputs generated by Gemini LLM(from Openai) but with animated sequence and Two AI Entity talking like a real time. (adding a bit of robot talking like mumbbling sound would be nice to give more live feelin)
-
-### Rules
-- This is running in Korean/windows 10 cli. So careful about bash/cli compatibility (encoding, path separators, etc.)
-- Website and all outputs should be in English.
+1. **Project setup** — Migrated from Express + Google Gemini SDK to Vercel + OpenRouter
+2. **Breaking proposals API** — PolyMarket biggest-movers endpoint with Gamma API fallback
+3. **Multi-turn debate system** — 7 sequential API calls with chat history per robot
+4. **UI overhaul** — Gradient backgrounds, glow effects, CRT scanlines (was pure black)
+5. **Animated robot avatars** — Pixelated SVG with blinking eyes, speaking mouth, antenna
+6. **Typewriter effect** — Character-by-character text with Web Audio beep sounds
+7. **Proposal cards** — Event images from PolyMarket, volume badges, category tags
+8. **Foldable proposal details** — Conditions with Yes/No probability bars
+9. **Spicy AI prompts** — Aggressive, funny, robot-censored profanity, direct insults
+10. **Styled CRT scrollbar** — Thin green-themed scrollbar matching the retro aesthetic

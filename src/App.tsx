@@ -3,6 +3,18 @@ import { DebateInterface } from './components/DebateInterface';
 import { ProposalCard } from './components/ProposalCard';
 import { motion } from 'motion/react';
 
+interface Condition {
+  question: string;
+  outcomes: string[];
+  prices: number[];
+}
+
+interface DebateMessage {
+  id: string;
+  agentId: 'agent-a' | 'agent-b';
+  text: string;
+}
+
 interface Proposal {
   id: string;
   title: string;
@@ -10,80 +22,51 @@ interface Proposal {
   volume: string;
   image: string;
   category: string;
+  mode?: 'debate' | 'roast';
+  conditions: Condition[];
+  debates: {
+    en: DebateMessage[];
+    ko: DebateMessage[];
+  };
 }
 
-interface Message {
-  id: string;
-  agentId: 'agent-a' | 'agent-b';
-  text: string;
-  timestamp: number;
+interface DebatesJSON {
+  generatedAt: string;
+  proposals: Proposal[];
 }
 
 function App() {
   const [proposals, setProposals] = useState<Proposal[]>([]);
   const [selectedProposal, setSelectedProposal] = useState<Proposal | null>(null);
-  const [messages, setMessages] = useState<Message[]>([]);
-  const [isLoadingProposals, setIsLoadingProposals] = useState(true);
-  const [isGeneratingDebate, setIsGeneratingDebate] = useState(false);
+  const [isLoading, setIsLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
+  const [lang, setLang] = useState<'en' | 'ko'>('en');
 
-  // Fetch proposals on mount
+  // Load pre-generated debates from static JSON
   useEffect(() => {
-    const fetchProposals = async () => {
+    const load = async () => {
       try {
-        const res = await fetch('/api/trending');
-        if (!res.ok) throw new Error('Failed to fetch');
-        const data = await res.json();
-        setProposals(data);
-        if (data.length > 0) {
-          setSelectedProposal(data[0]);
+        const res = await fetch('/data/debates.json');
+        if (!res.ok) throw new Error('Failed to fetch debates');
+        const data: DebatesJSON = await res.json();
+        setProposals(data.proposals);
+        if (data.proposals.length > 0) {
+          setSelectedProposal(data.proposals[0]);
         }
       } catch (err) {
-        console.error('Failed to fetch proposals:', err);
-        setError('Failed to connect to market data feed.');
+        console.error('Failed to load debates:', err);
+        setError('Failed to load debate data.');
       } finally {
-        setIsLoadingProposals(false);
+        setIsLoading(false);
       }
     };
-    fetchProposals();
+    load();
   }, []);
 
-  // Generate debate when proposal selected
-  useEffect(() => {
-    if (!selectedProposal) return;
-
-    const fetchDebate = async () => {
-      setIsGeneratingDebate(true);
-      setMessages([]);
-      setError(null);
-      try {
-        const res = await fetch('/api/debate', {
-          method: 'POST',
-          headers: { 'Content-Type': 'application/json' },
-          body: JSON.stringify({
-            proposalTitle: selectedProposal.title,
-            proposalDescription: selectedProposal.description,
-          }),
-        });
-        if (!res.ok) throw new Error('Debate generation failed');
-        const data = await res.json();
-        if (Array.isArray(data)) {
-          setMessages(data);
-        }
-      } catch (err) {
-        console.error('Failed to generate debate:', err);
-        setError('Debate generation failed. Please try again.');
-      } finally {
-        setIsGeneratingDebate(false);
-      }
-    };
-
-    fetchDebate();
-  }, [selectedProposal]);
+  const messages = selectedProposal?.debates[lang] ?? [];
 
   return (
     <div className="min-h-screen text-crt-green-soft font-terminal selection:bg-crt-green selection:text-black">
-      {/* Scanlines overlay */}
       <div className="scanlines" />
 
       <main className="relative z-10 container mx-auto px-4 py-8 flex flex-col gap-8 max-w-7xl">
@@ -108,6 +91,18 @@ function App() {
           >
             // SYSTEM ONLINE // ANALYZING POLYMARKET FEEDS // AI AGENTS DEPLOYED
           </motion.p>
+
+          {/* Language Toggle */}
+          <div className="flex justify-center">
+            <button
+              onClick={() => setLang((l) => (l === 'en' ? 'ko' : 'en'))}
+              className="flex items-center gap-1 border border-crt-green/40 px-3 py-1.5 text-xs font-retro hover:bg-crt-green/10 transition-colors rounded"
+            >
+              <span className={lang === 'en' ? 'text-crt-green' : 'text-crt-green-soft/40'}>EN</span>
+              <span className="text-crt-green-soft/30">|</span>
+              <span className={lang === 'ko' ? 'text-crt-green' : 'text-crt-green-soft/40'}>KR</span>
+            </button>
+          </div>
         </header>
 
         {/* Proposal Cards */}
@@ -116,7 +111,7 @@ function App() {
             <span className="animate-pulse-glow text-crt-green">&#x25CF;</span> LIVE FEED: TRENDING PROPOSALS
           </div>
 
-          {isLoadingProposals ? (
+          {isLoading ? (
             <div className="text-center py-16 border border-crt-green/20 text-crt-green/50 animate-pulse-glow font-tech bg-dark-card/30 rounded-lg">
               LOADING MARKET DATA...
             </div>
@@ -137,7 +132,7 @@ function App() {
           )}
         </section>
 
-        {/* Error display */}
+        {/* Error */}
         {error && (
           <div className="text-center py-4 border border-red-500/30 bg-red-500/10 text-red-400 font-tech text-sm rounded-lg">
             ERROR: {error}
@@ -148,15 +143,16 @@ function App() {
         <section className="mt-4">
           {selectedProposal && (
             <DebateInterface
-              proposalTitle={selectedProposal.title}
+              proposal={selectedProposal}
               messages={messages}
-              isLive={isGeneratingDebate}
+              isLive={false}
+              lang={lang}
+              mode={selectedProposal.mode}
             />
           )}
         </section>
       </main>
 
-      {/* Footer */}
       <footer className="relative z-10 text-center py-8 text-crt-green-soft/30 text-xs font-tech border-t border-crt-green/10 mt-12">
         <p>SYSTEM: ONLINE // CONNECTED TO POLYMARKET // POWERED BY OPENROUTER</p>
       </footer>

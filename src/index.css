@@ -22,7 +22,14 @@
     color: var(--color-crt-green-soft);
     font-family: var(--font-terminal);
     overflow-x: hidden;
+    overflow-y: auto;
     min-height: 100vh;
+  }
+
+  /* Ensure html also scrolls */
+  html {
+    overflow-y: auto;
+    scroll-behavior: smooth;
   }
 }
 
@@ -56,12 +63,10 @@
       rgba(0, 0, 0, 0.15) 4px
     );
     position: fixed;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
+    inset: 0;
     pointer-events: none;
     z-index: 50;
+    overflow: hidden;
   }
 
   @keyframes pulse-glow {
@@ -80,5 +85,24 @@
 
   .animate-blink-cursor {
     animation: blink-cursor 0.8s step-end infinite;
+  }
+
+  /* CRT-themed scrollbar */
+  .crt-scrollbar::-webkit-scrollbar {
+    width: 6px;
+  }
+  .crt-scrollbar::-webkit-scrollbar-track {
+    background: rgba(10, 14, 26, 0.8);
+  }
+  .crt-scrollbar::-webkit-scrollbar-thumb {
+    background: rgba(51, 255, 0, 0.25);
+    border-radius: 3px;
+  }
+  .crt-scrollbar::-webkit-scrollbar-thumb:hover {
+    background: rgba(51, 255, 0, 0.5);
+  }
+  .crt-scrollbar {
+    scrollbar-width: thin;
+    scrollbar-color: rgba(51, 255, 0, 0.25) rgba(10, 14, 26, 0.8);
   }
 }
