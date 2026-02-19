@@ -428,7 +428,7 @@ ${batch}`;
     [{ role: 'user', content: prompt }],
     2000,
     0.3,
-    'google/gemini-3-pro-preview',
+    'google/gemini-3-flash-preview',
   );
 
   // Parse the numbered responses
