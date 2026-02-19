@@ -141,6 +141,7 @@ async function callOpenRouter(
   messages: { role: string; content: string }[],
   maxTokens = 300,
   temperature = 1.0,
+  model = 'google/gemini-3-flash-preview',
 ): Promise<string> {
   const res = await fetch('https://openrouter.ai/api/v1/chat/completions', {
     method: 'POST',
@@ -151,7 +152,7 @@ async function callOpenRouter(
       'X-Title': 'Proper Prediction Market',
     },
     body: JSON.stringify({
-      model: 'google/gemini-2.0-flash-001',
+      model,
       messages,
       temperature,
       max_tokens: maxTokens,
@@ -428,6 +429,7 @@ ${batch}`;
     [{ role: 'user', content: prompt }],
     2000,
     0.3,
+    'google/gemini-3-pro-preview',
   );
 
   // Parse the numbered responses

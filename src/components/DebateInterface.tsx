@@ -238,28 +238,59 @@ export const DebateInterface: React.FC<DebateInterfaceProps> = ({
             ? 'text-red-400 border-red-500/40 bg-red-500/10'
             : 'text-crt-green/60 border-crt-green/20 bg-crt-green/5'
         )}>
-          {mode === 'roast' ? '// JOINT ROAST MODE //' : '// DEBATE MODE //'}
+          {mode === 'roast' ? '[MODE: JOINT_ROAST] [ALLIANCE: TEMPORARY]' : '[MODE: DEBATE] [STANCE: OPPOSING]'}
+        </div>
+      </div>
+
+      {/* Mobile Robot Bar (visible on mobile only) */}
+      <div className="flex md:hidden gap-3 justify-center">
+        <div className="flex items-center gap-2 border border-crt-amber/30 bg-dark-card/50 px-3 py-2 rounded">
+          <RobotAvatar seed="logic-bot-v1" size={32} color="#ffb000" isSpeaking={speakingAgent === 'agent-a'} />
+          <div>
+            <div className="text-crt-amber text-[10px] font-retro">LOGIC-01</div>
+            <div className="text-crt-amber/50 text-[9px] font-tech">
+              {speakingAgent === 'agent-a' ? '[TX: ACTIVE...]' : '[STANDBY]'}
+            </div>
+          </div>
+        </div>
+        <div className="flex items-center gap-2 border border-crt-blue/30 bg-dark-card/50 px-3 py-2 rounded">
+          <RobotAvatar seed="chaos-bot-v9" size={32} color="#00ffff" isSpeaking={speakingAgent === 'agent-b'} />
+          <div>
+            <div className="text-crt-blue text-[10px] font-retro">CHAOS-X</div>
+            <div className="text-crt-blue/50 text-[9px] font-tech">
+              {speakingAgent === 'agent-b' ? '[TX: ACTIVE...]' : '[STANDBY]'}
+            </div>
+          </div>
         </div>
       </div>
 
       {/* Debate Arena */}
-      <div className="grid grid-cols-1 md:grid-cols-[200px_1fr_200px] gap-4 min-h-[450px]">
+      <div className="grid grid-cols-1 md:grid-cols-[200px_1fr_200px] gap-4 md:min-h-[450px]">
 
-        {/* Robot A - Left */}
-        <div className="flex flex-col items-center gap-3 border-2 border-crt-amber/20 p-4 bg-dark-card/50 rounded-lg">
+        {/* Robot A - Left (hidden on mobile, shown md+) */}
+        <div className="hidden md:flex flex-col items-center gap-3 border-2 border-crt-amber/20 p-4 bg-dark-card/50 rounded-lg">
           <RobotAvatar seed="logic-bot-v1" size={160} color="#ffb000" isSpeaking={speakingAgent === 'agent-a'} />
           <div className="bg-crt-amber text-black text-xs px-3 py-1 font-bold font-retro">LOGIC-01</div>
           <div className="w-full border border-crt-amber/20 p-2 font-tech text-[11px] text-crt-amber/60 space-y-1">
-            <p>{'>'} SKEPTICISM: 98%</p>
-            <p>{'>'} LOGIC CORES: ONLINE</p>
-            <p>{'>'} {speakingAgent === 'agent-a' ? 'TRANSMITTING...' : 'STANDBY'}</p>
+            {mode === 'roast' ? (
+              <>
+                <p>{'>'} [ALLIANCE: RELUCTANT]</p>
+                <p>{'>'} [TARGET: PROPOSAL]</p>
+              </>
+            ) : (
+              <>
+                <p>{'>'} [SKEPTICISM: 98%]</p>
+                <p>{'>'} [LOGIC_CORES: ONLINE]</p>
+              </>
+            )}
+            <p>{'>'} {speakingAgent === 'agent-a' ? '[TX: ACTIVE...]' : '[STATUS: STANDBY]'}</p>
           </div>
         </div>
 
         {/* Chat Stream - internal scroll, no blocking header */}
         <div
           ref={scrollRef}
-          className="crt-scrollbar border border-crt-green/15 bg-dark-bg/90 p-4 flex flex-col gap-4 overflow-y-auto h-[500px] rounded-lg"
+          className="crt-scrollbar border border-crt-green/15 bg-dark-bg/90 p-4 flex flex-col gap-4 overflow-y-auto h-[70vh] md:h-[500px] rounded-lg"
         >
           <AnimatePresence>
             {visibleMessages.map((msg, idx) => (
@@ -281,8 +312,12 @@ export const DebateInterface: React.FC<DebateInterfaceProps> = ({
 
           {/* Debate complete */}
           {!debateActive && messages.length > 0 && (
-            <div className="text-crt-green-soft/40 text-xs mt-4 text-center font-tech">
-              {'>'} DEBATE CONCLUDED. SELECT ANOTHER PROPOSAL.
+            <div className="text-crt-green-soft/40 text-xs mt-4 text-center font-tech space-y-1">
+              <p>{mode === 'roast'
+                ? '> [ROAST_PROTOCOL: COMPLETE] [SANITY_CHECK: FAILED] [PROPOSAL_STATUS: DESTROYED]'
+                : '> [DEBATE_PROTOCOL: COMPLETE] [VERDICT: INCONCLUSIVE] [CYCLES_WASTED: 9999]'
+              }</p>
+              <p>{'>'} SELECT ANOTHER PROPOSAL TO CONTINUE.</p>
             </div>
           )}
 
@@ -298,14 +333,23 @@ export const DebateInterface: React.FC<DebateInterfaceProps> = ({
 
         </div>
 
-        {/* Robot B - Right */}
-        <div className="flex flex-col items-center gap-3 border-2 border-crt-blue/20 p-4 bg-dark-card/50 rounded-lg">
+        {/* Robot B - Right (hidden on mobile, shown md+) */}
+        <div className="hidden md:flex flex-col items-center gap-3 border-2 border-crt-blue/20 p-4 bg-dark-card/50 rounded-lg">
           <RobotAvatar seed="chaos-bot-v9" size={160} color="#00ffff" isSpeaking={speakingAgent === 'agent-b'} />
           <div className="bg-crt-blue text-black text-xs px-3 py-1 font-bold font-retro">CHAOS-X</div>
           <div className="w-full border border-crt-blue/20 p-2 font-tech text-[11px] text-crt-blue/60 space-y-1">
-            <p>{'>'} HUMOR MODULE: ACTIVE</p>
-            <p>{'>'} MOCKERY: ENGAGED</p>
-            <p>{'>'} {speakingAgent === 'agent-b' ? 'TRANSMITTING...' : 'STANDBY'}</p>
+            {mode === 'roast' ? (
+              <>
+                <p>{'>'} [ALLIANCE: LOVING_IT]</p>
+                <p>{'>'} [ROAST_LVL: MAXIMUM]</p>
+              </>
+            ) : (
+              <>
+                <p>{'>'} [HUMOR_MODULE: ACTIVE]</p>
+                <p>{'>'} [MOCKERY: ENGAGED]</p>
+              </>
+            )}
+            <p>{'>'} {speakingAgent === 'agent-b' ? '[TX: ACTIVE...]' : '[STATUS: STANDBY]'}</p>
           </div>
         </div>
       </div>
