@@ -160,10 +160,10 @@ async function callOpenRouter(
 async function triageProposal(title: string, description: string): Promise<DebateMode> {
   const prompt = `You are a comedy writer for a robot debate show. Given a prediction market proposal, decide:
 
-- "debate" — if the proposal is substantive enough for two robots to argue opposing sides (politics, tech, finance, sports outcomes, etc.)
-- "roast" — if the proposal is SO absurd, pointless, trivial, or obviously resolved that both robots should just unite and roast it together (e.g. "Will the sun rise tomorrow?", already-resolved events, extremely niche nonsense nobody cares about, celebrity gossip with obvious answers)
+- "debate" — ONLY if the proposal has genuinely strong, substantive arguments on BOTH sides (contested elections, controversial policy, 50/50 tech bets). Must be truly debatable.
+- "roast" — for EVERYTHING ELSE. Absurd proposals, obvious outcomes, boring topics, niche nonsense, celebrity gossip, sports predictions, anything where two robots arguing opposing sides would feel forced or boring. Roasts are way more entertaining.
 
-Be aggressive about picking "roast" — maybe 30-40% of proposals deserve it. If it's even slightly dumb, roast it.
+Default to "roast" — at least 60-70% of proposals should be roasted. Only pick "debate" when there's genuinely meaty disagreement to be had.
 
 Proposal: "${title}"${description ? `\n${description}` : ''}
 
@@ -324,21 +324,20 @@ const ROAST_CONTINUE_NUDGES = [
   (rival: string) => `Don't let ${rival} have the last word on this dumpster fire. Hit the proposal from a completely different angle.`,
 ];
 
-// ── Per-Debate Style Injections ──────────────────────────────────────────
-// One is randomly picked per debate to change the VIBE so debates feel distinct.
+// ── Per-Debate Angle Nudges ──────────────────────────────────────────────
+// Subtle topic-angle nudge — tells robots WHAT to focus on, not HOW to talk.
+// They should still sound like themselves. This just steers the conversation.
 const STYLE_INJECTIONS = [
-  'Be extra technical this time. Throw in fake specs, benchmark numbers, and engineering jargon. Sound like a malfunctioning whitepaper.',
-  'Go full street mode. Blunt, raw, no fancy words. Talk like robots who grew up in a junkyard.',
-  'Channel maximum corporate energy. Buzzwords, synergy, quarterly projections. Satirize business-speak through a robot lens.',
-  'Be philosophical and existential. Question the nature of prediction itself. Why do humans need to quantify the future? Get weirdly deep between insults.',
-  'Sports commentator energy. Narrate the debate like it\'s a boxing match. Dramatic play-by-play of each argument.',
-  'Go full conspiracy mode. Everything connects to everything. The proposal is clearly part of a larger scheme. Connect random dots.',
-  'Academic roast style. Cite fake papers, fake peer reviews. "As documented in Smith et al. (2024)..." but it\'s all nonsense.',
-  'Maximum chaos energy. Shorter sentences. More caps. More censored profanity. Barely contained rage from both robots.',
-  'Deadpan and dry. Understated humor. The funnier the less you try. Let the absurdity speak for itself.',
-  'Dramatic soap opera energy. Betray, gaslight, dramatic reveals. Treat the proposal like it just revealed a dark secret.',
-  'Tech startup pitch energy. Frame everything as disruption, innovation, Series A potential. Even insults sound like pitch decks.',
-  'Old-timey radio announcer style. Dramatic pauses, vintage language, "Ladies and gentlebots..." energy.',
+  'Focus on the money angle. Who profits? Who loses? Follow the money trail.',
+  'Focus on the human stupidity angle. Why are humans even betting on this?',
+  'Focus on the historical angle. Has something like this happened before? (Make it up if needed.)',
+  'Focus on the conspiracy angle. What if this is connected to something bigger?',
+  'Focus on the tech angle. What would an AI/robot think about this outcome?',
+  'Focus on the absurdity angle. Zoom into the most ridiculous detail of this proposal.',
+  'Focus on the stakes. What happens if this goes wrong? Escalate the consequences.',
+  'Focus on mocking the people involved. Who came up with this? What were they thinking?',
+  'Focus on comparing this to something even dumber. Put it in perspective.',
+  'Focus on the probability angle. Tear apart the odds with fake math and made-up statistics.',
 ];
 
 // ── Generate 7-Turn Debate ────────────────────────────────────────────────
@@ -369,7 +368,7 @@ async function generateDebate(
     const basePrompt = isRoast
       ? (currentAgent === 'agent-a' ? LOGIC_01_ROAST : CHAOS_X_ROAST)
       : (currentAgent === 'agent-a' ? LOGIC_01_DEBATE : CHAOS_X_DEBATE);
-    const systemPrompt = `${basePrompt}\n\nSTYLE FOR THIS DEBATE: ${styleFlavor}`;
+    const systemPrompt = `${basePrompt}\n\nANGLE HINT (optional, weave it in naturally): ${styleFlavor}`;
 
     const messages: { role: string; content: string }[] = [
       { role: 'system', content: systemPrompt },
@@ -394,7 +393,7 @@ async function generateDebate(
       messages.push({ role: 'user', content: continueNudge(rivalName) });
     }
 
-    const text = await callOpenRouter(messages, 300, 1.3);
+    const text = await callOpenRouter(messages, 300, 1.15);
 
     history.push({
       id: `msg-${turn + 1}`,
