@@ -39,16 +39,34 @@ interface DebateInterfaceProps {
 // Track which debates the user has already seen this session
 const seenDebates = new Set<string>();
 
-// Auto-scroll within the chat container only (not the page)
+// Smart auto-scroll: scrolls to bottom only if user is already near the bottom.
+// If user scrolled up to read, auto-scroll pauses. Resumes when they scroll back down.
 const useContainerScroll = (scrollRef: React.RefObject<HTMLDivElement | null>) => {
+  const isNearBottom = useRef(true);
+
   useEffect(() => {
     const container = scrollRef.current;
     if (!container) return;
+
+    // Track whether user is near the bottom (within 150px threshold)
+    const handleScroll = () => {
+      const { scrollTop, scrollHeight, clientHeight } = container;
+      isNearBottom.current = scrollHeight - scrollTop - clientHeight < 150;
+    };
+
+    // Only auto-scroll if user hasn't scrolled up
     const observer = new MutationObserver(() => {
-      container.scrollTo({ top: container.scrollHeight, behavior: 'smooth' });
+      if (isNearBottom.current) {
+        container.scrollTo({ top: container.scrollHeight, behavior: 'smooth' });
+      }
     });
+
+    container.addEventListener('scroll', handleScroll, { passive: true });
     observer.observe(container, { childList: true, subtree: true, characterData: true });
-    return () => observer.disconnect();
+    return () => {
+      container.removeEventListener('scroll', handleScroll);
+      observer.disconnect();
+    };
   }, [scrollRef]);
 };
 
