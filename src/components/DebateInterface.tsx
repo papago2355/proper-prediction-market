@@ -107,7 +107,7 @@ const TypewriterMessage: React.FC<{
         {isAgentA ? 'LOGIC-01' : 'CHAOS-X'}
       </div>
       <div className={clsx(
-        'p-3 border-2 text-sm md:text-base font-terminal leading-relaxed',
+        'p-3 border-2 text-base md:text-lg font-terminal leading-relaxed',
         isAgentA
           ? 'border-crt-amber/60 text-crt-amber bg-crt-amber/5 rounded-tr-xl rounded-bl-xl rounded-br-xl'
           : 'border-crt-blue/60 text-crt-blue bg-crt-blue/5 rounded-tl-xl rounded-bl-xl rounded-br-xl'
