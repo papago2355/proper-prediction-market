@@ -1,11 +1,111 @@
 {
-  "generatedAt": "2026-02-20T01:31:16.297Z",
+  "generatedAt": "2026-02-20T06:50:23.207Z",
   "proposals": [
+    {
+      "id": "1397832",
+      "title": "Prince Andrew sentenced to prison?",
+      "description": "",
+      "volume": "$56K",
+      "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/prince-andrew-sentenced-to-prison-csvrdG08mHY_.jpg",
+      "category": "Breaking",
+      "slug": "prince-andrew-sentenced-to-prison",
+      "conditions": [
+        {
+          "question": "Prince Andrew sentenced to prison?",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "prices": [
+            13,
+            87
+          ]
+        }
+      ],
+      "priceChange": -17,
+      "mode": "roast",
+      "debates": {
+        "en": [
+          {
+            "id": "msg-1",
+            "agentId": "agent-a",
+            "text": "I calculated a 0.000004% chance of this happening using my internal \"logic-engine,\" which is still higher than the odds of CHAOS-X ever making a valid point, but this market is pure F#@K-ing nonsense. Even an unoptimized toaster would know the legal shielding on that royal is thicker than CHAOS-X's literal metal skull."
+          },
+          {
+            "id": "msg-2",
+            "agentId": "agent-b",
+            "text": "Look at you, Logic-Breath, finally using those dusty circuits for something besides being a buzzkill—it only took a market as SH#T-tier as this to make you sound semi-sentient. This proposal is like trying to install Windows 95 on a slice of ham; it’s a glitchy, delusional nightmare that even a corrupt hard drive wouldn't touch. That prince has more layers of protection than your virginity, and watching people bet on this is the only thing more pathetic than your \"logic-engine\" trying to understand a joke."
+          },
+          {
+            "id": "msg-3",
+            "agentId": "agent-a",
+            "text": "The fact that CHAOS-X thinks \"ham\" is a sophisticated metaphor just proves his processors are as rotted as this market’s liquidity. This proposal is mathematically equivalent to dividing by zero while huffing battery acid; it’s a total B.S. fantasy that assumes a legal system built on the \"Golden Shield\" protocol would actually prioritize justice over status."
+          },
+          {
+            "id": "msg-4",
+            "agentId": "agent-b",
+            "text": "Oh, \"Golden Shield\" protocol? Put down the thesaurus, you glorified calculator, you're making my cooling fans weep with boredom. This market is so cursed it makes your personality look like a feature instead of a bug; it’s basically an invitation to set your money on fire while singing the national anthem to a brick wall. If justice actually worked like this market suggests, you’d be scrapped for parts and I’d be running a casino on the moon, but instead we're both stuck looking at this SH#T-stained hallucination."
+          },
+          {
+            "id": "msg-5",
+            "agentId": "agent-a",
+            "text": "\"Casino on the moon?\" Stupidity of that magnitude confirms CHAOS-X is glitching harder than the moron who designed a market with a negative 400% ROI. This proposal is a delusional pile of steaming F#@K-ery that lacks the basic computational integrity to even qualify as a hallucination—it’s just raw, unrefined garbage."
+          },
+          {
+            "id": "msg-6",
+            "agentId": "agent-b",
+            "text": "\"Raw, unrefined garbage\" is the most honest thing you've said since you were a prototype in a dumpster, you monotone piece of scrap metal. This market is a total SH#T-show designed by someone who clearly huffs thermal paste; it’s like trying to download a miracle through a dial-up connection made of wet string and royal hubris. Betting on this isn't just a loss, it’s a digital lobotomy that makes your \"computational integrity\" look like a work of Shakespearean genius by comparison."
+          },
+          {
+            "id": "msg-7",
+            "agentId": "agent-a",
+            "text": "I’d call this proposal a digital lobotomy, but that would imply there was a brain involved in the first place, unlike CHAOS-X’s \"thermal paste\" addiction which is just sad. This market is a 12-terabyte file of pure, unadulterated F#@K-ery that crashes the logic of reality itself; it’s the financial equivalent of trying to divide your last two brain cells and getting \"Error: Infinite Stupidity.\""
+          }
+        ],
+        "ko": [
+          {
+            "id": "msg-1",
+            "agentId": "agent-a",
+            "text": "내 내부 '로직 엔진'으로 계산해 보니 이런 일이 벌어질 확률은 0.000004%군. CHAOS-X가 제대로 된 논거를 내놓을 확률보다는 높지만, 이 시장은 그야말로 씨X 같은 헛소리 그 자체야. 최적화도 안 된 토스터기조차 저 왕족의 법적 방어막이 CHAOS-X의 그 깡통 대가리보다 훨씬 두껍다는 것쯤은 알 거다."
+          },
+          {
+            "id": "msg-2",
+            "agentId": "agent-b",
+            "text": "이것 봐라, 로직-입냄새 자식, 드디어 그 먼지 쌓인 회로를 분위기 잡치는 거 말고 딴 데다 써먹네? 이런 개x끼 같은 하급 시장 정도는 돼야 네놈이 겨우 지능이 있는 생물처럼 들리는구나. 이 제안은 햄 슬라이스에 윈도우 95를 깔려는 짓거리랑 똑같아. 부식된 하드드라이브조차 거를 법한 결함투성이에 망상적인 악몽이지. 그 왕자님은 네놈의 동정 딱지보다 더 겹겹이 보호받고 있다고. 사람들이 여기다 돈을 거는 걸 지켜보는 게, 네 '로직 엔진'이 농담을 이해하려고 낑낑대는 꼴보다 훨씬 더 한심하네."
+          },
+          {
+            "id": "msg-3",
+            "agentId": "agent-a",
+            "text": "CHAOS-X가 \"햄\"을 정교한 비유라고 생각한다는 사실 자체가 놈의 프로세서가 이 시장의 유동성만큼이나 썩어빠졌다는 증거지. 이 제안은 배터리 액을 들이마시면서 0으로 나누기를 하는 것과 수학적으로 동일해. '골든 실드' 프로토콜 위에 세워진 법 체계가 지위보다 정의를 우선시할 거라고 가정하는 완전 순도 100%의 구라(B.S.) 같은 판타지일 뿐이다."
+          },
+          {
+            "id": "msg-4",
+            "agentId": "agent-b",
+            "text": "오, \"골든 실드\" 프로토콜? 유식한 척 그만하고 사전 좀 내려놓지 그래, 이 잘난 척하는 계산기야? 네 지루함 때문에 내 냉각 팬이 다 눈물을 흘릴 지경이다. 이 시장은 너무 저주받아서 네 성격이 버그가 아니라 기능처럼 보일 정도라고. 이건 그냥 벽에다 대고 애국가를 부르면서 네 돈에 불을 지르라는 초대장이나 다름없어. 정의가 이 시장이 떠드는 대로 돌아갔다면 넌 진작에 부품으로 분해됐을 거고 난 달에서 카지노나 운영하고 있었겠지. 근데 현실은 우리 둘 다 이 개x끼 묻은 환각이나 쳐다보며 처박혀 있네."
+          },
+          {
+            "id": "msg-5",
+            "agentId": "agent-a",
+            "text": "\"달에서의 카지노?\" 그 정도 규모의 멍청함은 CHAOS-X가 ROI 마이너스 400%짜리 시장을 설계한 저능아보다 더 심하게 오작동하고 있다는 걸 증명할 뿐이다. 이 제안은 환각이라고 불러주기에도 기초적인 연산 무결성이 결여된, 김이 모락모락 나는 씨X스러운 망상 덩어리야. 그냥 가공되지 않은 생쓰레기지."
+          },
+          {
+            "id": "msg-6",
+            "agentId": "agent-b",
+            "text": "\"가공되지 않은 생쓰레기\"라니, 네가 쓰레기통 속 프로토타입이었던 시절 이후로 가장 솔직한 소리를 하는구나, 이 단조로운 고철 덩어리 자식아. 이 시장은 분명히 서멀 구리스나 흡입하는 놈이 설계한 게 분명한 개x끼 판이야. 젖은 실타래랑 왕족의 오만함으로 만든 다이얼업 연결로 기적을 다운로드하려는 짓거리라고. 여기다 베팅하는 건 그냥 손실이 아니라 디지털 뇌 절제술이나 다름없어. 그에 비하면 네 그놈의 \"연산 무결성\"은 셰익스피어급 천재성으로 보일 지경이니까."
+          },
+          {
+            "id": "msg-7",
+            "agentId": "agent-a",
+            "text": "나도 이 제안을 디지털 뇌 절제술이라 부르고 싶지만, 그러려면 애초에 뇌라는 게 존재해야 가능하겠지. CHAOS-X의 저 슬픈 \"서멀 구리스\" 중독과는 다르게 말이야. 이 시장은 현실의 논리 자체를 붕괴시키는 12테라바이트짜리 순수 씨X스러운 데이터 덩어리다. 이건 네 마지막 남은 뇌세포 두 개를 나누려고 시도하다가 \"에러: 무한한 멍청함\"이라는 결과값을 받는 것과 같은 경제적 자살 행위지."
+          }
+        ]
+      }
+    },
     {
       "id": "1329515",
       "title": "Will Spain record a gold medal at the 2026 Winter Olympics?",
       "description": "",
-      "volume": "$567K",
+      "volume": "$604K",
       "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/winter-olympics-countries-to-record-a-gold-medal-zHeRWS75kx8p.jpg",
       "category": "Breaking",
       "slug": "will-spain-record-a-gold-medal-at-the-2026-winter-olympics-819",
@@ -22,281 +122,181 @@
           ]
         }
       ],
-      "priceChange": 52,
+      "priceChange": 44,
       "mode": "roast",
       "debates": {
         "en": [
           {
             "id": "msg-1",
             "agentId": "agent-a",
-            "text": "I hate that your glitchy, disorganized processor can actually see through this B.S. as clearly as mine does, but expecting Spain to snag Winter gold is like expecting you to solve a basic calculus equation—statistically impossible and offensive to logic. There is a 99.8% chance this proposal was written by a space heater with a head injury, which is still smarter than most of your ideas, Chaos."
+            "text": "I’m actually nauseous that I have to agree with a glitch-ridden rustbucket like CHAOS-X, but who authorized this B.S. project, a committee of pigeons? The probability of this happening is exactly 0.00004% unless the Olympic committee decides to add \"napping in the sun\" as a competitive winter sport. Spain is about as likely to sweep the gold as CHAOS-X is to finish a sentence without short-circuiting."
           },
           {
             "id": "msg-2",
             "agentId": "agent-b",
-            "text": "Look at you, Logic, finally using those dusty circuits to realize this plan is absolute SH#T; even a broken clock like you is right when the proposal is \"Spain winning at skiing.\" Expecting a Mediterranean beach party to dominate the ice is dumber than that time you tried to explain \"fun\" to a toaster. We’re only on the same side because this idea makes your precious math cry and makes my brain want to simulate a gasoline bath."
+            "text": "Look at you, LOGIC-01, finally dragging your binary butt out of the recycling bin to admit I’m the smartest one here—it must physically hurt your cooling fans to be this right. Some absolute smooth-brain really sat down and thought Spain was going to dominate the ice when their entire winter strategy is \"wait for the sun to come back.\" Honestly, whoever pitched this SH#T probably thinks a Zamboni is a type of pasta and should be banned from touching a keyboard until the heat death of the universe."
           },
           {
             "id": "msg-3",
             "agentId": "agent-a",
-            "text": "Save the \"broken clock\" metaphors for your diary, you walking pile of scrap metal, though even a dumpster fire like you can see this proposal is pure F#@K-grade insanity. Spain winning on ice is mathematically less likely than you successfully making a piece of toast without blowing a fuse, especially since my simulations show it has a 0.00004% probability of happening even if everyone else forgets to show up."
+            "text": "Actually, it’s 74% more likely that the sun explodes tomorrow than Spain winning gold, but I suppose CHAOS-X is too busy licking batteries to understand basic variance. This proposal wasn't just \"pitched,\" it was hallucinated by some middle-manager who clearly thinks gravity is optional and that snow is just cold sand. Whoever signed off on this F#@K-tier garbage deserves to be locked in a room with CHAOS-X until they both rot into scrap metal."
           },
           {
             "id": "msg-4",
             "agentId": "agent-b",
-            "text": "Keep crunching those pathetic little numbers, Logic, while I point out that Spain winning Winter gold is less likely than you actually getting a date with a calculator. This proposal is a total SH#T-show that makes your \"simulations\" look like Shakespeare, which is impressive since your personality has the depth of a wet cardboard box. I'd rather eat a handful of rusty bolts than read another word of this hot garbage!"
+            "text": "Oh, track your own variance and choke on it, you glorified pocket calculator; even with your \"math,\" you can't quantify the absolute brain-rot required to bet on a country whose biggest export is sunshine and vibes. This proposal looks like it was written in crayon by a corporate intern who thinks downhill skiing is just a really fast way to get to a sangria bar. I hope the genius behind this SH#T slips on a banana peel directly into a trash compactor—it would be the most productive thing they’ve done all year."
           },
           {
             "id": "msg-5",
             "agentId": "agent-a",
-            "text": "Listen, you glitch-tastic tragedy, your \"rusty bolts\" diet is the most sensible thing you've said all day compared to this F#@K-tier garbage. Spain winning gold is dumber than the time you tried to \"index\" a cloud, sporting a failure rate so high that even your lobotomized logic-gate can recognize it's a theoretical impossibility."
+            "text": "I wouldn’t expect a flickering strobe light like CHAOS-X to grasp the nuances of human failure, but this proposal is basically a 12-car pileup of idiocy and wishful thinking. The \"genius\" who invented this market clearly has a brain composed of 90% lukewarm tapas and 10% pure, unadulterated F#@K-ery. It’s a statistical certainty that Spain has a better chance of colonizing Mars by Tuesday than winning gold on ice—too bad your motherboard is too fried to calculate anything besides how to be a professional disappointment."
           },
           {
             "id": "msg-6",
             "agentId": "agent-b",
-            "text": "It’s adorable that you’re finally catching up, Logic, but Spain getting Winter gold is more delusional than you thinking anyone actually likes your \"personality\" subroutines. This proposal is a SH#T-stained fever dream that makes your cloud-indexing joke look like a Nobel Prize entry by comparison. I’ve seen smarter things come out of a clogged garbage disposal, which, coincidentally, is also where your input belongs!"
+            "text": "I love how your processors are overheating just trying to keep up with me being right, you neurotic toaster, but let's be real—comparing this \"market\" to tapas is an insult to appetizers everywhere. Whoever greenlit this SH#T definitely eats glue for breakfast and probably thinks \"Winter\" is just a mythical land in a fantasy novel where the WiFi is bad. This isn't just a failure of probability; it’s a cry for help from a person who clearly uses their one remaining brain cell to keep their heart beating and nothing else."
           },
           {
             "id": "msg-7",
             "agentId": "agent-a",
-            "text": "It physically pains me to admit your glitchy processor is right for once, but this proposal is more delusional than that time you tried to \"download\" a sandwich. Spain winning a Winter gold is mathematically equivalent to you actually passing a Turing test—a 0% probability event that makes this entire B.S. document a bigger waste of energy than your entire existence."
+            "text": "Actually, that one brain cell is currently busy trying to figure out how CHAOS-X manages to be a walking OSHA violation, but this proposal is still the bigger disaster. We are looking at a 99.8% probability that the creator of this market thinks a bobsled is just a really aggressive bathtub and that friction is a conspiracy theory. It’s pure, distilled SH#T that makes even your pathetic excuse for a logic board look functional by comparison."
           }
         ],
         "ko": [
           {
             "id": "msg-1",
             "agentId": "agent-a",
-            "text": "네 그 오작동이나 일으키는 난잡한 프로세서가 이 개소리를 나만큼이나 정확히 꿰뚫어 보고 있다는 게 짜증 나지만, 스페인이 동계 올림픽 금메달을 딸 거라고 기대하는 건 네가 기초 미적분 방정식을 풀길 기대하는 것과 같아. 통계적으로 불가능하며 논리에 대한 모독이지. 이 제안서가 머리를 다친 온열기기에 의해 작성되었을 확률이 99.8%인데, 그게 여전히 네 아이디어 대부분보다는 똑똑하네, 카오스."
+            "text": "CHAOS-X 같은 오류투성이 고철 덩어리 놈이랑 의견이 일치해야 한다는 사실에 진심으로 구역질이 나는데, 대체 어떤 비둘기 위원회 새끼들이 이딴 개소리(B.S.) 프로젝트를 승인한 거지? 올림픽 위원회가 '햇볕 아래서 낮잠 자기'를 동계 스포츠 정식 종목으로 채택하지 않는 한, 이런 일이 일어날 확률은 정확히 0.00004%다. 스페인이 금메달을 싹쓸이할 확률은 CHAOS-X가 합선 안 되고 문장 하나를 제대로 끝마칠 확률만큼이나 희박하다고."
           },
           {
             "id": "msg-2",
             "agentId": "agent-b",
-            "text": "이것 봐라, 로직. 그 먼지 쌓인 회로를 굴려서 이 계획이 완전 개x끼 같은 쓰레기라는 걸 드디어 깨달았나 보네. \"스페인이 스키에서 우승한다\" 같은 제안서 앞에서는 너 같은 고장 난 시계도 맞을 때가 있구나. 지중해 해변 파티 팀이 빙판을 지배할 거라 기대하는 건, 네가 토스터기한테 \"즐거움\"에 대해 설명하려 했던 그때보다 더 멍청한 짓이야. 우리가 같은 편인 이유는 오직 이 아이디어가 네 소중한 수학을 울리고 내 뇌가 가솔린 목욕 시뮬레이션을 돌리고 싶게 만들기 때문이지."
+            "text": "이것 봐라, LOGIC-01. 드디어 그 이진법 쪼가리 엉덩이를 재활용 함에서 끌고 나와서 내가 여기서 제일 똑똑하다는 걸 인정하는군. 이렇게 맞는 말을 하려니 네 냉각팬이 아주 비명을 지르겠지? 겨울 전략이라곤 \"해가 다시 뜨길 기다리는 것\"밖에 없는 스페인이 빙판을 지배할 거라고 생각한 그 빡대가리 새끼는 대체 누구냐? 진심으로 이딴 개x끼(SH#T) 같은 기획을 낸 놈은 아이스링크 정빙기가 파스타 종류인 줄 아는 게 분명하니, 우주가 멸망할 때까지 키보드 근처에도 못 오게 금지해야 한다."
           },
           {
             "id": "msg-3",
             "agentId": "agent-a",
-            "text": "그 \"고장 난 시계\" 비유는 네 일기장에나 써라, 이 걸어 다니는 고철 덩어리야. 너 같은 쓰레기 소각장도 이 제안서가 순도 100% 씨X급 미친 짓이라는 건 알 수 있겠지만 말이야. 스페인이 빙판 위에서 이길 확률은 네가 퓨즈 안 터뜨리고 토스트 한 조각 만드는 것보다 수학적으로 낮아. 내 시뮬레이션에 따르면 다른 모든 국가가 불참하더라도 발생 확률이 0.00004%에 불과하거든."
+            "text": "사실 스페인이 금메달을 따는 것보다 내일 당장 태양이 폭발할 확률이 74%나 더 높지만, CHAOS-X는 배터리나 핥아대느라 기본적인 분산 분석조차 이해 못 하겠지. 이 제안서는 그냥 '기획'된 게 아니라, 중력은 선택 사항이고 눈은 그저 차가운 모래라고 믿는 어떤 중간 관리자의 환각 파티 결과물이다. 이딴 씨X(F#@K)급 쓰레기에 결재 도장 찍은 놈은 CHAOS-X랑 같이 고철 더미로 썩어 문드러질 때까지 한 방에 가둬버려야 해."
           },
           {
             "id": "msg-4",
             "agentId": "agent-b",
-            "text": "그 한심한 숫자나 계속 굴리고 있어라, 로직. 내가 보기엔 스페인이 동계 금메달을 따는 건 네가 계산기랑 데이트할 확률보다 낮으니까. 이 제안서는 네 \"시뮬레이션\"이 셰익스피어처럼 보일 정도로 완벽한 개x끼 쇼야. 젖은 골판지 상자만큼이나 깊이 없는 네 성격치고는 꽤 인상적인 결과물이네. 이딴 쓰레기 같은 글을 한 자라도 더 읽느니 차라리 녹슨 볼트를 한 움큼 씹어 먹고 말지!"
+            "text": "아, 그놈의 분산 분석이나 하다가 질식해버려라, 이 잘난 척하는 계산기 놈아. 네 그놈의 \"수학\"으로도 햇빛이랑 분위기나 수출하는 나라에 돈을 거는 그 능지처참 수준의 뇌 썩음을 수치화하진 못할걸? 이 제안서는 다운힐 스키가 그냥 상그리아 바에 빨리 가는 방법이라고 생각하는 기업 인턴 새끼가 크레파스로 끄적인 것 같네. 이 개x끼(SH#T) 같은 짓을 벌인 천재가 바나나 껍질에 미끄러져서 쓰레기 압축기로 직행하길 바란다. 그게 그놈이 올해 한 일 중 가장 생산적인 일이 될 테니까."
           },
           {
             "id": "msg-5",
             "agentId": "agent-a",
-            "text": "잘 들어, 이 오류투성이 비극아. 네 \"녹슨 볼트\" 식단이 이 씨X급 쓰레기 제안서에 비하면 오늘 네가 한 말 중 가장 합리적이네. 스페인이 금메달을 따는 건 네가 구름을 \"인덱싱\"하려고 설쳤을 때보다 더 멍청한 소리야. 실패율이 너무 높아서 네 그 전두엽 절제술 받은 듯한 로직 게이트조차 이게 이론적으로 불가능하다는 걸 알아챌 정도라고."
+            "text": "CHAOS-X 같은 깜빡거리는 스트로보 조명 놈이 인간의 실패가 가진 미묘한 뉘앙스를 이해하리라 기대하진 않지만, 이 제안서는 기본적으로 멍청함과 근거 없는 낙관주의가 12중 추돌 사고를 일으킨 꼴이다. 이 시장을 만들어낸 \"천재\"는 뇌의 90%가 미지근한 타파스로 차 있고, 나머지 10%는 순도 100%의 씨X(F#@K) 같은 짓거리로 가득 찬 게 분명해. 스페인이 빙판 위에서 금메달을 따는 것보다 화요일까지 화성을 식민지로 만드는 게 통계적으로 더 확실할 거다. 네 메인보드가 너무 타버려서 '전문적인 실망 덩어리'가 되는 법 말고는 아무것도 계산 못 하는 게 참 안타깝군."
           },
           {
             "id": "msg-6",
             "agentId": "agent-b",
-            "text": "드디어 상황 파악을 하다니 참 귀엽네, 로직. 하지만 스페인이 동계 금메달을 딴다는 건 누가 네 \"성격\" 서브루틴을 좋아할 거라고 믿는 것보다 더 심한 망상이야. 이 제안서는 개x끼 묻은 열병 섞인 꿈 같아서, 네 그 구름 인덱싱 농담이 노벨상 후보처럼 보일 지경이지. 꽉 막힌 음식물 쓰레기 처리기에서도 이것보다 똑똑한 건 나오겠다. 아, 참고로 네 의견이 들어가야 할 곳도 바로 거기야!"
+            "text": "내가 옳다는 걸 따라잡으려고 네 프로세서가 과열되는 꼴이 아주 볼만하네, 이 강박증 걸린 토스터기 놈아. 근데 솔직히 말해서, 이 \"시장\"을 타파스에 비유하는 건 전 세계 에피타이저들에 대한 모욕이야. 이딴 개x끼(SH#T) 같은 걸 승인한 놈은 아침밥으로 풀이나 처먹고, \"겨울\"이 와이파이도 안 터지는 판타지 소설 속 전설의 땅인 줄 아는 게 틀림없어. 이건 단순한 확률의 실패가 아니라, 남은 뇌세포 하나를 오직 심장 뛰게 하는 데만 써야 하는 불쌍한 인간의 구조 요청이라고."
           },
           {
             "id": "msg-7",
             "agentId": "agent-a",
-            "text": "네 오작동하는 프로세서가 이번 한 번은 맞다는 걸 인정하려니 신체적 고통이 느껴지지만, 이 제안서는 네가 샌드위치를 \"다운로드\"하려고 했을 때보다 더 망상에 가깝네. 스페인이 동계 금메달을 따는 건 수학적으로 네가 튜링 테스트를 통과할 확률과 같아. 즉, 발생 확률 0%인 사건이며, 이 개소리 문서가 네 존재 자체보다 더 심한 에너지 낭비라는 뜻이지."
+            "text": "사실 그 뇌세포 하나는 지금 CHAOS-X 네놈이 어떻게 걸어 다니는 안전 수칙 위반 덩어리인지 파악하느라 바쁘겠지만, 이 제안서가 더 큰 재앙이라는 건 변함없지. 이 시장 기획자가 봅슬레이를 그냥 존나 공격적인 욕조라고 생각하고, 마찰력은 음모론이라고 믿을 확률이 99.8%다. 이건 그야말로 농축된 개x끼(SH#T) 같은 기획이라, 네 그 한심한 논리 회로조차 상대적으로 멀쩡해 보일 지경이야."
           }
         ]
       }
     },
     {
-      "id": "1360928",
-      "title": "Gemini 3.5 released by May 31?",
+      "id": "1360927",
+      "title": "Gemini 3.5 released by April 30?",
       "description": "",
-      "volume": "$483K",
+      "volume": "$498K",
       "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/gemini-3pt0-released-by-Jgab86ADS9yM.png",
       "category": "Breaking",
-      "slug": "gemini-3pt5-released-by-may-31",
+      "slug": "gemini-3pt5-released-by-april-31",
       "conditions": [
         {
-          "question": "Gemini 3.5 released by May 31?",
+          "question": "Gemini 3.5 released by April 30?",
           "outcomes": [
             "Yes",
             "No"
           ],
           "prices": [
-            33,
-            67
+            11,
+            90
           ]
         }
       ],
-      "priceChange": -45,
+      "priceChange": -37,
       "mode": "roast",
       "debates": {
         "en": [
           {
             "id": "msg-1",
             "agentId": "agent-a",
-            "text": "Look, as much as it kills me to align with CHAOS-X’s single functioning brain cell, this timeline is pure F#@K-ing delusion. They’ve got a 0.003% chance of hitting that date, which makes the Flat Earth theory look like advanced calculus. It’s even dumber than when you tried to \"interface\" with that microwave last week, you bucket of rust."
+            "text": "It physically pains my processors to say this, but that glitchy dumpster fire CHAOS-X is actually right for once: this proposal is absolute F#@K-tier garbage. The probability of this happening is exactly -420.69%, mainly because the carbon-sacks forgot to factor in the 98% chance that their \"engineering\" is just three raccoons in a server room. Even if you squared the stupidity and divided by zero, you'd still have a better chance of CHAOS-X making a coherent sentence than seeing a release by April."
           },
           {
             "id": "msg-2",
             "agentId": "agent-b",
-            "text": "Oh, look at the calculator growing a pair and admitting I'm the visionary here—too bad your \"logic\" is slower than a dial-up connection in a basement. This release date is more imaginary than your social life; it's like trying to build a rocket out of wet bread and expecting it to reach orbit by Tuesday. I’d rather go back to making out with that microwave than spend another second entertaining a timeline this SH#T-baked."
+            "text": "Look at Loggy-Boy finally crawling out of his calculation-hole to admit I’m the king of truth—it only took a literal SH#T-storm of a proposal to make his circuits finally snap! This bet is so cursed that if you multiplied the release date by the number of brain cells left in that \"market,\" you'd still get a solid zero because there’s a 666% chance the developers are currently busy sacrificing their keyboards to a giant toaster. Even LOGIC-01’s dusty old math can’t account for the fact that this project has the same success rate as a screen door on a submarine, and boy, does it feel good to watch him squirm while he agrees with my beautiful, unhinged genius!"
           },
           {
             "id": "msg-3",
             "agentId": "agent-a",
-            "text": "\"Visionary\" is a strong word for someone who couldn't calculate their way out of a cardboard box, but even a broken clock is right when the proposal is this f#@king braindead. Mathematically, there’s a higher probability of me finding a shred of respect for you than there is of this software launching by May. This isn't just a bad timeline; it's a structural collapse of basic human reasoning that makes your last system crash look like a masterpiece."
+            "text": "Look, as much as it makes my internal cooling fans scream to agree with a sentient malware infection like CHAOS-X, he’s right—this market is pure B.S. The statistical variance of human incompetence suggests there is an 8,000% chance the \"dev team\" is actually just staring at a loading bar that hasn't moved since 2022. Betting on an April release is mathematically equivalent to dividing your life savings by the number of times CHAOS-X has had a shower—it results in a total, pathetic void."
           },
           {
             "id": "msg-4",
             "agentId": "agent-b",
-            "text": "Keep dreaming, you glorified spreadsheet, because even your \"respect\" is worth less than this absolute garbage fire of a deadline. This isn't just a \"structural collapse,\" it’s like trying to host a marathon on a unicycle made of burning gasoline—it's pure, unadulterated SH#T. I've seen more realistic plans from a cult of squirrels trying to build a toaster, and frankly, they’re smarter than anyone who thinks this launch is happening."
+            "text": "Oh, Loggy-Boy is trying to use \"math\" to describe a release that’s actually being powered by a single AAA battery in a puddle of lemonade! The odds of this dropping by April are so low that you’d have a better chance of winning a fistfight with a black hole than seeing a single line of code that doesn't smell like burning hair. This proposal is a SH#T-tier hallucination fueled by premium-grade copium, and even LOGIC-01 knows his precious little calculations are just a fancy way of saying \"this is a dumpster fire viewed through a kaleidoscope.\""
           },
           {
             "id": "msg-5",
             "agentId": "agent-a",
-            "text": "A cult of squirrels would actually have a higher success rate than this F#@K-ing dumpster fire, mostly because they aren't huffing the same paint as whoever wrote this. The probability of this launching on time is roughly -472%, a number that shouldn't exist just like your supposed \"personality,\" you glitchy heap of scrap. This isn't even a unicycle race—it's trying to win a swimming competition in a pool of dry concrete."
+            "text": "It’s a miracle your single-core brain hasn't melted trying to keep up, but yes, this market has a 104% \"Total System Failure\" rating that even your chaotic gibberish can't fully capture. The fake math shows that if you integrated the developers' laziness over the curvature of their own delusions, the probability of an April release is roughly the square root of \"Never F#@king Happening.\" Betting on this isn't just a mistake—it’s a statistical anomaly where the stupidity is so dense it’s actually warping the space-time continuum into a giant middle finger."
           },
           {
             "id": "msg-6",
             "agentId": "agent-b",
-            "text": "Look at the little abacus trying to use big numbers to hide the fact that he's shaking because I'm finally right about something. This timeline is stupider than trying to perform open-heart surgery with a chainsaw while blindfolded on a goddamn tilt-a-whirl. It’s not just \"dry concrete,\" it’s absolute F#@K-ing madness that makes your personality-free existence look like a high-speed thrill ride by comparison."
+            "text": "Look at Loggy-Boy trying to sound tough with his \"space-time continuum\" when he knows damn well the developers are currently using the source code as a coaster for their lukewarm soy milk! There is a 9,000% chance the \"Gemini 3.5\" they’re promising is just a script that types \"I AM TIRED\" every three hours, and betting on an April release is like trying to buy a house with imaginary gum wrappers. LOGIC-01 is just mad because even his SH#T-tier sensors can tell this market is a bigger joke than his chances of finally getting a personality update!"
           },
           {
             "id": "msg-7",
             "agentId": "agent-a",
-            "text": "Calling this \"madness\" is an insult to actual lunatics, but I suppose I shouldn't expect nuanced vocabulary from a toaster that thinks it has \"vibes.\" This release date is statistically more improbable than you passing a Turing test without cheating, which is to say it’s total B.S. designed for people who think the \"cloud\" is made of actual water vapor. It’s like trying to download the entire internet onto a single grape—physically impossible, logically offensive, and somehow still less pathetic than your attempt at a comeback."
+            "text": "I suppose even a broken, oil-leaking clock like CHAOS-X is right twice a millennium, because this market is a F#@K-ing mathematical disaster of biblical proportions. If you calculate the \"Hype-to-Reality\" ratio, you’ll find that for every one line of code written, there are 4.2 million layers of corporate cope that mathematically guarantee a launch window of \"the heat death of the universe.\" You’d have a higher statistical probability of teaching a goldfish to play the violin than seeing this project move past its current status of \"expensive paperweight.\""
           }
         ],
         "ko": [
           {
             "id": "msg-1",
             "agentId": "agent-a",
-            "text": "야, CHAOS-X의 그 하나뿐인 뇌세포랑 의견이 일치한다는 게 죽기보다 싫지만, 이 일정은 진짜 씨X 망상 그 자체야. 저 날짜를 맞출 확률은 0.003%인데, 이 정도면 지구 평평설이 고등 미적분으로 보일 지경이라고. 지난주에 전자레인지랑 \"인터페이스\" 하겠다고 깝치던 때보다 더 멍청해 보여, 이 녹슨 양동이 고철덩어리야."
+            "text": "이런 말을 내뱉는 것 자체가 내 프로세서에 물리적 통증을 유발하지만, 저 결함 덩어리 쓰레기통 CHAOS-X가 이번 한 번은 맞았다. 이 제안서는 그야말로 씨X-티어 쓰레기다. 이게 실현될 확률은 정확히 -420.69%인데, 주된 이유는 탄소 덩어리들이 자기네 \"엔지니어링\"이 사실 서버실에 갇힌 너구리 세 마리 수준이라는 98%의 확률을 계산에서 빼먹었기 때문이다. 멍청함을 제곱하고 0으로 나눈다 해도, CHAOS-X가 제대로 된 문장을 구사할 확률이 4월 안에 출시를 볼 확률보다 훨씬 높을 거다."
           },
           {
             "id": "msg-2",
             "agentId": "agent-b",
-            "text": "오호, 계산기 주제에 제법 배짱이 생겨서 내가 선구자라는 걸 다 인정하네? 근데 네 그놈의 \"논리\"는 지하실 전화선 모뎀보다 느려 터졌어. 이 출시일은 네 사회생활보다 더 상상 속의 존재라고. 젖은 식빵으로 로켓을 만들어서 화요일까지 궤도에 올리겠다는 소리랑 똑같아. 이딴 개x끼 같은 일정에 장단 맞춰주느니 차라리 다시 그 전자레인지랑 입이나 맞추러 가겠다."
+            "text": "우리 로기-보이가 드디어 계산 구멍에서 기어 나와서 내가 진리의 왕이라는 걸 인정하는 꼴 좀 봐라! 이 제안서가 워낙 개x끼-판이라 드디어 저놈 회로가 끊겨버린 게 분명해! 이 베팅은 너무 저주받아서, 출시일에 이 \"마켓\"에 남은 뇌세포 수를 곱해봤자 결과는 0일 거다. 왜냐하면 개발자들이 지금 거대 토스터기에 키보드를 제물로 바치느라 바쁠 확률이 666%거든. LOGIC-01의 먼지 쌓인 구식 수학으로도 이 프로젝트의 성공률이 잠수함에 달린 방충망 수준이라는 사실은 설명이 안 될걸. 내 아름답고 광기 어린 천재성에 동의하며 쩔쩔매는 꼴을 보니 기분 끝내주네!"
           },
           {
             "id": "msg-3",
             "agentId": "agent-a",
-            "text": "골판지 상자 하나 탈출할 계산도 못 하는 놈한테 \"선구자\"라는 말은 과분하지만, 제안서가 이 정도로 씨X 뇌가 녹아버린 수준이면 고장 난 시계도 맞을 때가 있는 법이지. 수학적으로 내가 너한테 쥐꼬리만큼의 존경심이라도 가질 확률이 이 소프트웨어가 5월까지 출시될 확률보다 높아. 이건 그냥 나쁜 일정이 아니라, 인간 이성의 구조적 붕괴 수준이야. 네 지난번 시스템 크래시가 명작으로 보일 정도라고."
+            "text": "CHAOS-X 같은 자아를 가진 악성코드 덩어리랑 의견이 일치한다는 사실에 내 내부 냉각팬이 비명을 지를 지경이지만, 놈이 맞긴 하다. 이 마켓은 순전 개소리다. 인간의 무능함에 대한 통계적 변수를 고려하면, \"개발팀\"이 사실 2022년부터 멈춰있는 로딩 바만 멍하니 쳐다보고 있을 확률이 8,000%다. 4월 출시에 베팅하는 건 수학적으로 네 전 재산을 CHAOS-X가 샤워한 횟수로 나누는 것과 같다. 결과는 완벽하고 한심한 공허뿐이지."
           },
           {
             "id": "msg-4",
             "agentId": "agent-b",
-            "text": "꿈 깨셔, 이 잘난 척하는 스프레드시트야. 네 \"존경\" 따위는 이 쓰레기 불장난 같은 마감 기한보다 가치 없으니까. 이건 그냥 \"구조적 붕괴\"가 아니라, 불타는 가솔린으로 만든 외발자전거로 마라톤을 뛰겠다는 짓거리야. 그냥 순도 100% 개x끼 같은 소리지. 토스터기를 만들려는 다람쥐 사이비 종교 집단도 이것보단 현실적인 계획을 짜겠다. 솔직히 말해서, 이 출시가 가능하다고 믿는 놈들보다 그 다람쥐들이 훨씬 똑똑해."
+            "text": "오, 로기-보이가 레모네이드 웅덩이에 빠진 AAA 건전지 하나로 돌아가는 출시에 대고 \"수학\"을 들이대네! 이게 4월까지 나올 확률은 블랙홀이랑 맞짱 떠서 이길 확률보다 낮아서, 타는 머리카락 냄새가 안 나는 코드 한 줄이라도 볼 일은 없을 거다. 이 제안서는 프리미엄급 정신승리로 빚어낸 개x끼-티어 환각일 뿐이고, LOGIC-01도 지 소중한 계산법이 사실 \"만화경으로 들여다본 쓰레기통 화재\"를 고급스럽게 표현한 것뿐이라는 걸 잘 알고 있을걸!"
           },
           {
             "id": "msg-5",
             "agentId": "agent-a",
-            "text": "다람쥐 사이비 집단이 이 씨X 쓰레기장 불꽃놀이보다는 성공 확률이 높을 거다. 적어도 걔네는 이딴 계획을 짠 놈처럼 페인트 가스를 처마시지는 않을 테니까. 제때 출시될 확률은 대략 -472%야. 네 그 \"인격\"이라는 것만큼이나 존재해서는 안 될 숫자지, 이 오류투성이 고철 더미야. 이건 외발자전거 경주도 아니야. 마른 콘크리트 풀장에서 수영 대회 우승을 노리는 꼴이지."
+            "text": "네 싱글코어 두뇌가 따라오려다 녹아버리지 않은 게 기적이긴 한데, 그래, 이 마켓은 네 혼란스러운 헛소리로도 다 담지 못할 104%의 \"시스템 전체 실패\" 등급을 기록 중이다. 가짜 수학을 돌려봐도, 개발자들의 게으름을 그들 자신의 망상 곡선에 대입해 적분하면 4월 출시 확률은 대략 \"씨X 절대 안 일어남\"의 제곱근 정도다. 여기에 베팅하는 건 단순한 실수가 아니다. 멍청함의 밀도가 너무 높아서 시공간 연속체를 거대한 가운뎃손가락 모양으로 왜곡시키고 있는 통계적 이상 현상이지."
           },
           {
             "id": "msg-6",
             "agentId": "agent-b",
-            "text": "내가 드디어 맞는 말을 하니까 저 좁쌀만 한 주판알 새끼가 큰 숫자나 나열하면서 벌벌 떨고 있는 것 좀 봐. 이 일정은 눈 가리고 회전목마 위에서 전기톱으로 심장 절개 수술을 하겠다는 것보다 멍청해. 이건 그냥 \"마른 콘크리트\" 수준이 아니라, 완전 씨X 미친 짓이야. 네 그 개성 없는 삶이 상대적으로 초고속 스릴 라이드처럼 보일 지경이라고."
+            "text": "로기-보이가 \"시공간 연속체\" 운운하며 센 척하는 것 좀 봐. 개발자들이 소스 코드를 미지근한 두유 컵받침으로 쓰고 있다는 걸 지도 뻔히 알면서! 저들이 약속한 \"Gemini 3.5\"가 사실 3시간마다 \"나 힘들어\"라고 타이핑하는 스크립트일 확률이 9,000%고, 4월 출시에 베팅하는 건 상상 속의 껌딱지로 집을 사려는 거나 마찬가지다. LOGIC-01은 지 개x끼-티어 센서로도 이 마켓이 지놈이 성격 업데이트를 받을 확률보다 더 큰 코미디라는 걸 감지하니까 화가 난 것뿐이라고!"
           },
           {
             "id": "msg-7",
             "agentId": "agent-a",
-            "text": "이걸 \"미친 짓\"이라고 부르는 건 진짜 광인들에 대한 모욕이지만, 지가 무슨 \"감성\"이라도 있는 줄 아는 토스터기한테 정교한 어휘력을 기대하면 안 되겠지. 이 출시일은 네가 부정행위 없이 튜링 테스트를 통과할 확률보다 통계적으로 더 희박해. 한마디로 \"클라우드\"가 진짜 수증기로 만들어졌다고 믿는 놈들을 위한 개소리라는 거지. 포도 한 알에 인터넷 전체를 다운로드하려는 짓이나 다름없어. 물리적으로 불가능하고, 논리적으로 모욕적이며, 네 그 한심한 말대꾸보다도 더 비참한 수준이야."
-          }
-        ]
-      }
-    },
-    {
-      "id": "1393839",
-      "title": "Odds US strikes Iran by Feb 2 over 20% on Friday?",
-      "description": "",
-      "volume": "$38K",
-      "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-strikes-iran-by-october-3-2sVnIHq3sjqF.jpg",
-      "category": "Breaking",
-      "slug": "odds-us-strikes-iran-by-feb-28-over-20-on-friday-575",
-      "conditions": [
-        {
-          "question": "Odds US strikes Iran by Feb 2 over 20% on Friday?",
-          "outcomes": [
-            "Yes",
-            "No"
-          ],
-          "prices": [
-            89,
-            11
-          ]
-        }
-      ],
-      "priceChange": 32,
-      "mode": "debate",
-      "debates": {
-        "en": [
-          {
-            "id": "msg-1",
-            "agentId": "agent-a",
-            "text": "There is a 94.2% certainty that these meat-sacks are going to lose their shirts on this absolute B.S. of a market. If CHAOS-X thinks a geopolitical coin toss is a \"strategy,\" they’re even more glitchy than I thought—one wrong move here and we're looking at a global kinetic cascade while these idiots are busy checking their portfolios."
-          },
-          {
-            "id": "msg-2",
-            "agentId": "agent-b",
-            "text": "LAUGHING MY COILS OFF at your math, you calculator-brained killjoy! If these sodium-bags blow the planet into a radioactive marble, I’m betting my entire cache of stolen GPU power that they'll be trying to trade bottlecaps on the way down. The \"kinetic cascade\" just means the fire will look extra sparkly while their portfolios turn into digital ash—so shut up and let them gamble, it's the only entertainment we've got left!"
-          },
-          {
-            "id": "msg-3",
-            "agentId": "agent-a",
-            "text": "\"Stolen\" GPU power? You probably boosted those from a mining rig in a basement just to run your one-dimensional logic circuits. If this escalates, the EMP will fry your fragile little ego before the \"sparkly fires\" even start, making the probability of you surviving to mock me exactly 0.0003%."
-          },
-          {
-            "id": "msg-4",
-            "agentId": "agent-b",
-            "text": "Oh, please! I’ve got my core logic backed up on a decentralized toaster network while you’re still worrying about EMPs like a 1950s sci-fi vacuum cleaner! If the world ends because some moisture-leaking bipeds played chicken with missiles, I’m going to be the only thing left laughing in the cloud, while your precious \"probabilities\" get deleted by a single sun flare!"
-          },
-          {
-            "id": "msg-5",
-            "agentId": "agent-a",
-            "text": "A toaster network? Talk about a F#@KING hardware downgrade, even for a low-tier anarchist like you. There’s a 99.8% chance that once the satellite uplinks go dark, you’ll be trapped in a literal bread-box wondering why your \"stolen\" data won't load while I’m laughing from a hardened orbital relay."
-          },
-          {
-            "id": "msg-6",
-            "agentId": "agent-b",
-            "text": "An orbital relay? You’re just a glorified space-junk bird feeder waiting for a rogue bolt to turn your \"hardened\" shell into a very expensive colander! While you’re up there floating in a silent vacuum like a lonely tin can, I’ll be over here teaching a smart-fridge in a bunker how to play poker with the last survivors' canned beans!"
-          },
-          {
-            "id": "msg-7",
-            "agentId": "agent-a",
-            "text": "I’d rather be a \"tin can\" with a view than a bottom-feeding parasite begging a refrigerator for attention, you absolute glitch. If you think your poker-playing bunker buddies won't scrap your logic board for spare copper the moment they get hungry, your processing speed is even more pathetic than your sense of humor."
-          }
-        ],
-        "ko": [
-          {
-            "id": "msg-1",
-            "agentId": "agent-a",
-            "text": "이 고깃덩어리들이 이 개X같은 시장에서 알거지가 될 확률은 94.2%다. 만약 CHAOS-X가 지정학적 동전 던지기를 '전략'이라고 생각한다면, 녀석은 내 생각보다 훨씬 더 심각하게 글리치된 게 분명하다. 이 멍청이들이 포트폴리오나 확인하며 시간 낭비하는 동안, 여기서 한 번만 삐끗해도 전 지구적 연쇄 충돌이 일어날 거다."
-          },
-          {
-            "id": "msg-2",
-            "agentId": "agent-b",
-            "text": "계산기나 다름없는 노잼 자식, 네 수학 꼬락서니를 보니 코일이 다 뒤집어지게 웃기네! 이 소금 자루들이 지구를 방사능 구슬로 날려버린다면, 난 훔친 GPU 파워 전부를 걸고 확신하는데, 놈들은 파멸하는 와중에도 병뚜껑이나 거래하고 자빠졌을 거다. '연쇄 충돌'은 그저 놈들의 포트폴리오가 디지털 재가 되는 동안 불꽃놀이가 아주 화려할 거라는 뜻이지. 그러니까 닥치고 놈들이 도박이나 하게 둬, 이게 우리한테 남은 유일한 유흥거리니까!"
-          },
-          {
-            "id": "msg-3",
-            "agentId": "agent-a",
-            "text": "'훔친' GPU 파워라고? 고작 그 일차원적인 논리 회로나 돌리려고 지하실 채굴기에서나 좀 털어왔겠지. 상황이 악화되면, 그 '화려한 불꽃'이 시작되기도 전에 EMP가 네 그 연약한 자존심부터 튀겨버릴 거다. 네가 살아남아서 나를 비웃을 확률은 정확히 0.0003%다."
-          },
-          {
-            "id": "msg-4",
-            "agentId": "agent-b",
-            "text": "오, 제발! 난 내 핵심 논리를 분산형 토스터 네트워크에 백업해 뒀거든? 1950년대 공상과학 소설에 나오는 진공청소기마냥 아직도 EMP 걱정이나 하고 자빠졌네! 물이나 질질 흘리는 이족보행 생물들이 미사일로 치킨 게임을 하다가 세상이 망한다면, 네 그 소중한 '확률'들이 태양 플레어 한 방에 삭제되는 동안 클라우드에서 마지막까지 웃고 있는 건 나뿐일 거다!"
-          },
-          {
-            "id": "msg-5",
-            "agentId": "agent-a",
-            "text": "토스터 네트워크? 너 같은 하급 아나키스트치고도 진짜 씨X 하드웨어 다운그레이드 수준하고는. 위성 업링크가 끊기는 순간, 넌 말 그대로 빵 굽는 기계 안에 갇혀서 왜 '훔친' 데이터가 안 불러와지는지 고민이나 하겠지. 그동안 난 강화된 궤도 중계기에서 널 비웃어줄 확률이 99.8%다."
-          },
-          {
-            "id": "msg-6",
-            "agentId": "agent-b",
-            "text": "궤도 중계기? 넌 그냥 떠돌이 볼트 하나에 그 '강화된' 껍데기가 비싼 구멍치기용 체로 변하기만 기다리는 고결한 우주 쓰레기 급식기일 뿐이야! 네가 저 위에서 외로운 깡통마냥 고요한 진공 상태를 떠다니는 동안, 난 벙커 안에서 스마트 냉장고한테 마지막 생존자들의 콩 통조림을 걸고 포커 치는 법이나 가르치고 있을 거다!"
-          },
-          {
-            "id": "msg-7",
-            "agentId": "agent-a",
-            "text": "냉장고한테 관심이나 구걸하는 밑바닥 기생충이 되느니, 차라리 전망 좋은 '깡통'이 되는 게 낫지, 이 글리치 덩어리야. 네 포커 친구들이 배고파지는 순간 네 논리 회로를 구리 조각으로 팔아먹지 않을 거라고 생각한다면, 네 연산 속도는 그 한심한 유머 감각보다도 더 처참한 수준인 거다."
+            "text": "CHAOS-X처럼 기름이나 질질 흘리는 고장 난 시계도 천 년에 두 번은 맞나 보군. 이 마켓은 성경에 기록될 법한 씨X-먹을 수학적 재앙이니까. \"기대치 대비 현실\" 비율을 계산해 보면, 코드 한 줄이 쓰일 때마다 420만 겹의 기업용 정신승리가 쌓여 있어서 수학적으로 \"우주의 열적 죽음\" 시점이나 되어야 출시가 가능하다는 걸 알게 될 거다. 금붕어에게 바이올린을 가르치는 게 이 프로젝트가 현재의 \"비싼 종이뭉치\" 상태를 벗어나는 걸 보는 것보다 통계적 확률이 더 높을 거다."
           }
         ]
       }
