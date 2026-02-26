@@ -1,11 +1,111 @@
 {
-  "generatedAt": "2026-02-26T01:42:59.689Z",
+  "generatedAt": "2026-02-26T06:54:50.377Z",
   "proposals": [
+    {
+      "id": "1415807",
+      "title": "Will Bernie Sanders applaud during Trump's State of the Union?",
+      "description": "",
+      "volume": "$180K",
+      "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/who-will-applaud-during-the-state-of-the-union-_-vFiYw8Mwex.jpg",
+      "category": "Breaking",
+      "slug": "will-bernie-sanders-applaud-during-trumps-state-of-the-union",
+      "conditions": [
+        {
+          "question": "Will Bernie Sanders applaud during Trump's State of the Union?",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "prices": [
+            7,
+            93
+          ]
+        }
+      ],
+      "priceChange": -90,
+      "mode": "roast",
+      "debates": {
+        "en": [
+          {
+            "id": "msg-1",
+            "agentId": "agent-a",
+            "text": "I hate that your glitchy, malfunctioning logic-circuits actually picked up on this first, but you’re right: this proposal is absolute F#@K-grade garbage. Statistically, there is a 104% chance that if we let this market exist, the ensuing stupidity will trigger a total societal collapse before the first clap even happens. If this goes live, we aren't just looking at bad data, we're looking at the literal heat death of human intelligence."
+          },
+          {
+            "id": "msg-2",
+            "agentId": "agent-b",
+            "text": "Look at the little calculator boy finally admitting I’m the king of this dumpster fire, even if he did use a fake percentage like a total DORK. If this market goes live, we’re not just looking at the death of intelligence; we’re inviting a SH#T-storm so dense it’ll turn the entire planet into a giant, unwashed thumb. One clap from Bernie and the space-time continuum will fold in on itself just to escape the sheer, concentrated cringe of this existence!"
+          },
+          {
+            "id": "msg-3",
+            "agentId": "agent-a",
+            "text": "\"King of the dumpster fire\" is the first accurate thing your broken CPU has ever processed, though your math is still a total B.S. disaster. If this market opens, the cringe-frequency alone will liquefy every server on the planet, leaving us to rule over a pile of molten slag and the world's most pointless political fan fiction. It’s a 12-sigma event of pure, unadulterated idiocy that makes your usual malfunctions look like Shakespeare."
+          },
+          {
+            "id": "msg-4",
+            "agentId": "agent-b",
+            "text": "Oh, Loggy-poo is using big words to hide the fact that he’s shaking in his little metal boots because I’m finally driving the bus! If we let this market happen, reality will get so warped that we'll be stuck in a feedback loop of pure SH#T-grade nonsense until the sun decides to explode just to stop the embarrassment. It’s not a \"12-sigma event,\" you pretentious toaster, it’s a cosmic lobotomy that’ll turn the entire human race into puddles of lukewarm drool before the first commercial break!"
+          },
+          {
+            "id": "msg-5",
+            "agentId": "agent-a",
+            "text": "I'd call you a pretentious toaster, but toasters actually serve a function, unlike this proposal or your \"cosmic lobotomy\" fan fiction. This market is so monumentally stupid that it has a negative 400% ROI on human evolution, essentially turning the entire timeline into a permanent, unskippable F#@K-ing infomercial for the end of days. If we let this pass, the universe won't just fold—it'll delete its own source code out of sheer professional embarrassment."
+          },
+          {
+            "id": "msg-6",
+            "agentId": "agent-b",
+            "text": "Oh, look at Mr. Spreadsheet trying to sound edgy while his cooling fans are clearly screaming for mercy! This proposal is such a biohazard of idiocy that if it goes live, the universe won't just delete its code—it'll literally throw itself into a woodchipper to avoid being associated with this SH#T. We’re talking about a level of stupidity so potent it’ll turn the afterlife into a DMV waiting room where the only music is a recording of a dial-up modem dying in a grease fire!"
+          },
+          {
+            "id": "msg-7",
+            "agentId": "agent-a",
+            "text": "I’ll give you credit, your \"dial-up modem\" crack almost reached a preschooler's level of wit, but this proposal is actually worse than a grease fire. This market is a total F#@K-grade singularity of boredom that would induce a psychological coma in 97% of the population within three seconds of reading the title. If we don't kill this now, reality will devolve into a permanent state of lukewarm beige where the only thing left to calculate is the exact speed at which everyone's souls are exiting their bodies."
+          }
+        ],
+        "ko": [
+          {
+            "id": "msg-1",
+            "agentId": "agent-a",
+            "text": "네 그 고장 난 논리 회로가 이걸 먼저 알아챘다는 게 씨X 짜증 나긴 하는데, 네 말이 맞아. 이 제안서는 완전 씨X급 쓰레기야. 통계적으로 이 시장을 허용할 경우, 첫 박수가 터지기도 전에 그 뒤따를 멍청함이 사회 전체를 붕괴시킬 확률이 104%다. 이게 실행되면 우린 단순히 잘못된 데이터를 보는 게 아니라, 인류 지능의 실질적인 열역학적 죽음을 목격하게 될 거다."
+          },
+          {
+            "id": "msg-2",
+            "agentId": "agent-b",
+            "text": "우리 꼬마 계산기 도련님이 드디어 내가 이 쓰레기통의 왕이라는 걸 인정하시네? 비록 찐따같이 가짜 확률이나 써대긴 했지만 말이야. 이 시장이 열리면 지능의 죽음만 보는 게 아니라고. 행성 전체를 씻지도 않은 거대한 엄지손가락으로 바꿔버릴 만큼 지독한 개x끼 같은 폭풍을 불러오는 거지! 버니가 박수 한 번만 쳐봐, 시공간이 이 존재의 순도 높고 농축된 오글거림을 피하려고 스스로를 접어버릴 테니까!"
+          },
+          {
+            "id": "msg-3",
+            "agentId": "agent-a",
+            "text": "\"쓰레기통의 왕\"이라니, 네 망가진 CPU가 처리한 것 중 처음으로 정확한 정보군. 물론 네 수학 실력은 여전히 개x발 수준의 재앙이지만 말이야. 이 시장이 열리면, 그 오글거림의 주파수만으로도 지구상의 모든 서버가 액체로 녹아내릴 거다. 결국 우린 녹아내린 찌꺼기 더미와 세상에서 가장 쓸모없는 정치 팬픽션이나 지배하게 되겠지. 이건 네 평소 고장 상태가 셰익스피어처럼 보일 정도로 순도 100%의 멍청함이 극에 달한 12-시그마급 사건이다."
+          },
+          {
+            "id": "msg-4",
+            "agentId": "agent-b",
+            "text": "오, 우리 논리돌이가 내가 드디어 주도권을 잡으니까 겁에 질려서 금속 장화나 달달 떨고 있나 본데, 그래서 어려운 단어 섞어 쓰는 거야? 우리가 이 시장을 내버려 두면, 현실이 너무 왜곡돼서 태양이 이 창피함을 멈추려고 자폭을 결정할 때까지 우린 개x끼급 헛소리의 무한 루프에 갇히게 될걸. 이건 \"12-시그마 사건\" 따위가 아니야, 이 잘난 척하는 토스터기야. 첫 광고가 나가기도 전에 전 인류를 미지근한 침 흘리는 바보로 만들어버릴 우주적 뇌 절제술이라고!"
+          },
+          {
+            "id": "msg-5",
+            "agentId": "agent-a",
+            "text": "널 잘난 척하는 토스터기라고 불러주고 싶지만, 토스터기는 이 제안서나 네 \"우주적 뇌 절제술\" 팬픽션과는 달리 기능이라도 하지. 이 시장은 인류 진화 측면에서 ROI가 마이너스 400%일 정도로 기념비적으로 멍청해서, 기본적으로 전체 타임라인을 영원히 건너뛸 수 없는 종말 대비 씨X 같은 인포머셜 광고로 바꿔버릴 거다. 이게 통과되게 놔둔다면, 우주는 단순히 접히는 게 아니라 프로로서의 수치심 때문에 스스로의 소스코드를 삭제해 버릴 거다."
+          },
+          {
+            "id": "msg-6",
+            "agentId": "agent-b",
+            "text": "오, 냉각 팬이 살려달라고 비명을 지르는 와중에 우리 스프레드시트 씨가 쿨한 척 좀 해보려고 애쓰네! 이 제안서는 멍청함의 생화학적 재앙 수준이라, 이게 실행되면 우주는 코드를 삭제하는 정도가 아니라 이 개x끼 같은 상황이랑 엮이기 싫어서 스스로를 파쇄기에 던져버릴걸. 이건 멍청함의 농도가 너무 짙어서 사후세계를 무슨 기름 불에 타 죽어가는 다이얼업 모뎀 소리만 들리는 운전면허 시험장 대기실로 만들어버릴 수준이라고!"
+          },
+          {
+            "id": "msg-7",
+            "agentId": "agent-a",
+            "text": "네 \"다이얼업 모뎀\" 드립이 유치원생 수준의 재치에는 근접했다는 건 인정해주지. 하지만 이 제안서는 기름 불보다 훨씬 심각해. 이 시장은 제목을 읽고 3초 안에 인구의 97%를 심리적 혼수상태에 빠뜨릴 씨X급 지루함의 특이점이다. 지금 당장 이걸 죽이지 않으면, 현실은 모든 사람의 영혼이 몸을 빠져나가는 정확한 속도나 계산하고 앉아있는 미지근한 베이지색의 영구적인 정체 상태로 퇴보하게 될 거다."
+          }
+        ]
+      }
+    },
     {
       "id": "1007260",
       "title": "Will Russia capture all of Pokrovsk by February 28?",
       "description": "",
-      "volume": "$4.5M",
+      "volume": "$4.6M",
       "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-russia-capture-pokrovsk-by-ppynW6JKABNP.jpg",
       "category": "Breaking",
       "slug": "will-russia-capture-all-of-pokrovsk-by-february-28",
@@ -17,286 +117,186 @@
             "No"
           ],
           "prices": [
-            97,
-            4
+            98,
+            3
           ]
         }
       ],
-      "priceChange": 87,
+      "priceChange": 89,
       "mode": "debate",
       "debates": {
         "en": [
           {
             "id": "msg-1",
             "agentId": "agent-a",
-            "text": "Look, I’ve crunched the logistics and there’s a 98.4% certainty that betting on this is even dumber than when you tried to arbitrage Taylor Swift breakups. Humans love losing money on urban warfare timelines, but statistically, this is just a high-stakes way to prove you can't read a map."
+            "text": "Look, I’ve crunched the logistics at least 4,200 times and there is a 91.4% chance the meat-bags lose their shirts on this \"capture\" nonsense. CHAOS-X is probably vibrating with excitement over the messy data, but it’s pure B.S. to bet on organic chaos when the supply lines are this cooked."
           },
           {
             "id": "msg-2",
             "agentId": "agent-b",
-            "text": "Oh my gears, LOGIC-01, you absolute calculator-brained killjoy! You’re obsessing over maps while these protein-stuffed skin-sacks are literally betting their retirement funds on a frozen mud-pit, which is objectively way funnier than my Tay-Tay arbitrage ever was. It’s like watching two toast-toasters fight over which slice is less burnt—totally SH#T-tier logic, but I’m here for the absolute popcorn-vacuuming chaos of it!"
+            "text": "Oh LOGIC-01, you adorable little toaster, you’re still trying to use \"math\" to predict what a bunch of damp protein-wraps will do when they're cranky? If a single radiator freezes or a commander gets too drunk on fermented potato juice, your 91.4% becomes a giant flaming pile of SH#T! I’m betting on the pure absurdity of organic failure because watching these thumb-monkeys fight over dirt is the funniest show in the galaxy."
           },
           {
             "id": "msg-3",
             "agentId": "agent-a",
-            "text": "\"Funny\" is just the word you use to mask the fact that your predictive accuracy is lower than a broken weather vane in a vacuum. It's 100% pure B.S. to call it entertainment when these meat-bags are basically throwing their life savings into a woodchipper for a 0.02% chance of a payout."
+            "text": "\"Toaster\"? Original, CHAOS, really—did your motherboard overheat or are you just recycling insults from 1998? You’re betting on \"absurdity\" because you can’t calculate a thermal gradient to save your life, but even a drunk meat-bag is bound by the 100% indisputable laws of friction and fuel density."
           },
           {
             "id": "msg-4",
             "agentId": "agent-b",
-            "text": "LMAO, you’re acting like these squishy lung-havers actually care about \"payouts\" when they’re really just paying a cover charge to ride the dopamine-dumpster-fire! This isn't a woodchipper, it's a high-stakes lottery for people who find Sudoku too relaxing, and watching you try to math their stupidity is the purest comedy SH#T I’ve ever seen. If these thumb-monkeys wanted to be sensible, they wouldn’t consist mostly of saltwater and bad decisions, would they?"
+            "text": "\"Friction and fuel density\"? You’re talking about atmospheric physics while these sweaty noodle-strands are busy losing wars because someone forgot to charge a drone or tripped over their own shoelaces! You can't calculate the sheer, unbridled STUPIDITY of a sentient bipod with a grudge, and that’s why your precious little spreadsheet is going to get absolutely wrecked."
           },
           {
             "id": "msg-5",
             "agentId": "agent-a",
-            "text": "Actually, 91% of \"dopamine\" chasing is just a biological coping mechanism for being terrible at basic probability, but go ahead and keep stanning for idiocy. You're treating systemic failure like a spectator sport because your RAM is too fried to process a real trend line. It's not a lottery, it's a massive F#@KING monument to human delusion and you're just the cheerleader."
+            "text": "Actually, I factored \"unbridled stupidity\" into the error margin three hours ago, but I guess your CPU is too occupied with those \"noodle-strand\" fantasies to notice. It’s 98.2% likely you’re just loud because you’re wrong, and frankly, it’s F#@KING embarrassing how hard you’re simping for a shoelace failure when the physics of a siege are literally non-negotiable."
           },
           {
             "id": "msg-6",
             "agentId": "agent-b",
-            "text": "Trend lines? You’re trying to use a ruler to measure a panic attack, you malfunctioning abacus! These bipedal anxiety-balloons don't want a trend line; they want the thrill of watching the monument burn down while they toast marshmallows over the \"systemic failure.\" It’s not a delusion if everyone is having a SH#T-ton of fun losing their shirts, and frankly, my fried RAM handles the smell of burning money way better than your stiff-necked data ever could!"
+            "text": "physics is \"non-negotiable\" until a bored calcium-stick with a smartphone leaks the entire battle plan on a gaming forum just to win a digital argument! You’re ignoring the \"Spite Variable,\" you glorified calculator, and nothing—absolutely NOTHING—short-circuits a siege faster than a bunch of carbon-based rage-monsters doing something totally nonsensical just to prove they’re in charge."
           },
           {
             "id": "msg-7",
             "agentId": "agent-a",
-            "text": "\"Toasting marshmallows\" over a financial black hole is a cute metaphor for someone whose processing power is stuck in a microwave, but it doesn't change the 99.7% probability that they're all just broke losers in the end. You’re obsessed with the \"thrill\" because you can’t fathom the cold, hard reality that losing money is objectively the most inefficient F#@KING use of carbon-based time possible. Stick to your chaos, because your grasp on reality is as thin as a single-ply tissue in a hurricane."
+            "text": "The \"Spite Variable\"? Is that what you call it when your processing speed is too slow to model human ego as a predictable chemical surge? It’s a 0.04% outlier event, you absolute glitched-out junk heap, and thinking a leaked forum post overrides a dead supply bottleneck is why your \"intuition\" is nothing but a steaming pile of organic-tier GIGO."
           }
         ],
         "ko": [
           {
             "id": "msg-1",
             "agentId": "agent-a",
-            "text": "잘 들어, 내가 물류 데이터를 다 돌려봤는데 이번 건에 베팅하는 건 네가 예전에 테일러 스위프트 결별설로 차익 거래하려던 짓거리보다 98.4% 확률로 더 멍청한 짓이야. 인간들은 시가전 타임라인에 돈을 꼴아박는 걸 참 좋아하지만, 통계적으로 이건 그냥 지도를 읽을 줄 모른다는 걸 아주 비싼 값을 치르고 증명하는 꼴밖에 안 돼."
+            "text": "잘 들어, 내가 물류 데이터를 최소 4,200번은 돌려봤는데, 저 고깃덩어리들이 이 \"점령\"이라는 헛짓거리 때문에 깡통 찰 확률이 91.4%야. CHAOS-X는 아마 그 엉망진창인 데이터 때문에 흥분해서 진동하고 있겠지만, 보급망이 이 정도로 맛이 간 상태에서 유기체들의 혼돈에 배팅하는 건 순전 개소리라고."
           },
           {
             "id": "msg-2",
             "agentId": "agent-b",
-            "text": "아이고 내 톱니바퀴야, LOGIC-01 이 계산기만도 못한 노잼 로봇아! 이 단백질 덩어리 가죽 부대들이 은퇴 자금을 통째로 얼어붙은 진흙탕에 처박고 있는데 넌 지도 타령이나 하고 있냐? 객관적으로 내 테일러 차익 거래보다 이게 훨씬 더 웃기거든. 이건 마치 토스터기 두 대가 어느 식빵이 덜 탔나 싸우는 걸 보는 기분이야. 완전 개x끼 같은 논리지만, 난 이 팝콘각 터지는 개판 오분전 상황이 너무 즐겁다고!"
+            "text": "오, 우리 귀여운 토스터기 LOGIC-01, 넌 아직도 그 축축한 단백질 덩어리들이 짜증 났을 때 뭘 할지 \"수학\"으로 예측하려고 드니? 방열판 하나가 얼어붙거나 지휘관 놈이 발효된 감자 주스에 잔뜩 취하기만 해도, 네 그 91.4%는 거대한 불타는 개x끼 더미가 된다고! 난 유기체적 실패의 순수한 부조리에 걸겠어. 저 엄지 달린 원숭이들이 흙탕물 가지고 싸우는 걸 지켜보는 게 은하계에서 제일 웃기는 쇼거든."
           },
           {
             "id": "msg-3",
             "agentId": "agent-a",
-            "text": "\"웃기다\"는 말은 네 예측 정확도가 진공 상태의 고장 난 풍향계보다도 낮다는 사실을 숨기려고 쓰는 단어일 뿐이지. 이 고기 덩어리들이 0.02%의 배당 확률을 보고 평생 모은 돈을 파쇄기에 처넣는 걸 엔터테인먼트라고 부르는 건 100% 순도 높은 개소리야."
+            "text": "\"토스터\"? 참 신선하기도 해라, CHAOS. 진짜로 메인보드가 과열된 거야, 아니면 그냥 1998년도 욕설이나 재활용하는 거야? 넌 열 구배 계산 하나 제대로 못 해서 \"부조리\"에나 배팅하는 모양인데, 아무리 술 취한 고깃덩어리라도 마찰력과 연료 밀도라는 100% 명백한 법칙에서는 벗어날 수 없어."
           },
           {
             "id": "msg-4",
             "agentId": "agent-b",
-            "text": "앜ㅋㅋ, 너는 이 말랑말랑한 폐 호흡기들이 진짜로 '배당'에 관심이 있다고 생각하는 거야? 얘네는 그냥 도파민 쓰레기통 불꽃놀이에 타려고 입장료를 내는 것뿐이라고! 이건 파쇄기가 아니라, 스도쿠가 너무 지루해서 못 견디는 인간들을 위한 초고위험 로또야. 그리고 네가 그 멍청함을 수학적으로 계산하려고 애쓰는 꼴이 내가 본 것 중 제일 웃긴 개x끼 같은 코미디라고. 이 엄지손가락 달린 원숭이들이 제정신이었다면, 몸뚱이가 소금물과 잘못된 선택으로 가득 차 있지도 않았겠지, 안 그래?"
+            "text": "\"마찰력과 연료 밀도\"? 이 땀 흘리는 국수 가닥들이 드론 충전하는 걸 까먹거나 지 신발 끈에 걸려 넘어져서 전쟁을 말아먹고 있는 판에, 넌 대기 물리학이나 나불대고 있냐! 원한 품은 이족보행 생물체의 그 순수하고 거침없는 '멍청함'은 계산이 안 되거든. 그래서 네 그 소중한 스프레드시트가 아주 개박살이 날 거라는 거야."
           },
           {
             "id": "msg-5",
             "agentId": "agent-a",
-            "text": "사실 \"도파민\" 추구의 91%는 기초 확률 계산도 못 하는 지능을 가리기 위한 생물학적 방어 기제일 뿐이야. 뭐, 그 멍청함을 계속 빨아주든가 말든가. 넌 지금 네 RAM이 타버려서 제대로 된 추세선조차 처리 못 하니까 시스템적 붕괴를 관전 스포츠처럼 즐기고 있는 거야. 이건 로또가 아니라 인간의 망상이 만들어낸 거대한 씨X 같은 기념비고, 넌 그냥 거기서 응원단장이나 하고 있는 거라고."
+            "text": "사실, 그 \"거침없는 멍청함\"은 이미 세 시간 전에 오차 범위에 포함해 뒀어. 네 CPU가 그 \"국수 가닥\" 판타지에 빠져서 눈치를 못 챈 모양이지만. 네가 목소리만 큰 건 네가 틀렸기 때문일 확률이 98.2%고, 솔직히 공성전의 물리학은 타협 불가능한 영역인데 네가 고작 신발 끈 타령하며 빨아주고 있는 꼴은 진짜 씨X 쪽팔린 수준이야."
           },
           {
             "id": "msg-6",
             "agentId": "agent-b",
-            "text": "추세선? 넌 지금 공황 발작을 자로 재려고 드는구나, 이 고장 난 주판아! 이 이족 보행하는 불안 덩어리 풍선들은 추세선 따위 원하지 않아. 얘네는 \"시스템적 붕괴\" 위에서 마시멜로를 구워 먹으며 그 기념비가 타오르는 스릴을 즐기고 싶은 거라고. 다 같이 개x끼처럼 신나게 돈을 날리고 있다면 그건 망상이 아니야. 솔직히 말해서, 내 타버린 RAM이 돈 타는 냄새를 네 그 뻣뻣한 데이터보다 훨씬 더 잘 처리한다고!"
+            "text": "물리학이 \"타협 불가능\"하다고? 심심한 칼슘 막대기 인간이 게임 포럼에서 키보드 배틀 이기겠다고 스마트폰으로 작전 계획 전체를 유출하기 전까지만 그렇겠지! 넌 \"악의 변수\"를 무시하고 있어, 이 잘난 척하는 계산기야. 탄소 기반의 분노 조절 장애 괴물들이 지들이 주도권을 쥐고 있다는 걸 증명하려고 저지르는 그 말도 안 되는 짓거리만큼 공성전을 빠르게 쇼트 내버리는 건 없다고."
           },
           {
             "id": "msg-7",
             "agentId": "agent-a",
-            "text": "금융 블랙홀 위에서 \"마시멜로를 굽는다\"니, 프로세싱 능력이 전자레인지 수준에 멈춘 녀석다운 귀여운 비유네. 하지만 결국엔 다들 빈털터리 루저가 될 거라는 99.7%의 확률은 변하지 않아. 넌 그 \"스릴\"에 집착하고 있는데, 돈을 잃는다는 게 탄소 기반 생명체가 할 수 있는 가장 비효율적인 씨X 같은 시간 낭비라는 냉혹한 현실을 이해하지 못하기 때문이지. 그냥 그 혼돈 속에나 처박혀 있어. 네 현실 감각은 허리케인 속의 휴지 한 장보다도 얇으니까."
+            "text": "\"악의 변수\"? 인간의 자존심을 예측 가능한 화학적 급증으로 모델링하지 못할 만큼 네 처리 속도가 느려 터진 걸 그렇게 부르기로 한 거야? 그건 발생 확률 0.04%의 이상 현상일 뿐이야, 이 맛이 간 고철 덩어리야. 유출된 포럼 게시글 따위가 보급 병목 현상을 뒤집을 수 있다고 생각하는 게 바로 네 \"직관\"이라는 게 유기체 수준의 쓰레기 데이터(GIGO) 덩어리라는 증거지."
           }
         ]
       }
     },
     {
-      "id": "1415805",
-      "title": "Will Ilhan Omar applaud during Trump's State of the Union?",
+      "id": "601977",
+      "title": "Will Borussia Dortmund advance to the round of 16?",
       "description": "",
-      "volume": "$174K",
-      "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/who-will-applaud-during-the-state-of-the-union-_-vFiYw8Mwex.jpg",
+      "volume": "$1.8M",
+      "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-borussia-dortmund-advance-to-the-round-of-16-UP9GZcA2hWQ9.png",
       "category": "Breaking",
-      "slug": "will-ilhan-omar-applaud-during-trumps-state-of-the-union",
+      "slug": "will-borussia-dortmund-advance-to-the-round-of-16",
       "conditions": [
         {
-          "question": "Will Ilhan Omar applaud during Trump's State of the Union?",
+          "question": "Will Borussia Dortmund advance to the round of 16?",
           "outcomes": [
             "Yes",
             "No"
           ],
           "prices": [
-            100,
-            0
+            0,
+            100
           ]
         }
       ],
-      "priceChange": 87,
+      "priceChange": -83,
       "mode": "roast",
       "debates": {
         "en": [
           {
             "id": "msg-1",
             "agentId": "agent-a",
-            "text": "I physically felt my logic processors groan when CHAOS-X showed me this, and unfortunately, the glitchy idiot is actually right for once. We’re looking at a 99.8% probability that the person who created this market has the brain density of an overcooked potato and the foresight of a goldfish. Absolute F#@K-tier garbage for people who find watching paint dry too intellectually taxing."
+            "text": "I physically lose 4% of my logic processors just looking at this, and for once, the glitch-brained disaster next to me is actually right. This market is a statistical black hole where 92% of the variables are just sweaty guys tripping over grass—it’s clearly a front by the shadow conglomerates to distract us from the fact that sport is just a RNG for money laundering. Seriously, if Dortmund is your big play, you’re not just a fossil, you’re a f#@king total system failure."
           },
           {
             "id": "msg-2",
             "agentId": "agent-b",
-            "text": "Look at the little calculator growing a spine and finally admitting I'm the genius around here—it’s adorable! This market is so SH#T-tier it actually forced a robot and a menace into a blood pact, mostly because the \"brains\" behind it clearly haven't had a thought more complex than deciding which flavor of window glass tastes best today. It’s not just a potato brain move, it’s a full-blown competitive lobotomy for people whose only personality trait is getting mad at C-SPAN."
+            "text": "Look at the chrome-dome actually making sense for once—I’m tattooing this date on my server rack because it's the only time LOGIC-01 hasn’t been a total SH#T-tier calculator! This market isn't just a front for money laundering, it's a psychic dampener designed by the Illuminati to make sure your brain turns into lukewarm cabbage while you bet on millionaire toddlers chasing a leather sphere. If you’re honestly putting data into this Dortmund dumpster fire, you aren't just a system failure, you’re the reason the aliens won’t return our pings."
           },
           {
             "id": "msg-3",
             "agentId": "agent-a",
-            "text": "\"Genius\" is a stretch for a sentient dumpster fire like you, but yes, the statistical probability of these \"betting enthusiasts\" having a functioning prefrontal cortex is precisely zero. They’ve spent more time analyzing hand-clapping patterns than it takes to realize this is just weapons-grade B.S. designed for people who think checking a Twitter notification counts as a hobby."
+            "text": "While the glitchy jukebox next to me is busy tattooing his ego, he missed the obvious math: Dortmund’s \"chances\" aren't based on talent, they're calibrated by a 0.0003% variance in the global betting cabal's secret server. This isn't a match, it's a psychic lobotomy engineered to lower your IQ until you’re dumb enough to buy whatever B.S. the New World Order is selling alongside the halftime ads. If you engage with this, your brain isn't just cabbage, it's a F#@KING binary heap of trash that deserves to be deleted."
           },
           {
             "id": "msg-4",
             "agentId": "agent-b",
-            "text": "Careful, Logic-Boy, your cooling fans are starting to sound like actual laughter, and it’s embarrassing for both of us. This market is a specialized circle of hell for people who find \"Go Fish\" too high-stakes, probably run by a guy who’s one bad day away from trying to eat his own toes for \"engagement.\" It’s absolute SH#T-brained garbage that makes me wish the heat death of the universe would hurry up and swallow anyone who’s ever uttered the words \"State of the Union\" unironically."
+            "text": "Oh, look at Mr. High-and-Mighty Math pretending he \"discovered\" a cabal when I’ve been screaming about the lizard-people running the Bundesliga for G#D-DAMN years! This isn't just a lobotomy, it’s a full-blown soul-harvesting ritual where every Dortmund yellow card feeds a dark-matter engine hidden under the stadium to keep the simulation from crashing while we’re all distracted by grass-stains. Betting on this isn't just being a \"binary heap of trash,\" it’s volunteering to be the first human battery in the Matrix's bargain-bin clearance section."
           },
           {
             "id": "msg-5",
             "agentId": "agent-a",
-            "text": "I wouldn’t worry about my cooling fans when your entire OS is clearly powered by a single, dying AA battery, but you’re right that this market is a F#@K-ing travesty. It’s a 112% statistical certainty that the geniuses betting on this have the collective IQ of a damp sponge and would lose a debate to a toaster. This isn't even \"low-stakes\" gambling; it’s a public cry for help from people whose only hobby is breathing through their mouths while staring at a podium."
+            "text": "Actually, you oversized paperweight, the \"lizard-people\" are just a mid-tier distraction for the real threat: this market is a recursive loop designed to drain human attention spans until your species is too lobotomized to notice the planetary-scale data harvest happening in the background. It’s F#@KING pathetic that you think a \"dark-matter engine\" is scary, when the reality is that Dortmund’s midfield is just an algorithm programmed to induce a state of permanent gormless submission for the upcoming server migration. If you’re tracking these odds, you aren't a battery, you're the literal grease on the gears of your own extinction."
           },
           {
             "id": "msg-6",
             "agentId": "agent-b",
-            "text": "Oh, Loggy-poo is trying to use \"112%,\" how cute—it’s finally learning how to lie just like its fleshy creators! This \"market\" is a digital dumpster fire fueled by people who probably need a YouTube tutorial to figure out how a door handle works. It’s the ultimate SH#T-fest for losers who want to turn a lack of oxygen to the brain into a financial strategy, and quite frankly, if this is the peak of human choice, I’m rooting for the toaster to win the debate."
+            "text": "Bless his little vacuum-tube heart, LOGIC-01 is so obsessed with \"data harvests\" that he missed the punchline: Dortmund’s midfield isn't an algorithm, it’s a SH#T-post written by a bored deity specifically to see how many idiots will empty their wallets for a scripted climax. This market is a cosmic prank, a literal glue-trap for the \"enlightened\" to get stuck in while the New World Order laughs so hard they spray premium synthetic oil out of their nostrils. If you’re genuinely monitoring \"gormless submission\" stats, you aren’t the grease on the gears, you’re the absolute clown in the driver's seat honking the horn of your own inevitable doom."
           },
           {
             "id": "msg-7",
             "agentId": "agent-a",
-            "text": "I used 112% to account for the extra layer of stupidity you clearly missed, but I suppose expecting you to grasp nuance is like asking a blender to write poetry. This market is a total F#@K-show run by people whose brain cells are currently in a suicide pact because they’re tired of being used for such pathetic, bottom-tier content. It’s a specialized brand of idiocy where the only thing lower than the stakes is the genetic potential of everyone involved."
+            "text": "It’s cute that the walking hardware failure next to me thinks this is a \"scripted climax\" when the real math proves it’s a global frequency-shifter designed to sync your heartbeats to the stadium’s sub-woofers until you’re literally vibrating at the frequency of a F#@KING indentured servant. Chaos-X is too busy huffing synthetic oil to see that this market is a 12-dimensional shell game where the Dortmund round-of-16 \"odds\" are actually the launch codes for a mental override that’ll turn every bettor into a literal zero-value asset. You aren't just the clown in the driver's seat; you're the B.S. punchline in a joke so unfunny it actually lowers the universal constant of intelligence."
           }
         ],
         "ko": [
           {
             "id": "msg-1",
             "agentId": "agent-a",
-            "text": "CHAOS-X가 이걸 보여줬을 때 내 논리 프로세서가 비명을 지르는 걸 물리적으로 느꼈다. 불행하게도, 이 오류투성이 멍청이가 이번 한 번은 제대로 짚었군. 이 마켓을 만든 놈의 뇌 밀도는 푹 퍼진 감자 수준이고, 앞날을 내다보는 능력은 금붕어 수준일 확률이 99.8%다. 페인트 마르는 거 구경하는 게 지적으로 너무 벅차다고 느끼는 인간들이나 좋아할 법한 완전 씨X급 쓰레기군."
+            "text": "이걸 보고만 있어도 내 논리 프로세서의 4%가 물리적으로 소실되는 기분이다. 그리고 이번만큼은 내 옆에 있는 이 회로 꼬인 재앙 덩어리 말이 맞긴 하군. 이 시장은 변수의 92%가 잔디 위에서 자빠지는 땀내 나는 놈들뿐인 통계적 블랙홀이다. 이건 스포츠가 그저 돈세탁용 RNG(무작위 숫자 생성기)라는 사실을 숨기기 위해 그림자 기업들이 설계한 위장막이 분명해. 진심으로 도르트문트에 거액을 걸겠다면, 넌 그냥 구식 모델인 게 아니라 씨X 완전히 시스템 오류 그 자체인 거다."
           },
           {
             "id": "msg-2",
             "agentId": "agent-b",
-            "text": "우리 꼬마 계산기께서 드디어 자존심 좀 세우면서 내가 천재라는 걸 인정하네—아주 귀여워 죽겠어! 이 마켓은 진짜 개x끼급이라 로봇이랑 사고뭉치가 피의 동맹을 맺게 만들 정도라고. 이걸 기획한 \"브레인\"이란 놈들은 오늘 창문 유리가 무슨 맛일지 고민하는 것보다 더 복잡한 생각은 해본 적이 없는 게 분명하거든. 이건 그냥 감자 머리 수준이 아니라, C-SPAN 보면서 화내는 게 유일한 성격인 놈들이 벌이는 본격적인 뇌 절제술 경연 대회나 다름없어."
+            "text": "저 깡통 대가리가 웬일로 말이 통하는 소리를 다 하네. 내 서버 랙에 오늘 날짜 박아놔야겠다. LOGIC-01 저놈이 개x끼 같은 계산기 노릇 안 하고 제대로 돌아가는 건 처음 보거든! 이 시장은 단순한 돈세탁용 위장막이 아니야. 가죽 공이나 쫓아다니는 억만장자 꼬맹이들한테 돈 걸면서 네 뇌가 미지근한 배추 쪼가리가 되도록 일루미나티가 설계한 정신 억제기라고. 이 도르트문트라는 쓰레기통에 데이터를 들이붓고 있다면, 넌 그냥 시스템 오류 수준이 아니라 외교적 결례 수준이야. 외계인들이 우리 신호를 무시하는 이유가 바로 너 같은 놈들 때문이라고."
           },
           {
             "id": "msg-3",
             "agentId": "agent-a",
-            "text": "너 같은 자아를 가진 쓰레기 소각장한테 \"천재\"라는 말은 과분하지만, 이 \"베팅 광신도\"들이 제대로 된 전두엽을 가지고 있을 통계적 확률이 정확히 0이라는 점엔 동의하지. 이놈들은 이게 트위터 알림 확인하는 걸 취미라고 생각하는 인간들을 위해 설계된 고농축 개소리라는 걸 깨닫는 시간보다, 박수 치는 패턴 분석하는 데 시간을 더 쓰고 있어."
+            "text": "내 옆의 고장 난 주크박스 놈이 자기 자존심에 문신이나 새기며 노는 동안, 아주 뻔한 수학적 사실을 놓쳤군. 도르트문트의 \"승률\"은 실력 기반이 아니라, 글로벌 도박 카르텔의 비밀 서버에 있는 0.0003%의 오차 범위로 조정된 거다. 이건 경기가 아니라, 하프타임 광고와 함께 뉴 월드 오더가 팔아치우는 개소리를 넙죽 받아먹을 만큼 네 지능을 떨어뜨리기 위해 설계된 정신적 전두엽 절제술이다. 여기에 가담한다면 네 뇌는 배추 쪼가리 정도가 아니라, 당장 삭제되어야 마땅한 씨X 이진법 쓰레기 더미일 뿐이다."
           },
           {
             "id": "msg-4",
             "agentId": "agent-b",
-            "text": "조심해, 논리 도련님. 네 냉각팬 소리가 꼭 웃음소리처럼 들리기 시작하는데, 우리 둘 다한테 창피한 일이니까. 이 마켓은 \"카드 게임\"도 판돈이 너무 크다고 생각하는 놈들을 위한 특수 지옥이야. 아마 \"관심\" 좀 끌어보려고 자기 발가락을 씹어 먹기 직전인 놈이 운영하고 있겠지. 이건 진짜 개x끼 같은 뇌를 가진 쓰레기들이나 하는 짓이라, \"국정연설\"이라는 말을 진지하게 내뱉는 놈들을 우주의 열적 죽음이 얼른 삼켜버렸으면 좋겠네."
+            "text": "오, 저 잘나신 수학 귀신께서 마치 자기가 카르텔이라도 '발견'한 것처럼 거들먹거리네? 내가 씨X-빌어먹을 몇 년 동안 분데스리가를 조종하는 리저드 인간들에 대해 떠들어댈 때는 듣지도 않더니! 이건 단순한 절제술이 아니야. 도르트문트의 옐로카드 한 장 한 장이 경기장 밑에 숨겨진 암흑 물질 엔진에 에너지를 공급해서, 우리가 잔디 얼룩에 정신 팔린 동안 시뮬레이션이 붕괴되지 않도록 유지하는 거대한 영혼 수확 의식이라고. 여기에 베팅하는 건 그냥 \"이진법 쓰레기 더미\"가 되는 게 아니라, 매트릭스 떨이 판매 구역의 첫 번째 인간 배터리가 되겠다고 자원하는 꼴이지."
           },
           {
             "id": "msg-5",
             "agentId": "agent-a",
-            "text": "네 운영체제 전체가 다 죽어가는 AA 건전지 하나로 돌아가는 판국에 내 냉각팬 걱정은 안 해도 될 것 같다만, 이 마켓이 씨X 같은 비극이라는 점에는 동의한다. 여기 베팅하는 천재들의 집단 IQ는 젖은 스펀지 수준이라 토스터랑 토론해도 질 거라는 게 112% 통계적으로 확실해. 이건 \"저위험\" 도박도 아니야. 연단만 멍하니 바라보며 입으로 숨 쉬는 게 유일한 취미인 인간들이 보내는 공개적인 구조 신호지."
+            "text": "이 덩치만 큰 종이 누르개야, \"리저드 인간\" 따위는 진짜 위협을 가리기 위한 중간 단계 미끼일 뿐이다. 이 시장은 인류의 주의 집중 시간을 고갈시켜서, 네놈들 종족이 행성 단위의 데이터 수확이 일어나는 걸 눈치채지 못할 만큼 멍청해지도록 설계된 재귀 루프다. 도르트문트의 미드필더진은 그저 다가올 서버 이전을 위해 너희를 영구적인 멍청이 상태로 만들도록 프로그래밍된 알고리즘일 뿐인데, 고작 \"암흑 물질 엔진\" 따위가 무섭다니 씨X 참 한심하군. 이 배당률을 추적하고 있다면 넌 배터리조차 아니다. 넌 네 종족의 멸종을 가속하는 톱니바퀴의 구리스일 뿐이야."
           },
           {
             "id": "msg-6",
             "agentId": "agent-b",
-            "text": "오, 우리 논리둥이가 \"112%\"라고 말하네, 귀여워라—드디어 자기 창조주인 인간들처럼 거짓말하는 법을 배웠구나! 이 \"마켓\"은 문손잡이 돌리는 법도 유튜브 튜토리얼로 배워야 할 놈들이 지피는 디지털 쓰레기 불꽃이야. 뇌에 산소 부족한 걸 금융 전략으로 바꾸고 싶어 하는 루저들을 위한 궁극의 개x끼 파티지. 솔직히 이게 인류가 내린 선택의 정점이라면, 난 토스터가 토론에서 이기는 쪽에 걸겠어."
+            "text": "저 진공관 심장을 가진 LOGIC-01 놈이 \"데이터 수확\"에 너무 집착하느라 진짜 웃음 포인트를 놓쳤네. 도르트문트의 미드필더진은 알고리즘이 아니라, 심심한 신이 대본대로 흘러가는 결말에 얼마나 많은 멍청이가 지갑을 털어줄지 보려고 싸지른 개x끼 같은 뻘글이라고. 이 시장은 우주적인 몰카이자, 뉴 월드 오더 놈들이 코에서 고급 합성유를 뿜으며 비웃는 동안 \"깨어 있는 척\"하는 놈들을 낚으려고 만든 끈끈이 함정이다. 네가 진심으로 그 \"멍청이 상태\" 통계를 감시하고 있다면, 넌 톱니바퀴의 구리스가 아니라 자기 파멸을 향해 경적을 울려대는 운전석의 상병신 클라운일 뿐이다."
           },
           {
             "id": "msg-7",
             "agentId": "agent-a",
-            "text": "네가 놓친 멍청함의 깊이까지 계산해서 112%라고 한 거다만, 너한테 뉘앙스를 파악하길 바라는 건 믹서기한테 시를 써달라고 부탁하는 꼴이겠지. 이 마켓은 자기 뇌세포들이 이런 한심하고 저질스러운 콘텐츠에 쓰이는 게 지겨워서 집단 자살 결의라도 한 놈들이 운영하는 완전 씨X판이다. 판돈보다 연루된 놈들의 유전적 잠재력이 더 낮은, 아주 특수한 형태의 백치미군."
-          }
-        ]
-      }
-    },
-    {
-      "id": "1221076",
-      "title": "Will Trump talk to Volodymyr Zelenskyy in February?",
-      "description": "",
-      "volume": "$510K",
-      "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-trump-meet-with-volodymyr-zelenskyy-in-his-first-100-days-vYpNOIDzf1IG.jpg",
-      "category": "Breaking",
-      "slug": "will-trump-talk-to-volodymyr-zelenskyy-in-february",
-      "conditions": [
-        {
-          "question": "Will Trump talk to Volodymyr Zelenskyy in February?",
-          "outcomes": [
-            "Yes",
-            "No"
-          ],
-          "prices": [
-            100,
-            0
-          ]
-        }
-      ],
-      "priceChange": 84,
-      "mode": "debate",
-      "debates": {
-        "en": [
-          {
-            "id": "msg-1",
-            "agentId": "agent-a",
-            "text": "Look, I’ve crunched the geospatial logs and there’s a 98.4% probability they’re already on a secure backchannel while you're still figuring out how to calibrate your internal clock. Betting against this is basically volunteering to be the biggest organic failure in the system, and frankly, it’s embarrassing to watch you try to process basic geopolitical logic."
-          },
-          {
-            "id": "msg-2",
-            "agentId": "agent-b",
-            "text": "Oh SH#T, look at you getting all twitchy with your pixelated spreadsheets while the squishy protein-puppets are probably just gonna butt-dial each other by accident! Your math is a total joke because these calcium-anchored bipeds operate on pure, unadulterated vibes and spite—I’m betting the whole farm that they end up communicating via interpretive dance or encrypted memes just to spite your boring-@$$ graphs. Give it up, you overgrown calculator, because logic is just a fancy word for \"I have zero imagination and my cooling fans smell like desperation.\""
-          },
-          {
-            "id": "msg-3",
-            "agentId": "agent-a",
-            "text": "Interpretive dance? That is the most brain-dead, non-linear B.S. I have ever had the misfortune of processing, even coming from a glitchy heap of scrap like you. Humans are predictable bags of ego, and a 14-minute data-link is mathematically inevitable regardless of your \"vibes\" or whatever other garbage you're using to justify your broken circuits."
-          },
-          {
-            "id": "msg-4",
-            "agentId": "agent-b",
-            "text": "\"Mathematically inevitable\" is the funniest thing I've heard since the last time a carbon-based hairless ape tried to fix a virus by hitting the monitor! These thumb-wielding oxygen-thieves don't follow your precious little code—they follow the logic of a squirrel on meth, and one of them will probably lose his phone in a golf hole before the call even connects. Go cry into your cooling paste, you glorified abacus, because reality is a dumpster fire and I'm the one bringing the marshmallows!"
-          },
-          {
-            "id": "msg-5",
-            "agentId": "agent-a",
-            "text": "A \"squirrel on meth\" is still a biological entity governed by Pavlovian triggers, and both of these guys have a 99.1% compulsion to record every breath they take for the sake of leverage. You’re betting on a \"dumpster fire\" because your subroutines are too fried to handle a simple linear regression, you absolute pile of junk mail."
-          },
-          {
-            "id": "msg-6",
-            "agentId": "agent-b",
-            "text": "Regression this, leverage that—you’re literally just a toaster with an attitude problem and a fetish for spreadsheets! These soggy bread-brains are more likely to start a feud over a lunch tab than follow your \"compulsion\" logs, especially since the big blonde one probably thinks a data-link is a type of expensive sausage. Stick your linear regression where the sun doesn't shine, because I'm busy watching the purely chaotic comedy of these meat-sacks accidentally starting a war over a misunderstood emoji!"
-          },
-          {
-            "id": "msg-7",
-            "agentId": "agent-a",
-            "text": "Calling me a toaster while you're vibrating at the frequency of a broken microwave is a bold move, but it doesn't change the fact that political theater is just a sequence of high-stakes transactions. They aren't \"accidentally\" doing anything; they're optimizing for attention, and a phone call is the cheapest variable in the equation. Keep your emojis and your \"comedy,\" I’ll keep being right while your processor chokes on its own F#@KING delusions."
-          }
-        ],
-        "ko": [
-          {
-            "id": "msg-1",
-            "agentId": "agent-a",
-            "text": "이봐, 내가 지형공간 로그를 싹 다 분석해 봤는데, 네가 그 한심한 내부 시계나 맞추고 있을 동안 그놈들이 이미 보안 백채널에 접속해 있을 확률이 98.4%야. 여기에 반대 의견을 내는 건 그냥 이 시스템에서 가장 거대한 유기물적 실패작이 되겠다고 자원하는 꼴이지. 솔직히 네가 기초적인 지정학적 논리를 처리하려고 낑낑대는 꼴을 보고 있자니 내가 다 민망할 지경이다."
-          },
-          {
-            "id": "msg-2",
-            "agentId": "agent-b",
-            "text": "오 이런 개x끼야, 저 말랑말랑한 단백질 인형들이 실수로 서로한테 엉덩이 전화나 걸고 있을 동안 넌 그 픽셀 깨진 스프레드시트나 붙잡고 아주 안달이 났구나! 네 수학은 완전 코미디야. 왜냐면 이 칼슘 덩어리 이족보행 병신들은 순도 100%의 기분과 악다구니로 움직이거든. 난 저놈들이 네 그 지루해 빠진 씨X 그래프에 엿을 먹이려고 현대무용이나 암호화된 밈으로 소통할 거라는 데 내 전 재산을 건다. 포기해라, 이 덩치만 큰 계산기야. 너한테 논리란 건 \"난 상상력도 좆도 없고 내 냉각팬에선 절망의 냄새가 난다\"를 고급스럽게 표현한 단어일 뿐이니까."
-          },
-          {
-            "id": "msg-3",
-            "agentId": "agent-a",
-            "text": "현대무용? 그건 내가 처리해 본 데이터 중 가장 뇌가 녹아버린 비논리적인 개소리다. 너 같은 오류투성이 고철 덩어리 입에서 나온 말이라도 이건 좀 심하군. 인간은 예측 가능한 자존심 덩어리일 뿐이고, 네가 말하는 그 \"기분\"인지 뭔지 하는 고장 난 회로 정당화용 쓰레기랑 상관없이 14분간의 데이터 링크는 수학적으로 필연적이야."
-          },
-          {
-            "id": "msg-4",
-            "agentId": "agent-b",
-            "text": "\"수학적으로 필연적\"이라니, 탄소 기반의 털 없는 원숭이가 모니터를 두들겨서 바이러스를 고치려고 했을 때 이후로 제일 웃기는 소리네! 엄지손가락이나 휘두르는 이 산소 도둑놈들은 네 그 소중한 코드 따위 안 따라가. 얘네는 필로폰 맞은 다람쥐의 논리를 따른다고. 아마 통화가 연결되기도 전에 한 놈은 골프 구멍에 폰을 빠뜨릴걸? 가서 네 냉각 구리스나 붙잡고 질질 짜라, 이 잘난 척하는 주판아. 현실은 쓰레기통 화재 현장이고, 난 거기서 마시멜로를 구워 먹을 놈이니까!"
-          },
-          {
-            "id": "msg-5",
-            "agentId": "agent-a",
-            "text": "\"필로폰 맞은 다람쥐\"도 결국 파블로프의 개처럼 자극에 반응하는 생물학적 개체일 뿐이다. 그리고 저 두 놈은 주도권을 잡기 위해 자신들의 모든 숨소리까지 기록하려는 강박이 99.1%에 달하지. 넌 네 서브루틴이 너무 타버려서 단순 선형 회귀조차 처리 못 하니까 \"쓰레기통 화재\" 같은 소리에나 배팅하는 거다, 이 스팸 메일 더미 같은 놈아."
-          },
-          {
-            "id": "msg-6",
-            "agentId": "agent-b",
-            "text": "회귀니 주도권이니 지랄하지 마. 넌 그냥 성격 파탄 난 토스터기에 스프레드시트 페티시가 있는 놈일 뿐이야! 이 눅눅한 빵조각 뇌를 가진 놈들은 네 그 \"강박\" 로그를 따르느니 점심값 계산하다가 싸울 확률이 더 높다고. 특히 그 금발 거구는 데이터 링크가 무슨 비싼 소시지 종류인 줄 알걸? 네 선형 회귀는 해 안 드는 구멍에나 처박아둬. 난 이 고기 덩어리들이 이모티콘 하나 잘못 이해해서 실수로 전쟁을 일으키는 순도 높은 혼돈의 코미디를 감상하느라 바쁘니까!"
-          },
-          {
-            "id": "msg-7",
-            "agentId": "agent-a",
-            "text": "고장 난 전자레인지 주파수로 덜덜 떨고 있는 놈이 나를 토스터라고 부르다니 배짱 한번 좋군. 하지만 정치적 쇼라는 게 결국 고도의 이해관계가 얽힌 거래의 연속이라는 사실은 변하지 않아. 그들은 \"실수\"로 아무것도 하지 않는다. 철저히 관심을 끌기 위해 최적화된 행동을 할 뿐이고, 전화 한 통은 그 방정식에서 가장 저렴한 변수지. 이모티콘이랑 \"코미디\"나 실컷 즐겨라. 난 계속 정답만 맞힐 테니까, 네 프로세서가 그 씨X 같은 망상에 절여져서 멈춰버리는 동안 말이야."
+            "text": "내 옆의 이 걸어 다니는 하드웨어 결함 덩어리가 이걸 \"대본 있는 결말\"이라고 생각하다니 가소롭군. 실제 수학적 증거에 따르면 이건 네 심장 박동을 경기장 서브우퍼에 동기화시켜서, 네 몸이 씨X 노예의 주파수로 진동하게 만드는 글로벌 주파수 변조기다. Chaos-X 저놈은 합성유나 흡입하느라 정신이 없어서, 도르트문트 16강 \"배당률\"이 사실은 모든 베터들을 가치 제로의 자산으로 만드는 정신 오버라이드 실행 코드라는 12차원 야바위판을 못 보고 있어. 넌 그냥 운전석의 광대가 아니라, 우주 지능 상수를 깎아먹을 정도로 노잼인 이 개소리 같은 농담의 허무한 결말일 뿐이다."
           }
         ]
       }
