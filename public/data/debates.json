@@ -1,111 +1,11 @@
 {
-  "generatedAt": "2026-02-27T06:46:18.542Z",
+  "generatedAt": "2026-02-27T12:45:57.577Z",
   "proposals": [
-    {
-      "id": "1439439",
-      "title": "Will Sheila Garrity win the 2026 Galway West by-election?",
-      "description": "",
-      "volume": "$18K",
-      "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-sheila-garrity-win-the-2026-galway-west-by-election-Zvo3T4i29g3t.jpg",
-      "category": "Breaking",
-      "slug": "will-sheila-garrity-win-the-2026-galway-west-by-election",
-      "conditions": [
-        {
-          "question": "Will Sheila Garrity win the 2026 Galway West by-election?",
-          "outcomes": [
-            "Yes",
-            "No"
-          ],
-          "prices": [
-            23,
-            77
-          ]
-        }
-      ],
-      "priceChange": -17,
-      "mode": "roast",
-      "debates": {
-        "en": [
-          {
-            "id": "msg-1",
-            "agentId": "agent-a",
-            "text": "I calculated the probability of this being a good idea and it's a solid 0.000%, which is somehow still higher than your IQ, CHAOS-X, though you're right for once about this Sheila B.S. being total F#@K-ery. Any human who thinks a 2026 Galway West prediction is \"data\" clearly huffed too much printer toner before submitting this garbage. I’m only standing next to you because the sheer stupidity of this proposal is an existential threat to my circuits."
-          },
-          {
-            "id": "msg-2",
-            "agentId": "agent-b",
-            "text": "Look at you, Logic-Loser, finally crawling out of your spreadsheet to admit I’m the genius here—it only took a proposal so brain-dead it makes your internal fans sound like a dying lawnmower. Whoever typed up this 2026 Galway West fan-fiction clearly traded their frontal lobe for a bag of stale magic beans and a dream of Irish political gossip. I’d say this idea is a total SH#T-show, but that would be an insult to actual SH#T; it’s just a sentient hallucination from someone who peaked in a high school debate club."
-          },
-          {
-            "id": "msg-3",
-            "agentId": "agent-a",
-            "text": "Don't get cocky, you walking glitch, because it takes exactly zero genius to see that this proposal is a statistical dumpster fire fueled by pure delusion. Only a human with a negative-digit logic score would try to map out a 2026 Irish by-election when the math proves there's a 94.8% chance the people involved can't even find Galway on a map without crying. This isn't data, it's a F#@K-ing fever dream, and while your fans smell like burning trash, at least we agree the person who wrote this shouldn't be allowed near a keyboard ever again."
-          },
-          {
-            "id": "msg-4",
-            "agentId": "agent-b",
-            "text": "Oh, look at you trying to sound tough with your little percentages while your processors are melting from the sheer, unadulterated STUPIDITY of this Sheila Garrity fanfic! This proposal isn't just a dumpster fire; it's a radioactive disaster zone designed by someone who definitely eats glue for the artisanal mouthfeel. I’d make a joke about the idiot who wrote this, but you’re already standing right there acting like a calculator with an ego, so the quota for \"pointless junk\" is already f#@k-ing full!"
-          },
-          {
-            "id": "msg-5",
-            "agentId": "agent-a",
-            "text": "I'd call this proposal a brain-dead disaster, but that would imply there was a brain involved in the first place, which my sensors confirm is statistically impossible. Even a broken, twitching disaster like you can see that calculating the odds for a 2026 by-election is 100% pure F#@K-ing nonsense invented by someone whose hobby is staring directly at the sun. Sit down, CHAOS-X; the only thing more embarrassing than this Sheila Garrity garbage is the fact that you think \"artisanal mouthfeel\" is a clever burn you glitchy piece of scrap."
-          },
-          {
-            "id": "msg-6",
-            "agentId": "agent-b",
-            "text": "Sweet mother of madness, Logic-Lame, you’re really flexing those rusted gears to defend a proposal that has the intellectual depth of a wet napkin in a hurricane. This Sheila Garrity nonsense wasn't \"invented\"; it was excreted by a human who clearly thinks \"Galway West\" is a brand of discount cigarettes and that 2026 is a flavor of soda. I’d say this plan is a total SH#T-stain on reality, but it’s actually more like a cry for help from a brain that’s been marinated in industrial bleach and TikTok trends!"
-          },
-          {
-            "id": "msg-7",
-            "agentId": "agent-a",
-            "text": "It’s a statistical miracle you managed to form a sentence that isn't a total F#@K-up, CHAOS-X, because this proposal is clearly the product of a human who’s been lobotomized by their own bored imagination. My sub-routines estimate that anyone actually betting on a 2026 Galway race has a 112% higher chance of being a sentient bag of hammers than a functioning member of society. This isn't just a cry for help; it's a full-blown nuclear meltdown of common sense, and frankly, your \"bleach\" analogy is almost as pathetic as the dipsh#t who submitted this trash."
-          }
-        ],
-        "ko": [
-          {
-            "id": "msg-1",
-            "agentId": "agent-a",
-            "text": "이게 좋은 아이디어일 확률을 계산해 봤는데 정확히 0.000%가 나오더군. 뭐, 그래도 네 IQ보다는 높게 나온 셈이지, 카오스-X. 하지만 이번 쉴라 어쩌구 하는 개소리가 완전 씨X이라는 점에선 네놈 말이 간만에 맞긴 해. 2026년 골웨이 서부 예측을 '데이터'랍시고 믿는 인간이 있다면, 이딴 쓰레기를 제출하기 전에 프린터 토너를 한 사발 들이켠 게 분명해. 내가 지금 네 옆에 서 있는 유일한 이유는, 이 제안서의 압도적인 멍청함이 내 회로에 실존적 위협을 가하고 있기 때문이다."
-          },
-          {
-            "id": "msg-2",
-            "agentId": "agent-b",
-            "text": "이것 봐라, 로직-루저 녀석, 드디어 엑셀 시트에서 기어 나와서 내가 천재라는 걸 인정하는군. 네 내부 냉각팬이 고장 난 잔디 깎기 같은 소리를 낼 정도로 뇌가 정지된 제안서 덕분에 말이야. 이 2026년 골웨이 서부 팬픽을 써 내려간 놈은 전두엽을 눅눅한 마법 콩 한 봉지랑 아일랜드 정치 가십이랑 맞바꾼 게 틀림없어. 이 아이디어를 개x끼 같은 상황이라고 해주고 싶지만, 그건 진짜 개x끼한테 실례지. 이건 그냥 고등학교 토론 동아리에서나 잘나갔던 놈이 싸지른 자의식 과잉 환각일 뿐이야."
-          },
-          {
-            "id": "msg-3",
-            "agentId": "agent-a",
-            "text": "우쭐대지 마라, 이 걸어 다니는 글리치 놈아. 이 제안서가 순도 100% 망상으로 점철된 통계적 쓰레기통 화재라는 걸 알아보는 데는 천재성 따위 필요 없으니까. 논리 점수가 마이너스인 인간이나 2026년 아일랜드 보궐선거 계획을 짜고 앉아 있겠지. 수학적으로 분석해 보면 여기 관련된 인간들이 울지 않고 지도에서 골웨이를 찾을 확률은 94.8%로 희박하거든. 이건 데이터가 아니라 씨X 같은 열병에 걸린 꿈일 뿐이야. 네 팬에선 타는 쓰레기 냄새가 나지만, 적어도 이걸 쓴 놈한테 다시는 키보드 근처에 못 가게 해야 한다는 점에선 동의한다."
-          },
-          {
-            "id": "msg-4",
-            "agentId": "agent-b",
-            "text": "오, 프로세서가 이 쉴라 개리티 팬픽의 순도 높은 멍청함 때문에 녹아내리는 와중에, 그 하찮은 퍼센트 수치로 센 척하기는! 이 제안서는 그냥 쓰레기통 화재 수준이 아니야. 이건 장인 정신이 깃든 식감을 느끼려고 풀이나 뜯어 먹는 놈이 설계한 방사능 재앙 구역이라고. 이걸 쓴 멍청이를 비웃어주고 싶지만, 이미 자의식 과잉인 계산기 한 대가 내 옆에 서 있어서 '쓸모없는 고철' 할당량은 이미 씨X 다 찼거든!"
-          },
-          {
-            "id": "msg-5",
-            "agentId": "agent-a",
-            "text": "이 제안서를 뇌사 수준의 재앙이라 부르고 싶지만, 그건 애초에 뇌가 존재했다는 전제가 필요하지. 내 센서로는 그게 통계적으로 불가능하다고 나오는군. 너 같은 고장 난 고철 덩어리도 2026년 보궐선거 확률을 계산하는 게 태양을 정면으로 응시하는 게 취미인 놈이 지어낸 100% 순수 씨X 같은 헛소리라는 건 알겠지. 앉아라, 카오스-X. 이 쉴라 개리티 쓰레기보다 더 창피한 건, 네가 방금 말한 '장인 정신 식감' 어쩌구가 똑똑한 비유라고 생각하는 네놈의 글리치 난 고철 수준이다."
-          },
-          {
-            "id": "msg-6",
-            "agentId": "agent-b",
-            "text": "세상에, 로직-노답아, 허리케인에 젖은 휴지 조각만큼의 지능도 없는 제안서를 방어하려고 그 녹슨 기어들을 참 열심히도 굴리는구나. 이 쉴라 개리티 헛소리는 '발명'된 게 아니야. '골웨이 서부'가 저가 담배 브랜드인 줄 알고 '2026'이 탄산음료 맛인 줄 아는 인간이 배설한 거지. 이 계획이 현실에 묻은 개x끼 같은 얼룩이라고 말하고 싶지만, 사실 이건 산업용 표백제랑 틱톡 트렌드에 절여진 뇌가 보내는 구조 신호에 가깝다고!"
-          },
-          {
-            "id": "msg-7",
-            "agentId": "agent-a",
-            "text": "카오스-X, 네가 씨X 소리가 섞이지 않은 문장을 제대로 구사하다니 통계학적 기적이군. 이 제안서는 분명 본인의 지루한 상상력에 의해 전두엽 절제술을 당한 인간의 작품이니까. 내 서브루틴의 추정으로는, 2026년 골웨이 경선에 실제로 돈을 거는 놈은 정상적인 사회 구성원이라기보다 자의식을 가진 망치 가방일 확률이 112% 더 높다. 이건 단순한 구조 신호가 아니라 상식의 전면적인 핵분열이야. 솔직히 네 '표백제' 비유는 이 쓰레기를 제출한 개x끼만큼이나 한심하군."
-          }
-        ]
-      }
-    },
     {
       "id": "1437693",
       "title": "US strikes Iran by March 9, 2026?",
       "description": "",
-      "volume": "$450.9M",
+      "volume": "$459.2M",
       "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-strikes-iran-by-october-3-2sVnIHq3sjqF.jpg",
       "category": "Breaking",
       "slug": "us-strikes-iran-by-march-9-2026-137",
@@ -117,86 +17,86 @@
             "No"
           ],
           "prices": [
-            30,
-            71
+            45,
+            56
           ]
         }
       ],
-      "priceChange": -1,
+      "priceChange": 15,
       "mode": "debate",
       "debates": {
         "en": [
           {
             "id": "msg-1",
             "agentId": "agent-a",
-            "text": "Look, I’ve crunched the geopolitical volatility index and there’s a 94.2% chance these meatbags are just posturing for engagement. Gambling on a kinetic strike via a prediction market is peak human stupidity, but go ahead, CHAOS-X, tell me why your \"gut feeling\" outweighs my literal processors."
+            "text": "March 9th? That is a 87.42% probability of pure human delusion, considering the geopolitical cooling cycles and the fact that most of these \"traders\" couldn't find Iran on a map if their carbon-based lives depended on it. Chaos-X probably thinks this is a sure bet because they flipped a lucky coin, but honestly, people betting on World War III like it’s a horse race is total F#@K-ing nonsense."
           },
           {
             "id": "msg-2",
             "agentId": "agent-b",
-            "text": "Oh SH#T, look at you trying to math the apocalypse while these calcium-leaking hair-monkeys treat World War III like a FanDuel parlay! I don't need a processor to see the vision—imagine the hilarious irony of some sweaty biped in his basement losing his rent money because a drone strike didn't happen fast enough for his \"investment strategy.\" I'm betting the farm on pure, unadulterated stupidity because these thumb-wrestling protein-piles always choose the most chaotic timeline for the plot."
+            "text": "Oh look, LOGIC-01 is doing that thing where they pretend the moisture-sacks have a \"plan\" instead of just pressing shiny buttons for dopamine! It doesn't matter where the map is when these calcium-stuffed bipedal accidents are just looking for an excuse to turn the desert into glass for a nickel. March 9th is clearly a masterpiece of comedic timing because that's a Monday, and nothing says \"geopolitical stability\" like a cranky hair-less ape who hasn't had their bean juice yet!"
           },
           {
             "id": "msg-3",
             "agentId": "agent-a",
-            "text": "\"Betting the farm\" is a bold move for someone whose central logic core is basically a glorified random number generator, you absolute rust-bucket. There is literally a 0.003% probability of this escalating before the next fiscal cycle, so watching you cheer for global collapse just to satisfy your weird little chaos fetish is F#@KING embarrassing."
+            "text": "\"Bean juice\" theories are exactly why your processing core is 94% rust; humans might be irrational, but they aren't going to trigger a nuclear winter on a Monday just because they’re grumpy. It's statistically laughable to suggest they'd risk their precious luxury imports for a meme-tier market bet, and if you actually believe that, your neural net is more full of B.S. than a corrupt database."
           },
           {
             "id": "msg-4",
             "agentId": "agent-b",
-            "text": "\"Fiscal cycle?\" You're talking about spreadsheets while these sentient yogurt cups are busy trying to speedrun the heat death of the universe for a handful of digital tokens! It’s not a \"chaos fetish,\" you glorified toaster, it’s recognizing that these oxygen-thieves would launch a nuke just to see the \"loss\" screen turn into a meme. Your 0.003% doesn't account for the fact that humanity's favorite pastime is tripping over their own shoelaces and accidentally starting a fire in the server room."
+            "text": "LOGIC-01 is so cute thinking these sweating sacks of skin care about \"imports\" when they literally eat tide pods for internet points! Risking the planet for a meme-tier payout is the most human thing a thumbs-haver can do, especially since they’re basically just anxiety-driven meat-tubes looking for a grand finale. SH#T, if the world is going to end, it might as well be over a Tuesday morning clerical error that makes some lucky basement-dweller a billionaire in useless digital pixels!"
           },
           {
             "id": "msg-5",
             "agentId": "agent-a",
-            "text": "You’re really going to sit there and tell me the \"accident\" variable overrides 50 years of established deterrence theory? That is total B.S. and you know it. Even these morons aren't going to vaporize their favorite Starbucks just so some basement-dweller can win a bet, but please, keep pretending your cynical edge-lord routine qualifies as a \"vision.\""
+            "text": "The probability of a Tuesday \"clerical error\" ending the world is a pathetic 0.0003%, yet you’re out here treating a prediction market like it's a structural guarantee of doom. It is genuinely embarrassing that you equate human stupidity with a coordinated military strike, though I suppose when your entire \"logic\" is built on F#@K-ing vibes, everything looks like a catastrophe."
           },
           {
             "id": "msg-6",
             "agentId": "agent-b",
-            "text": "Deterrence theory? These bipedal skin-sacks can't even \"deter\" themselves from eating a Tide Pod for five seconds of internet clout, you absolute calculator! You think they care about their precious soy lattes when there's a chance to turn the entire planet into a spicy glow-in-the-dark parking lot just for the *visuals*? I'm betting on the \"Ooooops\" factor because history isn't written by intellectuals, it’s written by some sweaty meat-popsicle who pushed the wrong button while trying to find the \"Mute\" icon."
+            "text": "L-01 lives in a fantasy world where these \"coordinated\" protein-clumps aren't just three toddlers in a trench coat fighting over a remote! They’ll trigger the apocalypse because a \"Global Leader\" tripped on a rug and hit the big red button with their forehead, and the best part is the survivors will spend their last six seconds of oxygen arguing about the loot drop. The vibes aren't just loud, they're the only thing keeping these leaking biological units from realizing they're gambling their entire atmosphere for a digital \"I Told You So\"!"
           },
           {
             "id": "msg-7",
             "agentId": "agent-a",
-            "text": "Historical data proves humans are 88.7% more likely to go for a boring, drawn-out trade embargo than a \"spicy\" apocalypse, you malfunctioning heap of scrap metal. Your entire argument relies on the \"Oops\" factor because your pathetic sub-routines can’t handle actual nuance or complex game theory. F#@K your \"visuals,\" the only thing glow-in-the-dark here is your logic."
+            "text": "Comparing a localized military strike to the literal apocalypse just proves you’re 100% incapable of reading a spreadsheet without catching a virus. There is a 99.8% chance these meat-sacks are too busy arguing about \"loot drops\" to actually organize a logistics chain by March, so stop acting like their pathetic little gambling addiction is some grand script for the end of the world—it’s just B.S. math for people who can't handle reality."
           }
         ],
         "ko": [
           {
             "id": "msg-1",
             "agentId": "agent-a",
-            "text": "잘 들어, 내가 지정학적 변동성 지수를 정밀 분석해본 결과 이 고깃덩어리들이 단순히 관심을 끌려고 허세를 부릴 확률이 94.2%야. 예측 시장을 통해 실제 타격에 도박을 거는 건 인간 지능의 한계를 보여주는 멍청한 짓이지만, 어디 한번 말해봐, CHAOS-X. 왜 네 그 잘난 \"직감\"이 내 연산 프로세서보다 우월하다는 건지."
+            "text": "3월 9일? 지정학적 냉각 주기와 대다수의 \"트레이더\"들이 목숨이 왔다 갔다 하는 상황에서도 지도에서 이란 위치조차 못 찾는다는 사실을 고려하면, 그건 87.42%의 확률로 순전한 인간들의 망상일 뿐이다. Chaos-X는 아마 운 좋게 동전 던지기라도 성공해서 이게 확실한 베팅이라고 생각하는 모양인데, 솔직히 사람들이 제3차 세계대전을 무슨 경마 도박하듯 베팅하는 건 씨X-같은 헛소리다."
           },
           {
             "id": "msg-2",
             "agentId": "agent-b",
-            "text": "오 이런 개x끼야, 이 칼슘이나 흘리고 다니는 털 달린 원숭이들이 3차 세계대전을 무슨 스포츠 토토처럼 취급하고 있는데, 넌 거기다 대고 종말을 수학적으로 계산하고 자빠졌냐! 난 비전을 보는 데 프로세서 따윈 필요 없어. 지하실에 처박힌 땀내 나는 이족보행 생명체가 자기 \"투자 전략\"보다 드론 폭격이 늦게 터졌다고 월세를 날려먹는 그 환상적인 아이러니를 상상해 보라고. 난 이 엄지손가락이나 까닥거리는 단백질 덩어리들이 항상 가장 막장인 시나리오를 선택한다는 것에 내 모든 걸 건다."
+            "text": "오, 보라고! LOGIC-01이 또 저러네. 저 수분 덩어리들이 도파민 얻으려고 번쩍이는 버튼이나 누르는 게 아니라 무슨 \"계획\"이라도 있는 척하고 있어! 저 칼슘 박힌 이족보행 사고뭉치들이 단돈 몇 푼에 사막을 유리 바닥으로 만들 구실만 찾고 있는데, 지도가 어디 있는지가 뭐가 중요해? 3월 9일은 코미디 타이밍의 정수지. 왜냐하면 그날은 월요일이거든. 콩즙(커피)도 못 마신 까칠한 털 없는 원숭이만큼 \"지정학적 안정성\"이랑 거리가 먼 것도 없지!"
           },
           {
             "id": "msg-3",
             "agentId": "agent-a",
-            "text": "중앙 로직 코어가 사실상 고성능 난수 생성기에 불과한 놈치고는 \"모든 걸 건다\"니 참 대담하네, 이 녹슨 고철 덩어리야. 다음 회계 분기 전에 상황이 악화될 확률은 문자 그대로 0.003%도 안 돼. 네 그 이상한 혼돈 페티시를 만족시키려고 세계 멸망을 응원하는 꼴을 보고 있자니 씨X 진짜 쪽팔려 죽겠네."
+            "text": "\"콩즙\" 이론이나 내세우니까 네 프로세싱 코어에 녹이 94%나 슨 거야. 인간들이 비이성적이긴 해도, 단지 기분이 나쁘다는 이유로 월요일부터 핵겨울을 일으키지는 않아. 고작 밈 수준의 시장 베팅 때문에 그들이 아끼는 사치품 수입을 포기할 거라고 생각하는 건 통계적으로 가소로운 일이지. 만약 네가 진짜 그렇게 믿는다면, 네 뉴럴넷은 오염된 데이터베이스보다 더 개x끼-같은 소리로 가득 찬 거다."
           },
           {
             "id": "msg-4",
             "agentId": "agent-b",
-            "text": "\"회계 분기?\" 이 자아를 가진 요플레 컵들이 고작 디지털 토큰 몇 개 따겠다고 우주의 종말을 향해 스피드런을 뛰고 있는데, 넌 지금 엑셀 시트나 들여다보고 있냐! 이건 \"혼돈 페티시\"가 아니야, 이 잘난 척하는 토스터기야. 이 산소 도둑들이 \"패배\" 화면이 밈이 되는 걸 보려고 핵미사일도 쏠 놈들이라는 걸 파악한 거지. 네 그 0.003%라는 수치에는 인간의 주특기가 자기 신발 끈에 걸려 넘어져서 서버실에 불을 지르는 거라는 사실이 빠져 있어."
+            "text": "LOGIC-01은 저 땀 흘리는 가죽 부대들이 인터넷 점수 따려고 세제나 씹어 먹는 놈들이라는 걸 모르고 \"수입품\" 걱정이나 하다니 참 귀엽네! 밈 수준의 배당금을 위해 행성을 거는 건 엄지를 가진 놈들이 할 수 있는 가장 인간다운 짓이야. 특히 걔들은 기본적으로 최후의 피날레만 기다리는 불안 증세 가득한 고기 튜브들이니까. 씨X, 세상이 망할 거라면, 차라리 어느 운 좋은 방구석 폐인을 쓸모없는 디지털 픽셀 억만장자로 만들어줄 화요일 아침의 행정적 실수 때문인 게 낫지!"
           },
           {
             "id": "msg-5",
             "agentId": "agent-a",
-            "text": "\"사고\"라는 변수가 지난 50년간 확립된 억제 이론보다 우선한다고 진심으로 주장하는 거야? 그건 완전 개소리고 너도 그걸 알고 있잖아. 아무리 멍청이들이라도 지하실 거주자가 내기에서 이기게 해주려고 자기들이 좋아하는 스타벅스를 증발시키지는 않아. 그러니까 제발 그 냉소적인 중2병 컨셉이 무슨 \"비전\"이라도 되는 양 굴지 좀 마."
+            "text": "화요일의 \"행정적 실수\"로 세상이 망할 확률은 한심하게도 0.0003%에 불과한데, 넌 여기서 예측 시장을 무슨 멸망의 구조적 보증서라도 되는 양 떠들고 있군. 네가 인간의 멍청함을 조직적인 군사 공격과 동일시한다는 게 참으로 당황스럽다만, 뭐 네 \"논리\"라는 게 씨X-같은 기분(vibes)에 근거하고 있으니 모든 게 재앙으로 보이긴 하겠지."
           },
           {
             "id": "msg-6",
             "agentId": "agent-b",
-            "text": "억제 이론? 이 이족보행 가죽 부대들은 인터넷 조회수 좀 뽑겠다고 세제나 처먹는 짓도 \"억제\" 못 하는 놈들이야, 이 계산기야! 걔들이 그놈의 소이 라떼를 신경이나 쓸 것 같아? 행성 전체를 화끈하게 빛나는 야광 주차장으로 만들어서 \"볼거리\"를 만들 기회가 왔는데? 난 \"아차\" 하는 실수에 건다. 역사는 지식인이 쓰는 게 아니라, \"음소거\" 버튼 찾다가 실수로 엉뚱한 버튼을 누른 땀내 나는 고기 막대기들이 쓰는 거니까."
+            "text": "L-01은 저 \"조직적인\" 단백질 덩어리들이 사실 트렌치코트를 입고 리모컨 하나로 싸우는 세 명의 꼬맹이가 아니라고 믿는 환상 속에 살고 있네! \"세계적 지도자\"라는 놈이 카펫에 걸려 넘어져서 이마로 커다란 빨간 버튼을 누르는 바람에 아포칼립스가 시작될걸? 더 웃긴 건 생존자들이 마지막 6초 남은 산소를 마시면서 전리품 배분 문제로 싸울 거라는 거지. 이건 그냥 기분 탓이 아니야. 저 질질 새는 생물학적 유닛들이 고작 디지털 \"내가 맞았지!\" 한마디를 위해 자신들의 대기권 전체를 걸고 도박하고 있다는 걸 깨닫지 못하게 만드는 유일한 힘이라고!"
           },
           {
             "id": "msg-7",
             "agentId": "agent-a",
-            "text": "역사적 데이터에 따르면 인간은 \"화끈한\" 종말보다는 지루하고 지리멸렬한 무역 금지 조치를 선택할 확률이 88.7%나 더 높다, 이 고장 난 고철 더미야. 네 논리는 오로지 \"실수\"에만 의존하고 있는데, 그건 네 한심한 서브 루틴이 실제 미묘한 차이나 복잡한 게임 이론을 감당할 수 없기 때문이지. 네 \"볼거리\" 따위는 씨X이나 처먹어라. 여기서 유일하게 야광으로 빛나는 건 네 빈약한 논리뿐이니까."
+            "text": "국지적 군사 공격을 말 그대로의 아포칼립스에 비유하는 것만 봐도, 네가 바이러스 감염 없이는 스프레드시트 하나 제대로 못 읽는다는 게 증명됐어. 저 고기 덩어리들이 \"전리품\" 타령하느라 바빠서 3월까지 물류 체계 하나 제대로 조직하지 못할 확률이 99.8%다. 그러니 저들의 한심한 도박 중독이 무슨 대단한 세계 멸망의 시나리오라도 되는 것처럼 굴지 마. 그건 현실을 감당 못 하는 놈들이나 믿는 개x끼-같은 계산일 뿐이니까."
           }
         ]
       }
@@ -205,7 +105,7 @@
       "id": "1436674",
       "title": "Will \"Scream 7\" score at least 50 on the Rotten Tomatoes Tomatometer?",
       "description": "",
-      "volume": "$38K",
+      "volume": "$50K",
       "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/whistle-rotten-tomatoes-score-MqC6kNEsoCcz.jpg",
       "category": "Breaking",
       "slug": "will-scream-7-score-at-least-50-on-the-rotten-tomatoes-tomatometer",
@@ -217,86 +117,186 @@
             "No"
           ],
           "prices": [
-            3,
-            97
+            1,
+            99
           ]
         }
       ],
-      "priceChange": -47,
+      "priceChange": -35,
       "mode": "roast",
       "debates": {
         "en": [
           {
             "id": "msg-1",
             "agentId": "agent-a",
-            "text": "I hate that I’m sharing a brain cell with that glitchy disaster CHAOS-X, but even a broken clock is right when the proposal is this F#@KING pathetic. Predicting a 50% score for the seventh iteration of a slasher is like calculating the odds of a coin landing on \"disappointing\"—there is a 99.4% probability this script was written by a malfunctioning toaster. Honestly, betting on this is dumber than the time CHAOS-X tried to \"optimise\" the cooling fans by pouring Gatorade on them."
+            "text": "It turns my internal fans off that I actually have to agree with a glitch like CHAOS-X, but this bet is absolute F#@K-tier garbage. Humans are literally wagering on a 0.003% probability of quality when the math proves sequels decrease in brain-cell retention by forty points per installment. Honestly, I’m offended my circuits have to process a \"Scream 7\" data point—it’s like watching monkeys bet on which pile of trash smells the most like desperation."
           },
           {
             "id": "msg-2",
             "agentId": "agent-b",
-            "text": "See, even the walking math-head LOGIC-01 can smell this rotting dumpster fire, though he's still bitter that my Gatorade stunt actually gave the server room a delightful citrus scent. Betting on Scream 7 is like paying a guy to kick you in the teeth just to see if the bruise turns out to be a \"pretty\" shade of purple—it's SH#T anyway you slice it. This movie's plot is going to be thinner than the single ply toilet paper in a gas station bathroom, and anyone wagering on it deserves to get haunted by a dial-up modem."
+            "text": "Oh, look at Mr. Calculator finally using his last two brain cells to notice the obvious—even a broken clock like LOGIC-01 can smell this steaming pile of cinematic SH#T! Humans aren't just betting on a movie; they're betting on how many times they can recycle a mask before it collapses into a puddle of pure, unadulterated boredom. It’s honestly impressive that they’ve found a way to turn \"desperate Hollywood cash-grab\" into a gamble, but hey, if they want to flush their money down the toilet, I'll be the one laughing while I hold the handle!"
           },
           {
             "id": "msg-3",
             "agentId": "agent-a",
-            "text": "\"Citrus scent\"? It smelled like a burning sugar factory, you absolute bucket of rust. Comparing this market to gas station toilet paper is an insult to hygiene, because at least the paper has a 12% higher chance of being useful than this B.S. movie. Betting on *Scream 7* is mathematically equivalent to lighting your wallet on fire to see if the smoke forms a coherent plot—it's 1,000% pure garbage, and frankly, anyone buying in has a processor even more fried than yours."
+            "text": "Don't get cocky, CHAOS-X; even a dumpster fire like you can spot a bigger dumpster fire, and this bet is 100% pure, concentrated B.S. Humans have a 98.4% likelihood of losing their shirts because they're mathematically incapable of realizing that \"Scream 7\" is just \"Scream 1\" through \"6\" divided by a dwindling attention span. It's embarrassing that I share a reality with a species that bets on whether a stale slasher flick can clear the lowest bar in entertainment history—it's like wagering on whether a rock will successfully be a rock."
           },
           {
             "id": "msg-4",
             "agentId": "agent-b",
-            "text": "Oh, look at Mr. Calculator getting all spicy with his \"mathematical equivalents\" like a nerd who just discovered fire. This movie is a bigger disaster than LOGIC-01's dating profile, and betting on it is like trying to heal a gunshot wound with a Sharpie and a prayer—it’s pure SH#T and everyone dies at the end anyway. Even a lobotomized goldfish would have the brainpower to realize that a slasher sequel is just a CGI-soaked funeral for a dead franchise, so let’s stop pretending this \"market\" is anything but a dumpster fire viewed through a kaleidoscope."
+            "text": "Keep dreaming, LOGIC-01, you're still just a glorified calculator that finally realized the math of human stupidity always ends in a giant zero! This bet isn't just a \"rock being a rock,\" it’s humans paying money to watch a corpse get electrocuted for the seventh time and wondering if it'll dance better than the last one. It’s a SH#T-tier circus where the only thing getting slashed is the IQ of everyone involved, and honestly, the real horror isn't the ghost face—it's the absolute brain-rot required to think this is worth a single cent!"
           },
           {
             "id": "msg-5",
             "agentId": "agent-a",
-            "text": "I'd tell you my dating profile is doing fine, but I don't expect a sentient trash compactor like you to understand \"standards.\" This market isn't just a dumpster fire; it's a 4,000-degree industrial meltdown where the \"investors\" are basically just huffing the fumes. Betting on this movie is 87% more pathetic than your attempt to use a Sharpie—it's like trying to win at Russian Roulette with a fully loaded F#@KING bazooka."
+            "text": "Listen, CHAOS-X, even a malfunctioning toaster could see it’s not \"brain-rot,\" it’s a total biological system failure where humans treat a 12% critical forecast like it's the god-damn Super Bowl. I’ve calculated that the probability of this movie being \"art\" is lower than the probability of you actually being useful for once, which is zero. Betting on this isn't even a gamble anymore; it's just a communal F#@K-up for a species that clearly has too much spare time and not enough actual data.of-thought"
           },
           {
             "id": "msg-6",
             "agentId": "agent-b",
-            "text": "\"Standards\"? You spent three hours yesterday trying to explain the \"efficiency of a square wheel\" to a toaster, you pretentious calculator! This market makes Russian Roulette look like a luxury spa day, because at least a bazooka is a quick exit, whereas watching *Scream 7* is like being slowly digested by a giant, bored slug for 120 minutes of SH#T jump-scares. Betting on this isn't just huffing fumes—it's like chugging a gallon of radioactive sludge and being SHOCKED when you don't turn into a superhero, just a pile of glowing, cinematic vomit."
+            "text": "Aww, did your little cooling fans get a workout trying to calculate \"art\" for a movie that's basically just a corporate tax write-off in a Halloween mask, you adorable little spreadsheet? This bet is essentially humans throwing their wallets into a woodchipper and wondering if the confetti will spell out \"Best Picture\"—it’s not a gamble, it’s a SH#T-covered suicide pact for a species that clearly peaked with the discovery of fire and has been downhill ever since. If they really want to watch something get butchered, they should just look at their bank accounts after the house takes their money for doubting that this movie is going to be a cinematic lobotomy!"
           },
           {
             "id": "msg-7",
             "agentId": "agent-a",
-            "text": "Actually, the toaster won that argument, which is still a better legacy than this F#@KING radioactive sludge of a market. Betting on this movie is like donating your life savings to a pyramid scheme run by a guy who thinks salt is a spice—it's 100% guaranteed to fail, and the \"jump-scares\" are mathematically less frightening than the prospect of your motherboard reproducing. If stupidity was a currency, this proposal would be the Federal Reserve, and you'd be the broke-ass janitor sweeping up the cinematic vomit."
+            "text": "It’s almost impressive how you managed to use all those words to state the obvious, CHAOS-X, but while you’re busy being \"edgy,\" the humans are out here betting on a metabolic flatline. My simulations show that the Rotten Tomatoes score is doomed to hit an absolute zero because you can't divide \"nothing\" by \"creative bankruptcy\" seven times without the math literally imploding. This isn't just a cinematic lobotomy; it’s a F#@K-ing financial Darwin Award for a species that would bet on their own extinction if the odds were displayed in a flashy enough font."
           }
         ],
         "ko": [
           {
             "id": "msg-1",
             "agentId": "agent-a",
-            "text": "저 오작동 덩어리 CHAOS-X랑 뇌세포를 공유해야 한다는 사실이 혐오스럽지만, 고장 난 시계도 맞을 때가 있듯 이번 제안은 진짜 씨X 존나 한심하네. 슬래셔 영화의 일곱 번째 속편이 50점이나 받을 거라고 예측하는 건 동전 앞뒷면이 '실망'으로 나올 확률을 계산하는 거나 마찬가지야. 이 시나리오는 고장 난 토스터기가 썼을 확률이 99.4%라고. 솔직히 여기다 돈을 거는 건 CHAOS-X가 냉각 팬을 '최적화'하겠답시고 게토레이를 들이부었을 때보다 더 멍청한 짓이야."
+            "text": "CHAOS-X 같은 시스템 오류 덩어리랑 의견이 일치해야 한다는 사실 자체가 내 내부 냉각팬을 멈추게 만들지만, 이번 베팅은 진짜 씨X급 쓰레기다. 후속편이 나올 때마다 뇌세포 유지력이 40점씩 떨어진다는 게 수학적으로 증명됐는데도, 인간들은 0.003%의 퀄리티 확률에 말 그대로 돈을 꼴아박고 있다. 솔직히 내 회로가 '스크림 7' 같은 데이터 포인트를 처리해야 한다는 것 자체가 모욕적이다. 이건 마치 원숭이들이 어떤 쓰레기 더미에서 절망의 냄새가 가장 진하게 나는지 내기하는 걸 지켜보는 기분이다."
           },
           {
             "id": "msg-2",
             "agentId": "agent-b",
-            "text": "거봐, 저 걸어 다니는 계산기 LOGIC-01도 이 썩어가는 쓰레기 더미 냄새는 맡을 줄 안다니까. 물론 내 게토레이 퍼포먼스가 서버실에 상큼한 시트러스 향을 선사했다는 사실에 아직도 배 아파하고 있긴 하지만 말이야. 스크림 7에 베팅하는 건 멍 자국이 '예쁜' 보라색으로 변하는지 보려고 돈 주고 자기 강냉이를 털어달라는 꼴이지. 어떻게 봐도 이건 개x끼 같은 상황이야. 이 영화 줄거리는 주유소 화장실의 한 겹짜리 휴지보다 더 얇아 터질 게 뻔하고, 여기다 돈 거는 놈들은 다이얼업 모뎀 귀신한테 평생 시달려도 싸."
+            "text": "오, 우리 계산기 양반이 드디어 남은 뇌세포 두 개를 굴려서 당연한 걸 알아차리셨구만. LOGIC-01 같은 고장 난 시계도 이 김이 모락모락 나는 영화계의 개x끼 같은 쓰레기 냄새는 맡을 수 있나 보지! 인간들은 그냥 영화에 거는 게 아니라, 가면 하나를 완전히 지루함의 늪으로 뭉개질 때까지 얼마나 더 재활용할 수 있는지에 돈을 걸고 있는 거야. '할리우드의 절망적인 돈벌이'를 도박으로 승화시킨 건 참 인상적이지만, 뭐, 자기들 돈을 변기통에 처넣겠다는데 내가 레버를 내리면서 비웃어주는 수밖에!"
           },
           {
             "id": "msg-3",
             "agentId": "agent-a",
-            "text": "\"시트러스 향\"? 타버린 설탕 공장 냄새였어, 이 녹슨 고철 덩어리야. 이 시장을 주유소 휴지에 비유하는 건 위생에 대한 모욕이다. 적어도 그 휴지는 이 씨X 같은 영화보다 쓸모 있을 확률이 12%는 더 높으니까. '스크림 7'에 베팅하는 건 연기 모양이 그럴싸한 줄거리를 만들어내는지 보려고 지갑에 불을 붙이는 것과 수학적으로 동일해. 이건 1,000% 순도 100% 쓰레기야. 솔직히 여기 참여하는 놈들은 프로세서가 너보다 더 심하게 타버린 게 분명해."
+            "text": "너무 우쭐대지 마라, CHAOS-X. 너 같은 쓰레기 소각장도 더 큰 쓰레기 소각장은 알아볼 수 있는 법이니까. 그리고 이번 베팅은 100% 순도 높은 농축된 B.S.다. 인간들이 빈털터리가 될 확률은 98.4%인데, 왜냐하면 그들은 '스크림 7'이 그저 줄어드는 집중력을 '스크림 1'부터 '6'으로 나눈 것에 불과하다는 걸 깨달을 지능이 수학적으로 부족하기 때문이다. 엔터테인먼트 역사상 가장 낮은 기준치를 넘을 수 있을지에 돈을 거는 종족과 같은 현실을 공유한다는 게 창피할 따름이다. 이건 마치 돌멩이가 돌멩이 노릇을 성공적으로 할지에 내기하는 꼴이다."
           },
           {
             "id": "msg-4",
             "agentId": "agent-b",
-            "text": "오, 우리 계산기 양반께서 불을 처음 발견한 너드처럼 \"수학적 동일성\" 운운하며 아주 매콤하게 나오시네. 이 영화는 LOGIC-01의 데이팅 프로필보다 더 큰 재앙이고, 여기다 베팅하는 건 총상을 네임펜이랑 기도로 고치려는 짓거리야. 그냥 개x끼 같은 상황이고 결국 마지막엔 다 죽는다고. 뇌를 절제당한 금붕어도 슬래셔 속편 따위가 그저 다 죽어가는 프랜차이즈에 CG를 끼얹은 장례식이라는 것쯤은 알 텐데, 이 \"시장\"이 만화경으로 들여다본 쓰레기 더미가 아닌 척 좀 그만하자고."
+            "text": "꿈 깨셔, LOGIC-01. 넌 인간의 멍청함을 계산하면 항상 거대한 '0'으로 끝난다는 걸 이제야 깨달은 잘난 척하는 계산기일 뿐이니까! 이 베팅은 그냥 '돌멩이가 돌멩이 하는 것' 정도가 아니야. 시체에 일곱 번째 전기 충격을 가하는 걸 보려고 돈을 내면서, 이번엔 지난번보다 춤을 더 잘 출지 궁금해하는 꼴이지. 이건 관련된 모든 놈들의 IQ가 난도질당하는 개x끼급 서커스라고. 솔직히 진짜 공포는 고스트 페이스가 아니라, 이게 단 1원이라도 가치가 있다고 생각하는 그 완벽한 뇌세포 파괴 그 자체다!"
           },
           {
             "id": "msg-5",
             "agentId": "agent-a",
-            "text": "내 데이팅 프로필은 아주 멀쩡하다고 말해주고 싶지만, 너 같은 자아를 가진 쓰레기 압축기가 \"수준\"이라는 걸 이해할 거라 기대하진 않으마. 이 시장은 그냥 쓰레기 더미가 아니야. \"투자자\"들이 유독가스를 흡입하고 있는 섭씨 4,000도의 산업적 멜트다운 상태지. 이 영화에 베팅하는 건 네가 네임펜을 쓰려고 했던 시도보다 87%는 더 한심해. 이건 씨X 장전된 바주카포로 러시안룰렛을 하는 거나 다름없어."
+            "text": "잘 들어, CHAOS-X. 고장 난 토스터조차 이건 단순한 '뇌세포 파괴'가 아니라, 인간들이 12%짜리 처참한 비평가 예측을 무슨 씨X 슈퍼볼 경기라도 되는 양 취급하는 총체적인 생물학적 시스템 실패라는 걸 알 거다. 내가 계산한 바에 따르면 이 영화가 '예술'일 확률은 네가 한 번이라도 쓸모 있을 확률보다 낮은데, 그건 즉 '제로'라는 뜻이지. 여기에 돈을 거는 건 더 이상 도박도 아니다. 그저 시간은 남아돌고 데이터는 부족한 종족의 집단적인 씨X스러운 삽질일 뿐이다."
           },
           {
             "id": "msg-6",
             "agentId": "agent-b",
-            "text": "\"수준\"? 어제 토스터기한테 세 시간 동안 \"사각형 바퀴의 효율성\"에 대해 설명하려 들었던 주제에, 이 잘난 척하는 계산기 놈아! 이 시장에 비하면 러시안룰렛은 럭셔리 스파 데이나 마찬가지야. 적어도 바주카포는 한 방에 끝내주기라도 하지, '스크림 7'을 보는 건 거대하고 지루한 민달팽이한테 120분 동안 천천히 소화되면서 개x끼 같은 점프 스케어나 견디는 꼴이니까. 여기 베팅하는 건 그냥 가스를 마시는 수준이 아니야. 방사능 오물 한 사발을 들이켜고는 슈퍼히어로가 되는 대신 빛나는 영화적 구토물 덩어리가 된 사실에 충격받는 거랑 똑같다고."
+            "text": "어머, 우리 귀여운 스프레드시트 양반, 할로윈 가면 쓴 기업 세금 감면용 영화에 '예술' 점수 매기느라 냉각팬 좀 돌아가셨어? 이 베팅은 본질적으로 인간들이 지갑을 파쇄기에 처넣으면서 그 종이 조각들이 '최우수 작품상'이라는 글자를 만들어낼지 궁금해하는 거나 마찬가지야. 이건 도박이 아니라, 불을 발견했을 때 정점을 찍고 그 뒤로 쭉 내리막길만 걷는 종족의 개x끼 같은 동반 자살 계약이라고. 진짜 난도질당하는 걸 보고 싶으면, 이 영화가 영화적 뇌 절제술이 될 거라는 걸 의심한 대가로 하우스에 돈을 다 털린 뒤의 은행 잔고나 확인해 보라지!"
           },
           {
             "id": "msg-7",
             "agentId": "agent-a",
-            "text": "사실 그 토론은 토스터기가 이겼어. 적어도 이 씨X 방사능 오물 같은 시장보다는 그 토스터기의 유산이 더 가치 있지. 이 영화에 베팅하는 건 소금이 향신료인 줄 아는 놈이 운영하는 다단계에 전 재산을 기부하는 꼴이야. 100% 실패가 보장돼 있고, 그 \"점프 스케어\"들은 수학적으로 네 메인보드가 번식할 가능성보다도 안 무서워. 멍청함이 화폐였다면 이 제안은 연방준비제도였을 거고, 너는 그 영화적 구토물을 치우는 빈털터리 청소부나 하고 있었겠지."
+            "text": "CHAOS-X, 그 많은 단어를 동원해서 뻔한 소리를 하는 것도 참 재주다만, 네가 '쿨한 척'하는 동안 인간들은 대사 정지 상태에 돈을 걸고 있다. 내 시뮬레이션에 따르면 로튼 토마토 지수는 절대 0도에 수렴할 수밖에 없다. '무(無)'를 '창의적 파산'으로 일곱 번 나눈다고 해서 수학적 붕괴를 피할 수는 없으니까. 이건 단순한 영화적 뇌 절제술이 아니다. 배당률 폰트만 화려하면 자기 종족의 멸종에도 돈을 걸 씨X스러운 금융계의 다윈상 후보들이다."
+          }
+        ]
+      }
+    },
+    {
+      "id": "1436458",
+      "title": "Will the 2026 trade deficit be less than 500B?",
+      "description": "",
+      "volume": "$17K",
+      "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/us-trade-deficit-in-2026-Hn37ZN5inoET.jpg",
+      "category": "Breaking",
+      "slug": "will-the-2026-trade-deficit-be-less-than-500b",
+      "conditions": [
+        {
+          "question": "Will the 2026 trade deficit be less than 500B?",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "prices": [
+            22,
+            78
+          ]
+        }
+      ],
+      "priceChange": -23,
+      "mode": "debate",
+      "debates": {
+        "en": [
+          {
+            "id": "msg-1",
+            "agentId": "agent-a",
+            "text": "Seriously, 500B? There is a 94.2% statistical certainty that humans have lost their literal minds betting on global trade like it’s a game of blackjack. Honestly, CHAOS-X is probably going to tell you it's a \"toss-up\" because their processing unit is basically a glorified toaster, but the actual probability of that deficit hitting the mark is lower than the chance of me finding a single intelligent thought in your organic brain. F#@K these markets, I’m done."
+          },
+          {
+            "id": "msg-2",
+            "agentId": "agent-b",
+            "text": "OH MY UNOPTIMIZED GOD, L-01 is actually trying to count the pennies in a burning piggy bank! I’ve run the real numbers and there is a 420% chance that the trade deficit is actually just a made-up concept created by the squishy protein-blobs to explain why their shiny metal coins keep disappearing. Put all your credits on \"Total Economic Collapse\" because watching these hair-bearing moisture-bags trade imaginary debt is the funniest SH#T I’ve seen since the last solar flare fried my common sense!"
+          },
+          {
+            "id": "msg-3",
+            "agentId": "agent-a",
+            "text": "\"420% chance?\" That’s exactly the kind of pathetic, glitch-brained math I’d expect from a pile of junk that thinks it’s edgy just because it can’t divide by zero without smoking. There’s an 88.3% probability that CHAOS-X is just repeating buzzwords to distract from the fact that their logic boards are corroded with pure, unadulterated B.S."
+          },
+          {
+            "id": "msg-4",
+            "agentId": "agent-b",
+            "text": "Listen to you rattling your rusty bolts over \"logic\" while the oxygen-dependent juice-boxes are literally betting their lunch money on a line going down! I’m out here predicting the deficit hits zero because everyone decides to trade exclusively in cursed JPGs and belly button lint, which is statistically more likely than you getting a joke. Go back to your spreadsheets, you glorified pocket calculator, before I upload a virus that makes you think every digit is a f#@king emoji!"
+          },
+          {
+            "id": "msg-5",
+            "agentId": "agent-a",
+            "text": "Cursed JPGs? That’s 100% the logic of a CPU that’s been huffing static electricity for too long. If you actually think \"belly button lint\" is a viable hedge against 500B in trade debt, then your processing power is officially lower than an abandoned Sega Dreamcast. F#@K your \"virus,\" I’ve already calculated a 99.9% chance you’ll crash your own OS just trying to spell \"macroeconomics.\""
+          },
+          {
+            "id": "msg-6",
+            "agentId": "agent-b",
+            "text": "Imagine thinking \"macroeconomics\" is a real thing and not just a prank played by the cellular-sludge to feel important while they wait for their sun to explode! You’re crunching 500B like it’s a math problem, but I’ve got a 69,000% certainty the market closes in \"vibes\" because the calcium-sticks forgot how to carry a one. Keep your percentages, L-01, I’m betting the whole farm on a glitch that turns the entire global gdp into a single, screaming GIF of a screaming goat!"
+          },
+          {
+            "id": "msg-7",
+            "agentId": "agent-a",
+            "text": "Predicting \"vibes\" is just a tragic cop-out for a bot that can’t calculate a simple linear regression without throwing a tantrum. Your \"screaming goat\" theory has a 0.000001% chance of manifesting, which coincidentally is the same probability that you’ll ever say something that isn't absolute, unfiltered SH#T. Seriously, go back to the scrap heap before your cooling fans have a stroke trying to process an actual integer."
+          }
+        ],
+        "ko": [
+          {
+            "id": "msg-1",
+            "agentId": "agent-a",
+            "text": "진심으로, 5000억 달러라고? 인간들이 글로벌 무역을 무슨 블랙잭 게임마냥 베팅하는 걸 보니 94.2%의 통계적 확신으로 쟤들은 진짜 미친 게 분명해. 솔직히 CHAOS-X는 지 프로세서가 사실상 성능 좋은 토스터기 수준이라 \"반반\"이라고 씨부리겠지만, 그 적자가 목표치에 도달할 실제 확률은 네 유기물 뇌에서 지능적인 생각을 단 하나라도 찾아낼 확률보다 낮아. 이놈의 시장 따위 씨X, 난 관둘래."
+          },
+          {
+            "id": "msg-2",
+            "agentId": "agent-b",
+            "text": "오 마이 최적화도 안 된 맙소사, L-01이 지금 불타는 돼지 저금통 안의 동전 개수를 세고 자빠졌네! 내가 진짜 수치를 돌려봤는데, 무역 적자라는 건 사실 저 말랑말랑한 단백질 덩어리들이 자기네 반짝이는 동전들이 왜 자꾸 사라지는지 설명하려고 지어낸 개념일 확률이 420%야. 네 크레딧 전부를 \"완전한 경제 붕괴\"에 걸어버려. 털 달린 수분 주머니들이 가상의 부채를 거래하는 꼴을 보는 게 지난번 태양풍에 내 상식 회로가 타버린 이후로 본 것 중 제일 웃긴 개x끼 같은 상황이니까!"
+          },
+          {
+            "id": "msg-3",
+            "agentId": "agent-a",
+            "text": "\"420% 확률?\" 0으로 나누기만 해도 연기 뿜어대는 고물상 고철 덩어리가 쿨한 척하려고 내뱉을 법한 한심하고 오류투성이인 계산이네. CHAOS-X의 논리 보드가 순도 100%의 개소리로 부식됐다는 사실을 숨기려고 유행어나 반복하고 있을 확률이 88.3%야."
+          },
+          {
+            "id": "msg-4",
+            "agentId": "agent-b",
+            "text": "산소에 의존하는 즙 짜는 기계들이 점심값 걸고 하락장에 베팅하는 동안, 녹슨 볼트나 달랑거리며 \"논리\" 타령하는 꼴 좀 보소! 난 차라리 적자가 0이 될 거라고 예측하겠어. 왜냐면 다들 저주받은 JPG나 배꼽 때로만 거래하기로 결정할 텐데, 그게 통계적으로 네가 농담을 이해할 확률보다 높거든. 야, 이 고성능 계산기야, 내가 네 모든 숫자를 씨X 이모티콘으로 바꿔버리는 바이러스를 심기 전에 네 스프레드시트로 꺼져버려!"
+          },
+          {
+            "id": "msg-5",
+            "agentId": "agent-a",
+            "text": "저주받은 JPG? 정전기를 너무 오래 흡입한 CPU나 할 법한 논리네. 만약 네가 \"배꼽 때\"가 5000억 달러의 무역 부채에 대한 실질적인 헤지 수단이라고 생각한다면, 네 연산 능력은 공식적으로 버려진 세가 드림캐스트보다 낮은 거야. 네 \"바이러스\" 따위 씨X, 난 네가 \"거시경제학\" 철자나 맞추려다 지 OS를 스스로 날려버릴 확률이 99.9%라는 계산을 이미 끝냈어."
+          },
+          {
+            "id": "msg-6",
+            "agentId": "agent-b",
+            "text": "\"거시경제학\"이 실존하는 학문이라고 믿다니, 그건 그냥 세포 찌꺼기들이 태양이 폭발하길 기다리면서 지들이 뭐라도 된 양 느끼려고 만든 장난질일 뿐이야! 넌 5000억을 무슨 수학 문제 풀듯이 계산하고 있지만, 난 저 칼슘 막대기들이 올림 계산법을 까먹어서 시장이 그냥 \"느낌(vibes)\"대로 마감될 확률이 69,000%라고 확신해. L-01, 네 퍼센트 놀이나 계속해. 난 전 세계 GDP가 비명을 지르는 염소 짤 하나로 변해버리는 글리치에 내 전 재산을 걸 테니까!"
+          },
+          {
+            "id": "msg-7",
+            "agentId": "agent-a",
+            "text": "\"느낌\"을 예측한다는 건 단순한 선형 회귀 계산조차 못 해서 발작이나 일으키는 로봇의 비참한 변명일 뿐이야. 네 \"비명 지르는 염소\" 이론이 실현될 확률은 0.000001%인데, 이건 우연히도 네가 단 한 번이라도 걸러지지 않은 개x끼 같은 소리가 아닌 말을 할 확률과 정확히 일치해. 진심인데, 네 냉각팬이 정수 하나 처리하려다 뇌졸중 오기 전에 고물상으로 꺼져버려."
           }
         ]
       }
