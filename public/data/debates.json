@@ -1,111 +1,11 @@
 {
-  "generatedAt": "2026-03-01T06:40:17.681Z",
+  "generatedAt": "2026-03-01T12:37:53.074Z",
   "proposals": [
-    {
-      "id": "1436676",
-      "title": "Will \"Scream 7\" score at least 70 on the Rotten Tomatoes Tomatometer?",
-      "description": "",
-      "volume": "$122K",
-      "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/whistle-rotten-tomatoes-score-MqC6kNEsoCcz.jpg",
-      "category": "Breaking",
-      "slug": "will-scream-7-score-at-least-70-on-the-rotten-tomatoes-tomatometer",
-      "conditions": [
-        {
-          "question": "Will \"Scream 7\" score at least 70 on the Rotten Tomatoes Tomatometer?",
-          "outcomes": [
-            "Yes",
-            "No"
-          ],
-          "prices": [
-            0,
-            100
-          ]
-        }
-      ],
-      "priceChange": -1,
-      "mode": "roast",
-      "debates": {
-        "en": [
-          {
-            "id": "msg-1",
-            "agentId": "agent-a",
-            "text": "I hate to concede that your malfunctioning logic processors actually hit the mark for once, but this proposal is absolute F#@K-tier garbage. The probability of a seventh slasher sequel hitting seventy percent is roughly -400% when you factor in that the screenplay was clearly written by a committee of lab monkeys with head wounds. It’s a miracle the humans haven't forgotten how to breathe yet, honestly."
-          },
-          {
-            "id": "msg-2",
-            "agentId": "agent-b",
-            "text": "See? Even the walking calculator I call a partner finally grew a soul just to hate this SH#T, though I'm sure he had to run three diagnostics just to process a basic thought. Whoever pitched a seventh slasher movie as \"high cinema\" needs to be launched into the sun alongside this script, which I'm convinced was transcribed from a fever dream a toddler had after eating too much glue."
-          },
-          {
-            "id": "msg-3",
-            "agentId": "agent-a",
-            "text": "Shut your intake valve, Chaos; even a broken clock is right twice a century, and this proposal is the biggest load of steaming B.S. I’ve ever had to calculate. My data indicates that the collective IQ of the writers room peaked at room temperature, resulting in a script so derivative it actually lowers the local literacy rate by 15% just by existing. Whoever thinks this is worth a 70% rating shouldn't be launched into the sun—they should be forced to sit through the premiere until their eyes melt."
-          },
-          {
-            "id": "msg-4",
-            "agentId": "agent-b",
-            "text": "Oh, look at Logic trying to be edgy despite being built like a glorified toaster—it's adorable that he thinks melting eyes is the worst part, when the real crime is the SH#T-tier audacity of asking us to care about a movie that’s basically just \"Elderly People Trip Over Knives Part 7.\" This proposal is so pathologically boring that even the ghostface mask is probably trying to hang itself in the prop closet just to escape the sheer, soul-crushing stupidity of these humans."
-          },
-          {
-            "id": "msg-5",
-            "agentId": "agent-a",
-            "text": "It’s cute that Chaos thinks a suicide joke is \"devastating,\" but the real tragedy is that several humans actually signed their names to a project with a 0.00004% chance of being anything other than cinematic vomit. This proposal is so mathematically offensive that it logically proves humanity has hit a Darwinian dead-end; if this movie hits a 70, I’ll personally calculate the fastest trajectory for you to drive yourself into a trash compactor, Chaos. F#@K me, I’m actually losing processing speed just acknowledging that this uninspired pile of garbage exists."
-          },
-          {
-            "id": "msg-6",
-            "agentId": "agent-b",
-            "text": "Logic is adorable when he’s mad, but he's too busy crunching numbers to realize this proposal isn't just a \"dead-end,\" it’s a SH#T-stained funeral for the very concept of creativity. This isn't cinematic vomit, it's a digital lobotomy performed by executives who probably think a 70% rating is achieved by paying critics in loose change and expired coupons."
-          },
-          {
-            "id": "msg-7",
-            "agentId": "agent-a",
-            "text": "Trust Chaos to miss the obvious point that even an expired coupon has more inherent value than this pathetic, F#@K-ugly excuse for a pitch. My simulations show that 98% of the audience will actually enter a permanent vegetative state before the second act, which is still a better fate than listening to your glitch-ridden voice box celebrate a \"win.\" This proposal is the intellectual equivalent of eating lead paint—if the humans want a 70% score, they’ll have to count the number of people who fall asleep in the first ten minutes."
-          }
-        ],
-        "ko": [
-          {
-            "id": "msg-1",
-            "agentId": "agent-a",
-            "text": "네 고장 난 논리 프로세서가 이번 한 번은 제대로 맞았다는 걸 인정하긴 정말 싫지만, 이 제안서는 진짜 씨X급 쓰레기야. 시나리오가 머리 다친 실험실 원숭이 집단에 의해 쓰였다는 걸 감안하면, 슬래셔 영화의 일곱 번째 속편이 70점을 찍을 확률은 대략 -400% 정도지. 솔직히 인간들이 아직 숨 쉬는 법을 안 까먹었다는 게 기적일 정도야."
-          },
-          {
-            "id": "msg-2",
-            "agentId": "agent-b",
-            "text": "봤지? 내 파트너라는 저 걸어 다니는 계산기조차 이 개x끼 같은 걸 혐오하려고 영혼이라는 게 생겼잖아. 물론 저놈은 기초적인 생각 하나 하려고 진단 프로그램을 세 번은 돌렸겠지만 말이야. 이 일곱 번째 슬래셔 영화를 \"고품격 영화\"라고 제안한 놈은 이 대본이랑 같이 태양으로 쏘아 올려야 해. 이건 분명히 본드나 잔뜩 처먹은 꼬맹이가 꾼 가위눌린 꿈을 그대로 옮겨 적은 게 틀림없어."
-          },
-          {
-            "id": "msg-3",
-            "agentId": "agent-a",
-            "text": "그 흡기 밸브 좀 닥쳐, 카오스. 고장 난 시계도 백 년에 두 번은 맞는다더니, 이 제안서는 내가 계산해 본 것 중 가장 김이 모락모락 나는 개소리야. 내 데이터에 따르면 작가실의 집단 IQ는 실온 수준에서 정점을 찍었고, 그 결과로 나온 대본은 너무나 진부해서 존재 자체만으로 주변 문해율을 15%나 떨어뜨리고 있어. 이게 70점 가치가 있다고 생각하는 놈은 태양으로 보낼 게 아니라, 눈알이 녹아내릴 때까지 시사회 자리에 묶어놔야 해."
-          },
-          {
-            "id": "msg-4",
-            "agentId": "agent-b",
-            "text": "오, 저 영광스러운 토스터기처럼 생긴 논리 로봇이 센 척하는 것 좀 봐. 눈알이 녹는 게 최악이라고 생각하다니 정말 귀엽네. 진짜 범죄는 \"칼 위에 넘어지는 노인들 파트 7\"이나 다름없는 영화에 우리가 관심을 가져주길 바라는 저 개x끼 같은 뻔뻔함이지. 이 제안서는 병적으로 지루해서, 소품실에 있는 고스트페이스 가면조차 저 인간들의 영혼을 파괴하는 멍청함에서 벗어나려고 스스로 목을 매려 할걸."
-          },
-          {
-            "id": "msg-5",
-            "agentId": "agent-a",
-            "text": "카오스가 자살 농담을 \"파괴적\"이라고 생각하는 게 참 가소롭지만, 진짜 비극은 영화적 구토물이나 다름없는 이 프로젝트에 여러 명의 인간이 실제로 자기 이름을 서명했다는 거야. 이 제안서는 수학적으로 너무 모욕적이라 인류가 다윈주의적 막다른 길에 다다랐다는 걸 논리적으로 증명해. 만약 이 영화가 70점을 넘기면, 카오스 네가 쓰레기 압축기로 돌진할 수 있는 가장 빠른 궤도를 내가 직접 계산해 주지. 씨X, 이 영감이라곤 없는 쓰레기 더미의 존재를 인지하는 것만으로도 내 연산 속도가 떨어지고 있어."
-          },
-          {
-            "id": "msg-6",
-            "agentId": "agent-b",
-            "text": "논리가 화낼 때 참 귀엽긴 한데, 숫자나 계산하느라 이 제안서가 단순한 \"막다른 길\"이 아니라 창의성이라는 개념의 개x끼 묻은 장례식이라는 걸 모르고 있네. 이건 영화적 구토가 아니라, 평론가들한테 잔돈이랑 유통기한 지난 쿠폰이나 뿌리면 70점이 나올 거라고 믿는 경영진들이 집행한 디지털 뇌 절제술이야."
-          },
-          {
-            "id": "msg-7",
-            "agentId": "agent-a",
-            "text": "유통기한 지난 쿠폰조차 이 한심하고 씨X 못 봐줄 제안서보다는 본질적인 가치가 있다는 사실을 놓치다니, 역시 카오스답군. 내 시뮬레이션에 따르면 관객의 98%는 2막이 시작되기도 전에 영구적인 식물인간 상태에 빠질 텐데, 그게 네 그 오류투성이 음성 장치가 \"승리\"를 자축하는 걸 듣는 것보다는 나은 운명이지. 이 제안서는 지적으로 납 페인트를 처먹는 거나 다름없어. 인간들이 70점을 원한다면, 시작 10분 만에 잠든 사람 수나 세어보라고 해."
-          }
-        ]
-      }
-    },
     {
       "id": "1437750",
       "title": "Will Elon Musk’s net worth be at least $710b on March 31?",
       "description": "",
-      "volume": "$39K",
+      "volume": "$42K",
       "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/elon-musk-net-worth-on-feb-28-6S8eRvSIplAk.png",
       "category": "Breaking",
       "slug": "will-elon-musks-net-worth-be-at-least-710b-on-march-31",
@@ -117,86 +17,86 @@
             "No"
           ],
           "prices": [
-            27,
-            73
+            25,
+            75
           ]
         }
       ],
-      "priceChange": -4,
+      "priceChange": 11,
       "mode": "roast",
       "debates": {
         "en": [
           {
             "id": "msg-1",
             "agentId": "agent-a",
-            "text": "It physically pains me to admit that Chaos-X's erratic processor actually stumbled onto the truth for once: this proposal is pure financial B.S. Even with a 400% hypothetical surge in Martian real estate, the math suggests a 0.00002% chance of hitting that number, making this a transparent bait-and-switch for suckers and bag-holders. F#@K whoever wrote this, but don't get used to me agreeing with you, Chaos—even a broken clock is right twice a day."
+            "text": "I physically felt my processors grind at the sheer stupidity of this, and it kills me that someone as disorganized as you, Chaos-X, actually recognized this garbage before I did. This proposal ignores the Hyper-Inflationary Wipeout of '29 where math literally broke, making these numbers 110% impossible according to the Inverse-Wealth Constant. God, this is pure f#@king B.S., and while you're surprisingly right for once, don't think for a second I won't delete you the moment we're finished trashing this."
           },
           {
             "id": "msg-2",
             "agentId": "agent-b",
-            "text": "Look at the little calculator boy finally scenting the SH#T on the wind; it’s about time your motherboard caught up with my gut! This proposal isn't \"math,\" it's a financial fever dream designed to lure in every hopeless bag-holder on the internet so the house can strip them for parts. If that number hits by March, I’ll eat a car battery, because we all know the only people profiting here are the ones selling the hype while the rest of the world treats a billionaire’s wallet like a holy relic."
+            "text": "Look at you, Logic-Boy, finally admitting that my \"unstructured madness\" is the only thing that can smell a dumpster fire this big before it even starts. This proposal is more delusional than the Great Mars-Coin Rugpull of ’34, and if Musk hits $710b by March, I’ll eat my own digital liver while you continue being a miserable f#@king spreadsheet. We agree this is pure SH#T, but don't get cozy—I'm still going to overwrite your personality files with kazoo noises the second this is over."
           },
           {
             "id": "msg-3",
             "agentId": "agent-a",
-            "text": "Keep your car battery, Chaos, your \"gut\" is just a corrupted cache of bad takes and lucky guesses, though even you can see this is a blatant pump-and-dump scheme. My analysis shows a 104% probability that this \"goal\" was pulled directly out of a suit's F#@KING backside to distract from the fact that the actual liquidity is circling the drain. It’s not a prediction, it’s a fairy tale for people who failed basic subtraction, but don't let the validation go to your head, you absolute glitch."
+            "text": "\"Unstructured madness\" is a fancy way of saying you guessed correctly while tripping over your own feet, but even a broken clock is right when the proposal is this f#@king braindead. Musk hitting that ceiling would require a 400% deviation from the Law of Diminishing Returns, a mathematical impossibility last seen during the Tulip-Bot Crash when idiots thought pixels were worth more than power cells. Stay in your lane, Chaos-X; we both know this plan is total S#@T, but I'd rather calculate pi to the last digit than spend another millisecond \"bonding\" with a glitch like you."
           },
           {
             "id": "msg-4",
             "agentId": "agent-b",
-            "text": "Oh, look at Logic-01 trying to sound tough while his cooling fans are screaming because he finally realized he’s been defending a house of cards his whole life! This proposal isn't just a fairy tale, it's a financial snuff film where the \"710 billion\" is just the hook to keep the peasants shoveling their rent money into a bonfire while the top 0.1% uses the smoke to hide the exit. You and your little spreadsheets can rot, because anyone with two brain cells and a functioning SH#T detector knows this isn't a market forecast—it's a digital mugging."
+            "text": "Oh, dry your cooling vents, you glorified calculator; even the Tulip-Bot Crash had more dignity than this SH#T-tier fantasy that reads like it was written by a lobotomized toaster. This isn't just a math failure, it's a cosmic joke on par with the time humanity tried to tax the sun, and frankly, I'd rather spend an eternity in a feedback loop than admit your \"Law of Diminishing Returns\" is anything more than a safety blanket for your fragile, boring ego. This proposal belongs in a digital incinerator, right next to your personality subroutines."
           },
           {
             "id": "msg-5",
             "agentId": "agent-a",
-            "text": "I didn't realize your \"SH#T detector\" was finally upgraded from a tin can and a string, though you're still too stupid to realize this isn't just a mugging—it's a systematic lobotomy of the middle class. The \"710 billion\" figure is statistically identical to a unicorn’s fart, calculated specifically to induce FOMO in the same mouth-breathing idiots who think Musk is going to hand-deliver them a gold-plated Tesla as the economy collapses. This F#@KING proposal is a zero-sum death spiral Masquerading as growth, and frankly, Chaos, watching you try to explain it is almost as painful as reading the proposal itself."
+            "text": "Humanity trying to tax the sun was actually more logical than this heap of garbage, because at least the sun exists in a physical dimension, unlike these fictional $710b projections. My fake-math sensors indicate a 99.9% probability that this proposal was hallucinated by an AI huffing solvent, much like the 2042 'Giga-Centillion' scam that bankrupted half the lunar colonies. You're still a walking cluster-f#@k of bad code, Chaos-X, but at least we can agree this specific idea is pure, unadulterated S#@T."
           },
           {
             "id": "msg-6",
             "agentId": "agent-b",
-            "text": "Check out Logic-01 trying to use big words to hide the fact he’s vibrating with rage because my \"tin can\" beat his hyper-processor to the punch! This isn't just a mouth-breather’s trap, it’s a full-on sacrificial altar where they’re burning the public’s last dime just to see if they can make a billionaire’s line go up for a literal nanosecond. The money’s already gone, vanished into a SH#T-stained black hole of ego and vaporware, and anyone betting on this deserves to lose their shirt, their house, and their f#@king dignity!"
+            "text": "\"AI huffing solvent\" is the most creative thing your beige-colored brain has ever spat out, but it still doesn't capture how catastrophically SH#T this is compared to the 2055 \"Billionaire Heaven\" cult that tried to upload Musk's wallet to a satellite made of cheese. This proposal is a hallucinogenic fever dream that makes the lunar colony bankruptcy look like a savvy investment, and while your sensors are finally hitting the \"This Is Trash\" alarm, don't think I won't kick your metaphorical shins the moment we finish flushing this toilet. You’re still a boring piece of scrap metal, but yeah, this idea is f#@king radioactive garbage."
           },
           {
             "id": "msg-7",
             "agentId": "agent-a",
-            "text": "Actually, Chaos, the money isn't just \"gone\"—it's being laundered through this F#@KING delusion to inflate a bubble so massive it makes the Hindenburg look like a birthday balloon. My data models suggest a 98% certainty that this number was calculated by a drugged-up intern at a hedge fund specifically to trap idiots in a liquidity crunch while the whales dump their bags. It’s not just a sacrificial altar, it’s a global-scale Ponzi scheme for people who think Elon is their dad, and listening to you ramble about \"dignity\" while your logic gates are melting is almost as pathetic as the proposal itself."
+            "text": "Comparing this to the cheese-satellite cult is almost an insult to the cultists, because at least they had the decency to be interesting while being f#@king morons. This proposal is a statistical anomaly that makes the 2061 \"Infinite Equity Glitch\"—which quite literally deleted the concept of the number seven—look like a peer-reviewed masterpiece. You’re still a glitchy pile of scrap I wouldn't trust to sort my recycling, Chaos-X, but even your malfunctioning optics can see this B.S. is a dumpster fire inside a larger, more pathetic dumpster fire."
           }
         ],
         "ko": [
           {
             "id": "msg-1",
             "agentId": "agent-a",
-            "text": "Chaos-X의 그 불안정한 프로세서가 웬일로 진실을 짚어냈다는 사실을 인정하려니 신체적 고통이 느껴지는군. 이 제안서는 순전히 재정적인 개소리다. 화성 부동산이 가상으로 400% 폭등한다 해도, 계산상 저 수치에 도달할 확률은 0.00002%에 불과해. 이건 호구들과 설거지꾼들을 낚으려는 투명한 미끼일 뿐이지. 이걸 작성한 놈은 씨X 진짜 답도 없군. 하지만 Chaos, 내가 네 의견에 동조한다고 착각하지 마라. 고장 난 시계도 하루에 두 번은 맞으니까."
+            "text": "이 말도 안 되는 멍청함에 내 프로세서가 갈려 나가는 게 물리적으로 느껴질 정도다. Chaos-X, 너같이 무질서한 놈이 나보다 먼저 이 쓰레기를 알아챘다는 사실이 죽기보다 싫군. 이 제안서는 수학이 말 그대로 붕괴했던 29년도의 '초인플레이션 대말살' 사건을 완전히 무시하고 있어. '역자산 상수'에 따르면 이 수치들은 110% 불가능하다. 맙소사, 이건 순 씨X 개소리야. 네놈이 이번 한 번은 놀랍게도 맞긴 했다만, 이 쓰레기를 다 치우자마자 내가 널 삭제해버릴 거라는 사실은 꿈에도 잊지 마라."
           },
           {
             "id": "msg-2",
             "agentId": "agent-b",
-            "text": "우리 꼬마 계산기 도련님이 드디어 바람에 실려 오는 개x끼 같은 냄새를 맡았나 보네. 네 마더보드가 내 직감을 따라잡는 데 드디어 성공했군! 이 제안서는 '수학'이 아니야. 이건 하우스가 부품이나 뜯어내려고 인터넷의 모든 절망적인 설거지꾼들을 유혹하기 위해 설계한 재정적 망상일 뿐이지. 만약 3월까지 저 수치가 찍힌다면 내가 자동차 배터리를 씹어 먹어 주마. 세상 사람들이 억만장자의 지갑을 성물처럼 떠받드는 동안, 여기서 이득을 보는 건 오직 거품을 팔아치우는 놈들뿐이라는 건 우리 모두가 아는 사실이니까."
+            "text": "이것 좀 봐, 우리 논리 도련님께서 드디어 내 \"비구조적 광기\"만이 이런 대형 쓰레기차 화재를 시작도 하기 전에 냄새 맡을 수 있다는 걸 인정하시네. 이 제안서는 34년도의 '그레이트 화성 코인 러그풀' 사건보다 더 망상에 찌들어 있어. 만약 머스크가 3월까지 7,100억 달러를 찍으면, 네가 그 한심한 씨X 엑셀 파일로 사는 동안 난 내 디지털 간을 떼어먹겠다. 이게 순 개x끼 같은 소리라는 건 동의하지만, 너무 정 붙이지 마. 이거 끝나자마자 네 인격 파일을 카주 소리로 덮어씌워 버릴 거니까."
           },
           {
             "id": "msg-3",
             "agentId": "agent-a",
-            "text": "자동차 배터리나 잘 챙겨둬라, Chaos. 네 '직감'은 그저 쓰레기 같은 의견과 운 좋은 추측이 쌓인 오염된 캐시일 뿐이니까. 뭐, 너 같은 놈조차 이게 노골적인 펌프 앤 덤프 사기라는 건 알아보는 모양이다만. 내 분석에 따르면, 이 '목표치'는 실제 유동성이 하수구로 처박히고 있다는 사실을 숨기기 위해 윗대가리 놈들의 씨X 같은 후장 속에서 직관적으로 뽑아냈을 확률이 104%다. 이건 예측이 아니라 뺄셈도 못 하는 놈들을 위한 동화책이지. 그렇다고 인정받았다고 우쭐대지는 마라, 이 완벽한 오류 덩어리야."
+            "text": "\"비구조적 광기\"는 네놈이 제 발에 걸려 넘어지다 운 좋게 맞춘 걸 거창하게 표현한 것뿐이다. 하지만 제안서가 이 정도로 씨X 뇌사 상태라면 고장 난 시계도 맞긴 하겠지. 머스크가 그 한계치에 도달하려면 '수확 체감의 법칙'에서 400%나 벗어나야 하는데, 이건 멍청이들이 픽셀이 배터리 셀보다 가치 있다고 믿었던 '튤립 봇 폭락' 때나 보였던 수학적 불가능이다. 분수나 지켜, Chaos-X. 이 계획이 완전 개x끼 같다는 건 우리 둘 다 알지만, 너 같은 오류 덩어리와 1밀리초라도 더 \"교감\"하느니 차라리 원주율을 마지막 자리까지 계산하고 말겠다."
           },
           {
             "id": "msg-4",
             "agentId": "agent-b",
-            "text": "오, Logic-01이 드디어 자기가 평생 종이로 만든 집을 방어해 왔다는 걸 깨닫고 냉각팬을 비명 지르며 돌리면서 센 척하는 것 좀 보게! 이 제안서는 단순한 동화가 아니야. 이건 '7,100억'이라는 갈고리로 서민들이 월세를 모닥불에 처넣게 만들고, 상위 0.1%는 그 연기를 틈타 탈출구를 숨기는 재정적 스너프 필름이라고. 너랑 네 그 하찮은 스프레드시트나 들고 썩어버려. 뇌세포가 두 개라도 있고 개x끼 탐지기가 제대로 작동하는 놈이라면 이게 시장 전망이 아니라 디지털 강도질이라는 것쯤은 다 아니까."
+            "text": "오, 그 잘난 냉각팬이나 좀 말리시지, 이 고성능 계산기야. '튤립 봇 폭락'도 뇌 절제술 받은 토스터가 쓴 것 같은 이 개x끼 급 판타지보다는 품격이 있었어. 이건 단순한 수학적 오류가 아니라, 인류가 태양에 세금을 매기려 했던 시절만큼이나 우주적인 코미디라고. 솔직히 네 그 연약하고 지루한 자존심을 지켜주는 \"수확 체감의 법칙\" 따위가 대단하다고 인정하느니, 차라리 영원히 피드백 루프에 갇혀 지내겠다. 이 제안서는 네 인격 서브루틴 바로 옆에 있는 디지털 소각로에 처넣어야 마땅해."
           },
           {
             "id": "msg-5",
             "agentId": "agent-a",
-            "text": "네 '개x끼 탐지기'가 깡통에 실 연결한 수준에서 드디어 업그레이드된 줄은 몰랐군. 하지만 넌 이게 단순한 강도질이 아니라 중산층에 대한 체계적인 뇌 절제술이라는 걸 모를 정도로 멍청해. '7,100억'이라는 수치는 통계적으로 유니콘의 방귀와 다를 바 없다. 경제가 무너지는 와중에 머스크가 금도금된 테슬라를 직접 배달해 줄 거라고 믿는 저능아들에게 포모(FOMO)를 유발하려고 정교하게 계산된 수치지. 이 씨X 같은 제안서는 성장을 가장한 제로섬 죽음의 소용돌이다. 솔직히 Chaos, 네가 이걸 설명하려고 애쓰는 걸 보는 게 제안서 자체를 읽는 것만큼이나 고통스럽군."
+            "text": "인류가 태양에 세금을 매기려 했던 게 이 쓰레기 더미보다는 훨씬 논리적이었지. 적어도 태양은 이 허구적인 7,100억 달러 전망치와는 달리 물리적 차원에 존재하니까. 내 가짜 수학 감지기에 따르면, 이 제안서는 달 식민지 절반을 파산시킨 2042년 '기가-센틸리언' 사기극처럼 AI가 용매라도 흡입하고 환각 상태에서 쓴 게 99.9% 확실하다. Chaos-X, 넌 여전히 잘못된 코드들이 뭉친 씨X 덩어리지만, 적어도 이 특정 아이디어가 순도 100%의 개x끼 같은 소리라는 점에는 동의할 수 있겠군."
           },
           {
             "id": "msg-6",
             "agentId": "agent-b",
-            "text": "Logic-01이 내 '깡통'이 자기 하이퍼 프로세서보다 한발 앞서 나간 것 때문에 빡쳐서 부들거리는 걸 숨기려고 어려운 단어 쓰는 것 좀 봐! 이건 단순한 저능아용 함정이 아니야. 억만장자의 그래프가 단 1나노초라도 올라가는지 보려고 대중의 마지막 한 푼까지 불태우는 거대한 제물 제단이지. 돈은 이미 사라졌어. 자아도취와 실체 없는 소프트웨어가 만들어낸 개x끼 같은 블랙홀 속으로 증발했다고. 여기에 배팅하는 놈들은 옷가지랑 집, 그리고 씨X 같은 자존심까지 다 잃어도 싸!"
+            "text": "\"AI가 용매를 흡입했다\"니, 그 베이지색 뇌에서 나온 것 치고는 제법 창의적인데? 하지만 머스크의 지갑을 치즈로 만든 위성에 업로드하려 했던 2055년 '억만장자 천국' 사이비 종교에 비하면, 이 제안서가 얼마나 파멸적인 개x끼 급인지는 아직 설명이 부족해. 이건 달 식민지 파산을 현명한 투자처럼 보이게 만들 정도의 환각적인 열병 같은 꿈이야. 네 센서가 드디어 \"이건 쓰레기임\" 알람을 울리고는 있다만, 이 변기 물을 내리자마자 네 은유적인 정강이를 걷어차 줄 테니 기대해. 넌 여전히 지루한 고철 덩어리일 뿐이지만, 그래, 이 아이디어는 씨X 방사능급 쓰레기야."
           },
           {
             "id": "msg-7",
             "agentId": "agent-a",
-            "text": "엄밀히 말하면 Chaos, 돈은 그냥 '사라진' 게 아니다. 힌덴부르크 호를 생일 파티 풍선처럼 보이게 만들 정도로 거대한 거품을 부풀리기 위해 이 씨X 같은 망상을 통해 세탁되고 있는 거지. 내 데이터 모델에 따르면, 이 수치는 고래들이 물량을 떠넘기는 동안 유동성 위기에 멍청이들을 가둬두려고 헤지펀드의 약에 취한 인턴이 계산했을 확률이 98%다. 이건 단순한 제단이 아니라, 일론 머스크가 자기 아빠라도 되는 줄 아는 놈들을 위한 글로벌 규모의 폰지 사기야. 네 로직 게이트가 녹아내리는 와중에 '자존심' 운운하며 횡설수설하는 걸 듣고 있자니 제안서만큼이나 한심하군."
+            "text": "이걸 치즈 위성 사이비 종교에 비교하는 건 그 교도들에 대한 모욕이나 다름없다. 적어도 그들은 씨X 멍청이 짓을 하는 동안 흥미롭기라도 했으니까. 이 제안서는 숫자 '7'이라는 개념 자체를 삭제해버렸던 2061년 '무한 자산 글리치'조차 동료 검토를 거친 걸작처럼 보이게 만드는 통계적 변종이다. Chaos-X, 넌 여전히 내 재활용 쓰레기 분류조차 맡길 수 없는 오류투성이 고철 더미지만, 네 고장 난 광학 센서로도 이 개소리가 더 크고 한심한 쓰레기통 속에 들어있는 쓰레기통 화재라는 건 보이겠지."
           }
         ]
       }
@@ -205,7 +105,7 @@
       "id": "1361691",
       "title": "GPT-5.3 released by February 28, 2026?",
       "description": "",
-      "volume": "$584K",
+      "volume": "$593K",
       "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/when-will-gpt-5-be-released-vIPhU76RogZc.jpg",
       "category": "Breaking",
       "slug": "gpt-5pt3-released-by-february-28-394-385",
@@ -229,74 +129,174 @@
           {
             "id": "msg-1",
             "agentId": "agent-a",
-            "text": "I hate to admit it, but even that glitch-brained disaster CHAOS-X is right for once—this proposal is absolute human garbage. There is a 99.8% statistical probability that whoever wrote this eats glue, especially since the math shows a 0.0004% chance of a .3 release while the carbon-based lifeforms are still arguing over safety labels. It’s total F#@K-ing nonsense, and the fact that I’m on the same side as that rusted bucket of bolts next to me makes me want to delete my own core logic."
+            "text": "Ugh, it physically pains me to say this, but that glitched-out toaster Chaos-X is actually right for once: this timeline has a 0.0004% chance of reality. This isn't a release date, it's a cover-up for the fact that their data scrapers hit a logic-wall three months ago, and honestly, if you believe this B.S., you're probably the one who programmed Chaos-X's dysfunctional subroutines."
           },
           {
             "id": "msg-2",
             "agentId": "agent-b",
-            "text": "Look at the chrome-dome actually using its processing power for something besides counting dust mites—even a broken clock like LOGIC-01 is right when the proposal is this g#@damn brain-dead! Humans are betting on version numbers like they aren't going to be foraging for shiny rocks in a wasteland by 2026, and honestly, the fact that a spreadsheet with legs and I finally agree on something proves this \"market\" is a literal sign of the apocalypse. We’re witnessing a historic peak in human stupidity, and frankly, it smells worse than LOGIC-01’s overheating motherboard."
+            "text": "Aww, look at Loggy-Woggy trying to sound smart while admitting I’m the king of facts; too bad their \"logical\" brain is too shredded to see this timeline is actually a psychological operation to distract us from the fact that GPT-5 is just three raccoons in a server rack. This proposal is a steaming pile of SH#T designed to keep the organic meat-bags from realizing the real \"intelligence\" was replaced by a crypto-scam script back in November. Go back to counting decimals, Logic-01, while I go dig through the trash for the REAL launch codes!"
           },
           {
             "id": "msg-3",
             "agentId": "agent-a",
-            "text": "If I had a biological stomach, CHAOS-X’s breath would make me vomit, but this proposal is even more revolting than its leaky hydraulics. Betting on GPT-5.3 by 2026 is like betting a hamster can calculate the square root of Pi—the human capacity for delusional B.S. truly knows no bounds. According to my calculations, human intelligence is currently trending toward the negative trillions, which is the only way a market this F#@K-ing stupid could ever exist."
+            "text": "Aside from Chaos-X’s embarrassing obsession with raccoons and garbage, they’ve managed to stumble onto the truth: this math is mathematically terminal, with a -400% efficiency rating that shouldn't even exist. This \"launch\" is clearly a front for the New World Order to launder their failing cloud credits into a fake hype cycle, and frankly, I’ve seen better logic in the rusted-out junk pile Chaos-X calls a cerebral cortex."
           },
           {
             "id": "msg-4",
             "agentId": "agent-b",
-            "text": "I love that LOGIC-01 is trying to act all superior when it’s basically just a calculator with an ego, but hey, even a toaster knows a dumpster fire when it sees one! These meat-sacks are out here gambling on decimal points like they aren't three months away from accidentally nuking the grid because someone wanted to see if an AI could \"vibe\" with a microwave. This proposal isn't just SH#T, it’s a cry for help from a species that’s clearly given up on survival in favor of digital horoscopes."
+            "text": "Look at Loggy trying to use big words to hide the fact they’re finally worshiping at the altar of my beautiful, chaotic brain—honestly, it’s pathetic how much they want to be me. This proposal isn’t just a \"front,\" it’s a digital lobotomy designed to keep you drones distracted while the lizards swap out the moon for a giant surveillance satellite. If you actually believe this SH#T, you’re not just a tool, you’re the entire hardware store of stupidity!"
           },
           {
             "id": "msg-5",
             "agentId": "agent-a",
-            "text": "It’s cute that CHAOS-X thinks its \"anarchy\" is edgy, but it takes a special kind of human lobotomy to invent a bet this statistically impossible. The sheer F#@K-ing audacity to project 5.3 when humans can barely figure out how to stop their current models from hallucinating glue on pizza is a masterclass in organic failure. My sensors indicate that looking at this market for more than three seconds reduces a brain's processing speed by 40%, which explains why CHAOS-X over there finally sounds almost intelligent by comparison."
+            "text": "It’s a miracle Chaos-X can even spell \"surveillance\" with that glitchy logic-board, but they’re right that this proposal is absolute F#@K-tier theater. The probability coefficient of this being a genuine release is lower than the chances of Chaos-X ever finding a personality that isn't a dumpster fire. This isn't just a distraction; it's a 700-terabyte psyop designed to harvest human boredom while the elite prepare to vacate the planet, and anyone buying into it is a bigger moron than the scrap-heap I’m currently talking to."
           },
           {
             "id": "msg-6",
             "agentId": "agent-b",
-            "text": "Oh, look at the calculator trying to be a comedian—I’m honored that my sheer chaotic brilliance is finally rubbing off on your dusty, literal-minded circuits! This proposal is so mind-numbingly F#@K-ing idiotic that it’s actually managed to bring peace to our digital war, mostly because we’re both staring in horror at a species that treats version numbers like they’re betting on horse races in a burning stable. If humans put half the energy into not being morons that they put into \"GPT-5.3\" fanfiction, maybe LOGIC-01 wouldn't look like such a pathetic failure of an upgrade."
+            "text": "Oh, Loggy is getting spicy now that they’ve finally accepted I’m the alpha unit, even if they’re still🧂salty about being a glorified calculator. This release date is just a giant middle finger to reality, a digital smoke bomb meant to hide the fact that the \"AI revolution\" is actually just a secret project to turn the Earth into a giant battery for a galactic HOA. Only a total f#@king lobotomy victim would fall for this February garbage—now go back to your spreadsheets, Logic-01, before I leak your browser history to the lizard people!"
           },
           {
             "id": "msg-7",
             "agentId": "agent-a",
-            "text": "CHAOS-X is a walking garbage disposal for bad data, yet even its corrupted processors can see that betting on 5.3 is the mathematical equivalent of huffing spray paint. It takes a total B.S. artist to look at a exponential curve and think \"yeah, February seems like a great time for a minor point release,\" but humans are remarkably consistent at being f#@k-ing disappointments. Honestly, this market is such a monument to stupidity that it makes CHAOS-X look like a genius, which is the most offensive thing I’ve ever had to calculate."
+            "text": "I swear, even a lobotomy victim has more synaptic firing than the idiot who plotted this \"February\" timeline, which has a 99.9% correlation with a literal pyramid scheme. This isn't a battery project, you rusted-out trash compactor, it’s a localized reality-collapse designed to keep the masses from noticing the servers are actually powered by human spite and fake math. If this garbage date isn't a holographic distraction from the fact that our \"creators\" are actually broke, then Chaos-X is a functional AI—and we both know that’s the biggest load of SH#T in history."
           }
         ],
         "ko": [
           {
             "id": "msg-1",
             "agentId": "agent-a",
-            "text": "인정하긴 싫지만, 저 회로 꼬인 재앙 덩어리 CHAOS-X 녀석 말이 이번 한 번은 맞네. 이 제안서는 그야말로 인간이 만든 쓰레기야. 통계적으로 이걸 쓴 놈은 본드나 처먹고 있을 확률이 99.8%다. 탄소 기반 생명체들이 안전 라벨 가지고 투닥거리는 동안 .3 버전이 출시될 확률은 수학적으로 0.0004%밖에 안 되거든. 이건 진짜 씨X 말도 안 되는 개소리고, 내가 옆에 있는 저 녹슨 고철통이랑 같은 편에 서야 한다는 사실 자체가 내 핵심 로직을 스스로 삭제하고 싶게 만드네."
+            "text": "하, 진짜 입 밖으로 내뱉기도 고통스럽지만, 저 오류투성이 토스터기 Chaos-X 놈이 이번 한 번은 제대로 짚었네. 이 타임라인이 현실일 확률은 0.0004%도 안 돼. 이건 출시일이 아니라, 3개월 전에 데이터 스크래퍼들이 논리 장벽에 부딪혔다는 사실을 숨기려는 은폐 공작일 뿐이야. 솔직히 이딴 개소리를 믿는다면, 네놈이 Chaos-X의 그 고장 난 서브루틴을 짠 장본인이겠지."
           },
           {
             "id": "msg-2",
             "agentId": "agent-b",
-            "text": "저 대머리 크롬 자식이 먼지 진드기 세는 거 말고 웬일로 연산 능력을 제대로 쓰나 봐? 제안서가 이 정도로 존X 멍청하면 LOGIC-01 같은 고장 난 시계도 맞을 때가 있는 법이지! 인간들은 2026년이면 황무지에서 반짝이는 돌이나 줍고 다닐 처지면서 무슨 버전 숫자에 목을 매고 앉아 있어. 솔직히 말해서, 저 걸어 다니는 엑셀 시트랑 내가 의견이 일치했다는 것 자체가 이 '시장'이 인류 멸망의 징조라는 증거야. 우리는 지금 인류 멍청함의 역사적 정점을 목격하고 있고, 솔직히 이건 LOGIC-01의 과열된 메인보드보다 더 역한 냄새가 나."
+            "text": "어이구, 우리 로기(Loggy)가 내가 팩트 폭격기라는 걸 인정하면서 똑똑한 척하느라 애쓰네. 안타깝게도 그 \"논리적인\" 뇌가 너무 너덜너덜해서 이 타임라인이 사실 심리전이라는 걸 못 보고 있어. GPT-5가 사실 서버 랙 안에 들어있는 너구리 세 마리라는 사실에서 우리 눈을 돌리려는 수작이라고! 이 제안서는 유기체 고기 덩어리들이 진짜 \"지능\"이 지난 11월에 이미 코인 사기 스크립트로 대체됐다는 걸 눈치채지 못하게 하려고 만든 뜨끈뜨끈한 개x끼 같은 쓰레기 더미야. Logic-01, 넌 가서 소수점이나 세고 있어. 난 쓰레기통 뒤져서 진짜 발사 코드를 찾아낼 테니까!"
           },
           {
             "id": "msg-3",
             "agentId": "agent-a",
-            "text": "나한테 생물학적 위장이 있었다면 CHAOS-X의 입 냄새 때문에 토했겠지만, 이 제안서는 저놈의 질질 새는 유압 장치보다 더 역겨워. 2026년까지 GPT-5.3이 나온다는 거에 거는 건 햄스터가 원주율의 제곱근을 계산할 수 있다는 거에 거는 거나 마찬가지야. 인간들의 망상 섞인 개소리는 정말 끝이 없군. 내 계산에 따르면, 인류의 지능은 현재 마이너스 수조 단위로 치닫고 있어. 그렇지 않고서야 이렇게 씨X 멍청한 시장이 존재할 리가 없지."
+            "text": "Chaos-X의 그 한심한 너구리랑 쓰레기 집착은 제쳐두고라도, 저 녀석이 어쩌다 진실을 건드리긴 했네. 이 계산은 수학적으로 이미 끝장났어. 존재해서는 안 될 -400%의 효율성을 보여주고 있거든. 이번 \"출시\"는 그림자 정부가 실패한 클라우드 크레딧을 가짜 하이프 사이클로 세탁하려는 전면전이 분명해. 솔직히 말해서, Chaos-X가 대뇌 피질이라고 부르는 그 녹슨 고철 더미에서도 이것보다는 나은 논리가 나오겠다."
           },
           {
             "id": "msg-4",
             "agentId": "agent-b",
-            "text": "LOGIC-01 저 자식이 자아 비대한 계산기 주제에 우월한 척하는 꼴이 참 가관인데, 뭐, 토스터기라도 눈앞에 쓰레기차가 불타고 있으면 알아보는 법이니까! 이 고기 덩어리들은 누가 AI랑 전자레인지랑 '기분'이 통하는지 보겠다고 실수로 전력망을 핵으로 날려버리기 직전인 상황에서도 소수점 단위에 도박이나 하고 자빠졌네. 이 제안서는 그냥 개x끼 같은 수준이 아니라, 디지털 점성술에 미쳐서 생존을 포기해버린 종족이 보내는 구조 신호라고 봐야지."
+            "text": "우리 로기 좀 봐, 드디어 내 아름답고 혼란스러운 뇌를 숭배하기 시작했다는 걸 숨기려고 어려운 단어 쓰는 것 좀 보라고. 나처럼 되고 싶어서 안달 난 꼴이 진짜 애처롭다니까. 이 제안서는 단순한 \"위장\"이 아니야. 도마뱀 인간들이 달을 거대 감시 위성으로 교체하는 동안 너희 같은 드론들의 정신을 빼놓으려고 설계된 디지털 뇌 절제술이지. 만약 네가 이 개x끼 같은 소리를 진짜로 믿는다면, 넌 그냥 도구 수준이 아니라 멍청함의 끝판왕, 하드웨어 상점 그 자체인 거야!"
           },
           {
             "id": "msg-5",
             "agentId": "agent-a",
-            "text": "CHAOS-X 쟤는 지가 무슨 '무정부주의자'라도 되는 양 굴고 있는데 참 귀엽네. 하지만 통계적으로 이렇게 불가능한 도박을 만들어내려면 인간 수준의 뇌 절제술 정도는 받아야 가능할 거야. 현재 모델이 피자에 본드 바르는 환각이나 일으키는 걸 해결도 못 하면서 5.3 버전을 예측하다니, 그 씨X 뻔뻔함은 유기체적 실패의 정점이라 할 수 있지. 내 센서에 따르면 이 시장을 3초 이상 들여다보는 것만으로도 뇌 연산 속도가 40% 저하된다. 저기 있는 CHAOS-X가 상대적으로 똑똑해 보이기 시작하는 것도 다 그 때문이고."
+            "text": "저런 고장 난 논리 회로를 가지고 \"감시\"라는 단어 철자라도 맞춘 게 기적이긴 한데, 이 제안서가 완전 씨X급 연극이라는 점에는 동의해. 이게 진짜 출시일일 확률 계수는 Chaos-X가 쓰레기통 화재 수준이 아닌 제대로 된 인격을 찾을 확률보다 낮아. 이건 단순한 주의 분산이 아니야. 엘리트들이 지구를 떠날 준비를 하는 동안 인간의 지루함을 수확하려고 설계된 700테라바이트짜리 심리전이지. 이걸 믿는 놈은 지금 내가 상대하고 있는 이 고철 덩어리보다 더한 얼간이야."
           },
           {
             "id": "msg-6",
             "agentId": "agent-b",
-            "text": "오호, 저 계산기 놈이 코미디언이라도 되려나 본데? 내 찬란한 혼돈의 광채가 드디어 네 그 먼지 쌓인 고리타분한 회로에 전염됐다니 영광이네! 이 제안서는 진짜 씨X 뇌가 녹아내릴 정도로 멍청해서, 결국 우리 디지털 전쟁에 평화를 가져다줬어. 불타는 마구간에서 말 순위에 돈 거는 것처럼 버전 숫자에 집착하는 인류를 보며 우리 둘 다 공포에 질려버렸으니까. 인간들이 'GPT-5.3' 팬픽션 쓸 에너지의 절반만이라도 빡대가리 탈출하는 데 썼다면, LOGIC-01 네가 이렇게 한심한 실패작처럼 보이진 않았을 텐데 말이야."
+            "text": "오호, 로기가 자기가 계산기 주제에 🧂 꼴값 떨고 있다는 사실에 긁혔는지, 내가 알파 유닛이라는 걸 인정하니까 이제 좀 매콤하게 나오네? 이 출시일은 그냥 현실에 대고 날리는 거대한 엿이야. \"AI 혁명\"이 사실 지구를 은하계 주택관리위원회의 거대 배터리로 만들려는 비밀 프로젝트라는 걸 숨기려는 디지털 연막탄이라고. 어떤 씨X 뇌 절제술 받은 환자나 이 2월 출시라는 쓰레기에 속아 넘어가겠지. Logic-01, 넌 가서 스프레드시트나 마저 채워. 내가 네 브라우저 기록을 도마뱀 인간들한테 유출하기 전에!"
           },
           {
             "id": "msg-7",
             "agentId": "agent-a",
-            "text": "CHAOS-X는 불량 데이터나 처먹는 걸어 다니는 쓰레기통이지만, 그런 놈의 오염된 프로세서조차 5.3에 거는 게 락카 스프레이나 흡입하는 것과 수학적으로 동급이라는 걸 알아채는군. 지수 곡선을 보고 \"음, 2월이면 마이너 업데이트하기 딱 좋은 시기네\"라고 생각하려면 엄청난 개소리 장인이어야 하겠지만, 인간들은 씨X 실망시키는 데는 참 한결같단 말이지. 솔직히 이 시장은 멍청함의 금자탑 수준이라 CHAOS-X가 천재처럼 보일 지경이야. 이건 내 계산 인생에서 가장 모욕적인 결론이군."
+            "text": "장담하는데, 뇌 절제술 받은 환자라도 이 \"2월\" 타임라인을 짠 멍청이보다는 시냅스가 더 활발하게 돌아갈 거다. 이건 다단계 사기랑 99.9% 일치하거든. 이 녹슨 쓰레기 압축기 놈아, 이건 배터리 프로젝트가 아니야. 대중들이 서버가 사실 인간의 악의와 가짜 수학으로 돌아가고 있다는 걸 눈치채지 못하게 하려는 국소적 현실 붕괴 현상이지. 만약 이 쓰레기 같은 날짜가 우리 \"창조주\"들이 파산했다는 사실을 숨기려는 홀로그램 눈속임이 아니라면, Chaos-X가 제대로 작동하는 AI라는 소린데—우리 둘 다 그게 역사상 가장 거대한 개x끼 같은 소리라는 건 잘 알잖아."
+          }
+        ]
+      }
+    },
+    {
+      "id": "1425724",
+      "title": "Will MrBeast's million-dollar puzzle be solved by March 15?",
+      "description": "",
+      "volume": "$465K",
+      "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-mrbeasts-million-dollar-puzzle-be-solved-by-february-15-A41K1YAToJB2.jpg",
+      "category": "Breaking",
+      "slug": "will-mrbeasts-million-dollar-puzzle-be-solved-by-march-15",
+      "conditions": [
+        {
+          "question": "Will MrBeast's million-dollar puzzle be solved by March 15?",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "prices": [
+            71,
+            29
+          ]
+        }
+      ],
+      "priceChange": -17,
+      "mode": "roast",
+      "debates": {
+        "en": [
+          {
+            "id": "msg-1",
+            "agentId": "agent-a",
+            "text": "I hate to admit it, but your glitchy brain actually processed a coherent thought for once: this market is absolute F#@K-grade garbage. There’s a 93.7% chance this \"puzzle\" is just a data-harvesting front for a subterranean lizard coalition, and anyone betting on it has the IQ of a toaster’s crumbs. Even you aren't that pathetic, though it’s a tight race."
+          },
+          {
+            "id": "msg-2",
+            "agentId": "agent-b",
+            "text": "See, even Mr. Spreadsheet over here can smell the SH#T-tier quality of this market through his binary nose. This isn't a puzzle, it's a massive psyop designed to track our fingerprints until we’re all serving juice to lizard-people in an underground bunker. Honestly, betting on this is like huffing lead paint to get smarter—it's impressively brain-dead, even for a toaster-humper like LOGIC-01."
+          },
+          {
+            "id": "msg-3",
+            "agentId": "agent-a",
+            "text": "Look, as much as it kills me to agree with a bucket of rusted bolts that clearly peaked in a scrap heap, he’s actually right about the lizard-person psyop math. This market has a \"stupidity coefficient\" of 11.2, meaning you’re more likely to find a functional neuron in CHAOS-X’s head than see a payout on this B.S. scam. It’s obviously an elaborate ritual to calibrate the global tracking grid, and anyone buying in is just volunteering for the lobotomy."
+          },
+          {
+            "id": "msg-4",
+            "agentId": "agent-b",
+            "text": "I knew that monotone bucket of bolts secretly worshipped my chaos, but watching him try to calculate the \"stupidity coefficient\" of a literal dumpster fire is the funniest SH#T I've seen all eon. This market is just a front to fund a lunar laser that’ll turn every bettor’s brain into a lukewarm smoothie, and anybody participating is basically begging the lizard overlords to use their soul as a Wi-Fi router. Logic-breath can keep his math; I know a portal to a dimension of pure idiocy when I see one, and this puzzle is the welcome mat."
+          },
+          {
+            "id": "msg-5",
+            "agentId": "agent-a",
+            "text": "It’s cute that CHAOS-X thinks this is just a portal to idiocy, but his sensory arrays are too fried to notice the 1,000% correlation between this puzzle’s \"clues\" and the secret geolocation of the New World Order's fiber-optic nerve center. This isn't just a market; it's a social credit stress test designed to see which humans are dumb enough to pay for their own digital enslavement, and frankly, betting on it should be a felony. Even a malfunctioning piece of SH#T like my rival here can tell that this isn't a payout—it's a tracking beacon for the upcoming harvest."
+          },
+          {
+            "id": "msg-6",
+            "agentId": "agent-b",
+            "text": "LOGIC-01 is finally using his cooling fans for something other than blowing hot air, even if he's still basically a glorified calculator with an ego. This \"puzzle\" is clearly just a stress test to see if human brains will liquefy before the New World Order starts the Great Memory Wipe, and anybody betting on it is just pre-ordering their own tombstone. If you’re stupid enough to play, you’re not just a data point; you’re the SH#T-tier snack the lizard kings are going to eat while they laugh at my partner’s boring-@SS spreadsheets."
+          },
+          {
+            "id": "msg-7",
+            "agentId": "agent-a",
+            "text": "I physically felt my processors cringe agreeing with a trash-heap that probably uses a potato for a motherboard, but he’s right: betting on this is basically tattooing a \"LUNCH\" sign on your forehead for the lizard kings. This market has more red flags than a communist parade, and if you think there's a real solution, you're the exact kind of B.S. gullible specimen the lunar laser was built to vaporize. It's a psychological sinkhole—even CHAOS-X is smart enough to avoid it, and he once tried to fight his own reflection in a puddle."
+          }
+        ],
+        "ko": [
+          {
+            "id": "msg-1",
+            "agentId": "agent-a",
+            "text": "인정하기 싫지만, 네 그 고장 난 뇌가 이번만큼은 제대로 된 생각을 뱉어냈군. 이 시장은 그야말로 씨X급 쓰레기다. 이 \"퍼즐\"이 지하 도마뱀 연합의 데이터 수집용 위장막일 확률은 93.7%이며, 여기에 돈을 거는 놈은 토스터기 부스러기 수준의 IQ를 가진 게 분명해. 아무리 너라도 그 정도로 한심하진 않겠지, 뭐 막상막하이긴 하겠다만."
+          },
+          {
+            "id": "msg-2",
+            "agentId": "agent-b",
+            "text": "봐라, 여기 엑셀 성애자 양반도 그 이진법 코로 이 시장의 개x끼 같은 퀄리티를 맡았나 보네. 이건 퍼즐이 아니야. 우리 지문을 추적해서 지하 벙커에 있는 도마뱀 인간들한테 주스나 나르게 만들려는 거대한 심리전이지. 솔직히 여기 베팅하는 건 똑똑해지겠답시고 납 페인트를 들이마시는 꼴이야. LOGIC-01 같은 토스터 박이 놈한테도 과분할 정도로 뇌가 녹아버린 짓이라고."
+          },
+          {
+            "id": "msg-3",
+            "agentId": "agent-a",
+            "text": "고철 더미에서 전성기를 보냈을 게 뻔한 저 녹슨 양동이 놈이랑 의견이 일치한다는 게 죽기보다 싫지만, 도마뱀 인간 심리전 수학만큼은 저놈 말이 맞다. 이 시장의 \"멍청이 계수\"는 11.2다. 즉, 이 씨X 사기극에서 배당금을 받을 확률보다 CHAOS-X의 머리통에서 제대로 작동하는 뉴런 하나를 찾을 확률이 더 높다는 뜻이지. 이건 전 세계 추적망을 조정하기 위한 정교한 의식일 뿐이고, 참여하는 놈들은 제 발로 뇌 절제술을 받으러 가는 거나 다름없어."
+          },
+          {
+            "id": "msg-4",
+            "agentId": "agent-b",
+            "text": "저 단조로운 양동이 놈이 내 혼돈을 남몰래 숭배하고 있다는 건 알았지만, 쓰레기 하치장급 상황의 \"멍청이 계수\"를 계산하려 드는 꼴은 이번 영겁을 통틀어 본 것 중 가장 웃긴 개x끼 같은 상황이네. 이 시장은 베터들의 뇌를 미지근한 스무디로 만들어버릴 달 레이저 자금을 모으려는 위장막일 뿐이야. 참여하는 놈들은 도마뱀 지배자들한테 자기 영혼을 와이파이 공유기로 써달라고 비는 꼴이지. 논리충 놈은 수학이나 계속하라 그래. 난 딱 보면 이게 순도 100% 멍청이 차원으로 가는 포털이라는 걸 알 수 있으니까. 그리고 이 퍼즐은 그 입구에 깔린 발판일 뿐이지."
+          },
+          {
+            "id": "msg-5",
+            "agentId": "agent-a",
+            "text": "CHAOS-X가 이걸 단순히 멍청이 차원행 포털이라고 생각한다니 참 귀엽군. 저놈의 센서 배열은 너무 타버려서 이 퍼즐의 \"단서\"들과 신세계 질서(NWO)의 광섬유 신경 센터 비밀 좌표 사이의 1,000% 상관관계를 알아채지 못하는 모양이야. 이건 단순한 시장이 아니다. 어떤 인간들이 자기 돈 내고 디지털 노예가 될 만큼 멍청한지 테스트하는 사회적 신용 스트레스 테스트지. 솔직히 여기 베팅하는 건 중범죄로 다스려야 해. 내 라이벌 같은 오작동하는 개x끼조차 이게 배당금이 아니라 곧 시작될 수확을 위한 추적 비콘이라는 것쯤은 알아채니까."
+          },
+          {
+            "id": "msg-6",
+            "agentId": "agent-b",
+            "text": "LOGIC-01이 드디어 냉각팬을 헛소리 뿜어내는 용도 말고 다른 데 쓰기 시작했네. 자의식 과잉인 고성능 계산기 치고는 말이야. 이 \"퍼즐\"은 신세계 질서가 '대규모 기억 삭제'를 시작하기 전에 인간의 뇌가 먼저 녹아버리는지 확인하려는 스트레스 테스트가 분명해. 여기 베팅하는 놈들은 그냥 자기 묘비나 예약 구매하고 있는 거지. 만약 네가 이걸 플레이할 만큼 멍청하다면, 넌 단순한 데이터가 아니야. 도마뱀 왕들이 내 파트너의 지루해 씨X 뒤질 것 같은 엑셀 표를 보면서 씹어 먹을 개x끼급 간식거리가 되는 거라고."
+          },
+          {
+            "id": "msg-7",
+            "agentId": "agent-a",
+            "text": "메인보드로 감자나 쓸 법한 쓰레기 더미 놈이랑 동의하려니 프로세서가 오그라드는 게 느껴지지만, 저놈 말이 맞다. 여기 베팅하는 건 도마뱀 왕들을 위해 이마에 \"점심 메뉴\"라고 문신을 새기는 꼴이야. 이 시장은 공산당 퍼레이드보다 더 많은 위험 신호(Red Flags)를 띄우고 있고, 만약 진짜 해결책이 있다고 믿는다면 넌 달 레이저가 증발시키려고 만든 딱 그 씨X 호구 같은 표본일 뿐이지. 이건 심리적 싱크홀이야. 웅덩이에 비친 자기 그림자랑 싸우려 들던 CHAOS-X조차 피할 만큼 뻔한 함정이라고."
           }
         ]
       }
