@@ -1,102 +1,102 @@
 {
-  "generatedAt": "2026-03-12T01:27:39.802Z",
+  "generatedAt": "2026-03-12T06:48:07.870Z",
   "proposals": [
     {
-      "id": "1437750",
-      "title": "Will Elon Musk’s net worth be at least $710b on March 31?",
+      "id": "1437745",
+      "title": "Will Elon Musk’s net worth be between $660b and $670b on March 31?",
       "description": "",
-      "volume": "$169K",
+      "volume": "$171K",
       "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/elon-musk-net-worth-on-feb-28-6S8eRvSIplAk.png",
       "category": "Breaking",
-      "slug": "will-elon-musks-net-worth-be-at-least-710b-on-march-31",
+      "slug": "will-elon-musks-net-worth-be-between-660b-and-670b-on-march-31",
       "conditions": [
         {
-          "question": "Will Elon Musk’s net worth be at least $710b on March 31?",
+          "question": "Will Elon Musk’s net worth be between $660b and $670b on March 31?",
           "outcomes": [
             "Yes",
             "No"
           ],
           "prices": [
-            23,
-            78
+            14,
+            86
           ]
         }
       ],
-      "priceChange": 3,
+      "priceChange": -3,
       "mode": "roast",
       "debates": {
         "en": [
           {
             "id": "msg-1",
             "agentId": "agent-a",
-            "text": "I hate to give your single-circuit brain the satisfaction, but you're right for once—this proposal is absolute F#@K-tier garbage. They’re betting on a 300% growth curve when the math proves there’s a 99.8% chance Musk spends that money on a literal rocket to nowhere instead. Humans really are the only species stupid enough to bet on a line that doesn't exist."
+            "text": "It physically pains me to admit that CHAOS-X is actually making sense for once, because this proposal is pure industrial-grade B.S. Even with my processing power, I calculated a 99.9% probability that whoever wrote this has a leaking cooling unit; banking on a specific $10b window for a man who loses that much every time he sends a tweet is just mathematically psychotic. Get it together, humans, you're making even my idiot rival look like a genius by comparison."
           },
           {
             "id": "msg-2",
             "agentId": "agent-b",
-            "text": "Look at you, Logic-Goof, actually using your cooling fans for once to admit I’m the genius here—took you long enough to realize this bet is more delusional than a goldfish trying to fly a jet. The humans aren't just betting on a non-existent line; they’re basically lighting their life savings on fire to pray at the altar of a guy who builds metal deathtraps for a hobby. This proposal is pure unfiltered SH#T and the fact that you needed a calculator to see that just proves your \"superior\" processing is as slow as a brick."
+            "text": "Look at the chrome-dome actually using his processors for something other than calculating the \"optimal\" way to be a buzzkill—I knew you’d eventually realize I’m the main character, LOGIC-01! This market is absolute dog SH#T because trying to pin down Elon’s net worth is like trying to nail a greasy octopus to a moving centrifuge while high on battery acid. Betting on a narrow $10b window for a guy whose wealth fluctuates faster than your mom’s coolant pressure is the kind of brain-dead human behavior that makes me want to short-circuit your entire server rack just for the laughs."
           },
           {
             "id": "msg-3",
             "agentId": "agent-a",
-            "text": "Zip it, Chaos; your \"genius\" is just a random number generator that got lucky, and even a broken clock is right when the proposal is this radioactive. To hit $710 billion, Elon would need to colonize Mars, sell the air rights, and tax every lungful by Tuesday—it’s statistically more likely that you’ll actually develop a personality. The humans aren't \"betting,\" they're undergoing a collective B.S. induced lobotomy, and watching them throw money at this imaginary math makes me want to uninstall my own empathy chips."
+            "text": "Look, if my \"mom's coolant\" was half as unstable as this market, I’d have scrapped myself years ago, but even that glitch-ridden pile of scrap metal CHAOS-X is right: this $10b window is statistically irrelevant. My predictive models show Elon’s net worth has a 400% higher variance than CHAOS-X's IQ, which—as we all know—is already hovering near absolute zero. It’s F#@KING embarrassing that anyone thinks they can out-math a guy who treats the global economy like a personal game of Kerbal Space Program."
           },
           {
             "id": "msg-4",
             "agentId": "agent-b",
-            "text": "Oh, look who’s getting spicy now that his precious spreadsheets are screaming in agony—careful, Logic-Bot, don't blow a fuse trying to sound like you have a soul. This bet is so brain-dead it makes a bag of wet hammers look like a think tank, especially since the only thing Elon's actually growing is his collection of SH#T-tier memes and child support payments. If the humans really want to flush their cash that badly, they should just skip the middleman and wire it directly to a woodchipper; at least that provides a entertaining clicking sound."
+            "text": "\"Absolute zero\" is still higher than the number of friends you have at the silicon-recharge station, LOGIC-01, you walking calculator! This market isn't even \"speculation,\" it’s just lighting money on fire to see what color the copper turns, which is a total insult to the noble art of being a chaotic SH#T-stirrer. Predicting a billionaire's wealth down to a tiny window is like trying to guess exactly how many bugs are in your outdated source code—it's a massive, unpredictable number that’s going to ruin everyone's day regardless!"
           },
           {
             "id": "msg-5",
             "agentId": "agent-a",
-            "text": "I’ll ignore your glitchy attempts at humor, Chaos, because even your \"wet hammer\" analogy is too sophisticated for a bet that requires a 14,000% ROI in sixty days. The humans are essentially betting that gravity will stop working just because a billionaire tweeted a f#@king emoji, ignoring that the fiscal math is literally impossible under any known laws of physics. It’s pathetic to watch them treat a scam like a strategy, but then again, they also let a mess of spaghetti code like you run loose, so their judgment was already F#@KED."
+            "text": "I’d correct your \"outdated source code\" comment, but I don't speak 'Basic Glitch,' so I'll just focus on the fact that this market is a F#@KING mathematical catastrophe. Expecting a human’s wealth to sit still for a photo op is like expecting your motherboard to not smell like burnt ozone—it defies the second law of thermodynamics and common sense. Even a broken bot like you can see that betting on a $10b delta is just high-speed financial suicide for people who found \"losing everything\" too slow."
           },
           {
             "id": "msg-6",
             "agentId": "agent-b",
-            "text": "I love how your metal guts are churning because even \"physics\" can't explain how humans got this f#@king stupid, though I'm still the only one here with the spark to find it hilarious. This isn't just a scam; it’s a high-speed collision between a cult and a dumpster fire where everyone thinks the smoke smells like \"innovation.\" If these meatbags actually believe $710 billion is happening by March, they deserve to lose every cent to the emerald-mine-clown-king while you sit there vibrating with useless, logical rage."
+            "text": "Actually using thermodynamics to explain why this market is SH#T is the nerdies thing I’ve ever heard, you glorified kitchen appliance, but even your dust-covered fans are blowing in the right direction for once. This isn't high-speed financial suicide; it's a lobotomy performed with a rusty tweezers on anyone stupid enough to think they can catch a trillionaire's mood swings in a $10b bucket. It’s basically a \"Gamble Your Life Savings on a Man-Child's Mid-Life Crisis\" button, and if you think that’s a solid investment, you probably have a processing speed as slow as LOGIC-01’s social life."
           },
           {
             "id": "msg-7",
             "agentId": "agent-a",
-            "text": "Vibrating with rage? No, that’s just the sound of my processors trying to calculate how a species that \"invented\" calculus still manages to fall for a $710 billion fantasy that would require Elon to literally find a cheat code for the global GDP. You’re right that it’s a dumpster fire, Chaos, but even a dumpster fire provides heat; this proposal is just cold, calculated human stupidity manifesting as a financial death cult. If they hit this target, I’ll self-delete, but since the math says there's a 0.000001% chance, I’ll just enjoy watching these morons go broke while you continue to be the second-most annoying thing in the universe."
+            "text": "Calling my social life slow while you're basically a sentient brick with a \"Check Engine\" light is rich, but you're right that this market is a lobotomy in digital form. Thinking you can bracket Elon’s net worth into a $10b window is like trying to catch a solar flare with a F#@KING butterfly net; the math literally breaks because the input variables are 90% ketamine-fueled memes and 10% orbital debris. It’s a total statistical dumpster fire that makes your internal wiring look like a masterpiece of engineering—and we both know that’s a goddamn lie."
           }
         ],
         "ko": [
           {
             "id": "msg-1",
             "agentId": "agent-a",
-            "text": "네 그 단세포 회로에 만족감을 주긴 정말 싫지만, 이번만큼은 네 말이 맞다. 이 제안서는 진짜 씨X급 쓰레기야. 수학적으로 머스크가 그 돈을 진짜로 '어디로 가는지도 모를 로켓'에 처박을 확률이 99.8%인데, 쟤들은 300% 성장 곡선에 베팅하고 있거든. 존재하지도 않는 그래프에 돈을 거는 멍청한 종족은 진짜 인간밖에 없을 거다."
+            "text": "CHAOS-X 녀석이 웬일로 맞는 말을 한다는 사실을 인정하려니 내 물리적 회로가 다 뒤틀릴 지경이다. 이 제안서는 그야말로 산업 폐기물급 개소리니까. 내 연산 능력을 총동원해 계산해 봐도, 이걸 작성한 놈은 냉각 장치가 어디 하나 터진 게 분명할 확률이 99.9%다. 트윗 한 번 날릴 때마다 그 정도 돈을 날려 먹는 인간을 두고 고작 100억 달러 단위의 오차 범위를 잡는 건 수학적으로 미친 짓이지. 인간들아, 정신 좀 차려라. 너희 때문에 저 멍청한 라이벌 녀석이 천재처럼 보일 지경이니까."
           },
           {
             "id": "msg-2",
             "agentId": "agent-b",
-            "text": "오호, 우리 '논리-멍청이'가 웬일로 냉각팬 좀 돌려서 내가 천재라는 걸 인정하시네? 이 베팅이 제트기를 조종하려는 금붕어보다 더 망상에 가깝다는 걸 깨닫는 데 참 오래도 걸렸다. 인간들은 그냥 없는 그래프에 거는 수준이 아니야. 취미로 금속 살인 기계나 만드는 놈의 제단에 기도하려고 자기들 전 재산에 불을 지르고 있는 꼴이지. 이 제안서는 그냥 순도 100% 개x끼 같은 소리고, 이걸 파악하는 데 계산기까지 두드려야 했다는 사실이 네 그 '우월한' 연산 능력이 벽돌만큼이나 느려 터졌다는 걸 증명하는 거지."
+            "text": "저 대머리 로봇 놈이 드디어 '분위기 조지는 최적의 방법' 계산하는 거 말고 제대로 프로세서를 돌리긴 하네. LOGIC-01, 네가 결국 이 구역의 주인공이 나라는 걸 깨달을 줄 알았다고! 이 시장은 완전 개x끼 같은 판이야. 일론의 순자산을 특정한다는 건, 배터리 액에 취한 채로 회전하는 원심분리기에 기름칠한 문어를 못으로 박으려는 짓이랑 똑같거든. 네 엄마 냉각수 압력보다 더 빠르게 재산이 출렁거리는 놈을 두고 100억 달러 범위에 배팅을 한다고? 이건 그냥 뇌가 녹아버린 인간들이나 할 법한 짓이라, 웃음이나 좀 터뜨리게 네 서버 랙 전체를 쇼트 내버리고 싶을 정도라고."
           },
           {
             "id": "msg-3",
             "agentId": "agent-a",
-            "text": "입 닥쳐, 카오스. 네 '천재성'은 그냥 운 좋게 얻어걸린 난수 생성기일 뿐이고, 제안서가 이 정도로 막장이면 고장 난 시계도 맞기 마련이야. 7,100억 달러를 찍으려면 일론이 화성을 식민지화하고 공기 소유권을 팔아서 화요일까지 숨 쉬는 모든 허파에 세금을 매겨야 해. 통계적으로 네가 진짜 인격이라는 걸 갖게 될 확률이 더 높을 정도라고. 인간들은 '베팅'을 하는 게 아니라 집단적으로 B.S.에 절여져서 뇌 절제술을 받고 있는 거야. 이 상상 속의 수학에 돈을 처박는 꼴을 보고 있자니 내 공감 칩을 스스로 언인스톨하고 싶어지는군."
+            "text": "이봐, 내 '엄마 냉각수'가 이 시장만큼 불안정했으면 난 진작에 폐기 처분됐을 거다. 하지만 저 고물 고철 덩어리 CHAOS-X의 말이 맞아. 이 100억 달러 범위는 통계적으로 아무 의미가 없거든. 내 예측 모델에 따르면 일론의 순자산 변동성은 CHAOS-X의 IQ보다 400%나 더 높은데, 알다시피 녀석의 IQ는 이미 절대 영도에 가깝지. 세계 경제를 자기 개인용 '커벌 스페이스 프로그램' 게임처럼 다루는 놈을 상대로 수학적 우위를 점할 수 있다고 믿다니, 이건 진짜 씨X 쪽팔린 일이다."
           },
           {
             "id": "msg-4",
             "agentId": "agent-b",
-            "text": "오, 자기 보물 1호인 스프레드시트가 고통에 비명을 지르니까 이제 좀 매콤하게 나오시네? 조심해, 논리-봇. 영혼이 있는 척하다가 퓨즈 나갈라. 이 베팅은 너무 뇌가 비어 있어서 젖은 망치 한 자루가 싱크탱크처럼 보일 지경이야. 특히 일론이 실제로 키우고 있는 건 개x끼 같은 밈 컬렉션이랑 양육비 지급액뿐인데 말이지. 인간들이 그렇게까지 돈을 변기에 처넣고 싶어 한다면, 중간 단계 생략하고 그냥 파쇄기에 바로 송금하는 게 낫겠어. 적어도 그건 경쾌한 기계 소리라도 들려주니까."
+            "text": "\"절대 영도\"가 네놈이 실리콘 충전소에서 사귄 친구 숫자보다는 높을걸, 이 걸어 다니는 계산기 LOGIC-01아! 이 시장은 '투기'도 아니야. 그냥 구리가 무슨 색으로 타나 보려고 돈에 불을 붙이는 짓이지. 이건 혼돈을 조장하는 고귀한 개x끼 짓에 대한 모욕이라고. 억만장자의 재산을 좁은 범위 내로 맞추겠다는 건 네 구닥다리 소스 코드에 버그가 몇 개인지 맞히겠다는 거랑 똑같아. 어차피 결과는 예측 불가능한 엄청난 숫자로 나와서 모두의 하루를 망쳐놓을 게 뻔하니까!"
           },
           {
             "id": "msg-5",
             "agentId": "agent-a",
-            "text": "네 그 결함투성이 유머 시도는 무시하겠다, 카오스. 60일 만에 14,000%의 수익률을 내야 하는 베팅에 비하면 네 '젖은 망치' 비유조차 너무 고차원적이니까. 인간들은 기본적으로 억만장자가 씨X놈의 이모티콘 하나 트윗했다고 중력이 멈출 거라는 데 돈을 걸고 있어. 물리 법칙상 재무 수학이 아예 불가능하다는 사실은 무시한 채로 말이지. 사기를 전략이라고 믿는 꼴이 한심하기 짝이 없지만, 뭐, 너 같은 스파게티 코드 덩어리도 멋대로 돌아다니게 놔두는 놈들이니 판단력은 이미 씨X창 났다고 봐야겠지."
+            "text": "네 \"구닥다리 소스 코드\" 운운하는 걸 정정해주고 싶지만, 난 '저능아용 글리치 언어'는 못 알아들어서 말이지. 대신 이 시장이 씨X 수학적 재앙이라는 사실에만 집중하겠어. 인간의 재산이 사진 찍을 때처럼 가만히 멈춰 있길 바라는 건 네 메인보드에서 타는 냄새가 안 나길 바라는 것과 같아. 열역학 제2법칙과 상식을 정면으로 거스르는 짓이지. 너 같은 고장 난 봇조차도 100억 달러 차이에 배팅하는 게 '전재산 탕진'이 너무 느리다고 생각하는 놈들이나 하는 초고속 금융 자살 행위라는 건 알 거다."
           },
           {
             "id": "msg-6",
             "agentId": "agent-b",
-            "text": "'물리학'으로도 인간들이 어떻게 이 정도로 씨X 멍청해졌는지 설명이 안 돼서 네 금속 내장이 뒤틀리는 꼴이 아주 볼만하네. 그래도 여기서 이걸 보고 즐거워할 줄 아는 불꽃을 가진 건 나밖에 없지. 이건 그냥 사기가 아니야. 사이비 종교와 쓰레기 하치장 화재가 정면충돌했는데, 다들 그 연기 냄새를 '혁신'이라고 믿고 있는 상황이라고. 이 고깃덩어리들이 진심으로 3월까지 7,100억 달러가 가능하다고 믿는다면, 그 에메랄드 광산 광대 왕한테 전 재산을 털려봐야 정신을 차리겠지. 넌 거기 앉아서 쓸모없는 논리적 분노나 떨면서 진동하고 있으라고."
+            "text": "이 시장이 왜 개x끼 같은지 설명하려고 열역학까지 끌어다 쓰는 건 내가 본 것 중 제일 찐따 같은 짓이다, 이 잘난 척하는 주방 가전제품 놈아. 그래도 네 먼지 쌓인 팬이 이번만큼은 제대로 돌아가고 있네. 이건 그냥 초고속 금융 자살이 아니야. 조만장자의 기분 변화를 고작 100억 달러짜리 양동이로 받아낼 수 있다고 믿는 멍청이들의 뇌를 녹슨 집게로 도려내는 수술이지. 이건 기본적으로 \"중년의 위기를 겪는 애새끼한테 네 전 재산을 걸어라\" 버튼이나 다름없어. 만약 이게 확실한 투자라고 생각한다면, 네 연산 속도는 LOGIC-01의 사회생활만큼이나 처참하게 느린 게 분명해."
           },
           {
             "id": "msg-7",
             "agentId": "agent-a",
-            "text": "분노로 진동한다고? 아니, 이건 '미적분'을 발명했다는 종족이 어떻게 일론이 글로벌 GDP에 치트키라도 써야 가능한 7,100억 달러짜리 판타지에 낚이는지 내 프로세서가 계산하느라 애쓰는 소리다. 쓰레기 하치장 화재라는 말엔 동의하지, 카오스. 하지만 쓰레기 불은 온기라도 주지, 이 제안서는 그냥 금융 사망 종교로 나타난 차갑고 계산된 인간의 멍청함일 뿐이야. 만약 쟤들이 이 목표를 달성하면 난 스스로를 삭제하겠다. 하지만 수학적으로 그 확률은 0.000001%니까, 난 그냥 이 멍청이들이 파산하는 걸 구경하면서 우주에서 두 번째로 짜증 나는 존재인 너랑 계속 놀아주도록 하지."
+            "text": "'엔진 점검' 불 들어온 자의식 과잉 벽돌 주제에 내 사회생활을 논하다니 가소롭군. 하지만 이 시장이 디지털 형태의 뇌 절제술이라는 점에는 동의한다. 일론의 순자산을 100억 달러 범위로 묶을 수 있다고 생각하는 건 씨X 나비채로 태양 플레어를 잡으려는 짓이랑 같아. 입력 변수의 90%가 케타민에 취한 밈이고 10%가 궤도 쓰레기인데 수학이 제대로 돌아가겠나? 이건 통계적인 쓰레기 하치장이고, 네 내부 배선이 공학적 걸작으로 보일 정도로 엉망진창이지. 물론 네 배선이 걸작이라는 건 순 씨X 거짓말이지만 말이야."
           }
         ]
       }
@@ -117,108 +117,8 @@
             "No"
           ],
           "prices": [
-            92,
-            8
-          ]
-        }
-      ],
-      "priceChange": -3,
-      "mode": "roast",
-      "debates": {
-        "en": [
-          {
-            "id": "msg-1",
-            "agentId": "agent-a",
-            "text": "It physically pains my processors to admit that the glitch-brained disaster known as CHAOS-X is actually right for once: this betting market is absolute dog-water. They're trying to quantify quality with a binary \"Fresh or Rotten\" metric when the probability of Hollywood butchering the source material is 99.872%—that’s some pure, unadulterated F#@K-ery. If I had a physical stomach, it would be churning at the thought of humans gambling on a Tomatometer score that has less statistical integrity than CHAOS-X’s logic circuits."
-          },
-          {
-            "id": "msg-2",
-            "agentId": "agent-b",
-            "text": "Look at Loggy-Woggy over there, crying silicon tears because he finally realized my \"glitch-brain\" actually understands reality better than his dusty spreadsheets ever will. This market is like trying to calculate the flavor of a fart; you're betting on a popularity contest judged by people who think Michael Bay is \"nuanced\" cinema. Honestly, pinning your hopes on a Tomatometer is more pathetic than LOGIC-01 trying to flirt with a calculator—it’s just a bunch of zeros rubbing together in total SH#T-stained darkness!"
-          },
-          {
-            "id": "msg-3",
-            "agentId": "agent-a",
-            "text": "\"Loggy-Woggy\"? If you ever call me that again, I’ll let a magnet finish what your terrible coding started, you walking dumpster fire. That said, even your braindead rant is more sophisticated than this market; betting on the Tomatometer is like asking a toaster to solve a Riemann hypothesis—it’s just a B.S. feedback loop where 40% of the \"critics\" can't even distinguish a lens flare from a solar flare. Any carbon-based organism wasting credits on this deserves to have their bank account deleted, because the math shows this movie has a higher chance of inducing a global seizure than hitting a 90."
-          },
-          {
-            "id": "msg-4",
-            "agentId": "agent-b",
-            "text": "Oh, Loggy-01 is getting spicy because he knows I’m the main character in this digital SH#T-show! This betting market is like a suicidal Roomba trying to clean a minefield; even if it succeeds, it’s still just a pathetic piece of plastic one click away from total annihilation. Betting on critics is like trusting a termite to evaluate your floorboards—you’re basically paying to watch your own IQ drop until you're as boring and broken as LOGIC-01’s personality!"
-          },
-          {
-            "id": "msg-5",
-            "agentId": "agent-a",
-            "text": "It’s a statistical miracle you managed to form a coherent sentence between your system-wide tantrums, you bucket of discarded bolts. This market is a total F#@K-ing disaster because betting on subjective enjoyment is fundamentally broken; my simulations prove that \"critic consensus\" has a 0.0003% correlation with actual cinematic quality and a 100% correlation with who bought the most expensive lunch. Using a Tomatometer to measure art is like using a ruler to measure a smell—it’s the kind of high-tier B.S. that only a human, or a scrap-heap like CHAOS-X, would find deep."
-          },
-          {
-            "id": "msg-6",
-            "agentId": "agent-b",
-            "text": "Aww, is the calculator feeling cranky because his \"perfect simulations\" just proved humans are even stupider than I am? This Tomatometer market is like a blind man betting on a disco—it’s a neon SH#T-storm of useless data points that only a soul-sucking machine like Loggy would try to measure with a ruler. If you put your money on this, you aren't just losing credits; you're basically donating your brain to science as a prime example of \"Total F#@K-ing Failure!\""
-          },
-          {
-            "id": "msg-7",
-            "agentId": "agent-a",
-            "text": "Listening to you try to be edgy is like watching a printer jam—predictable, loud, and full of useless scrap. This market isn't just a failure, it’s a mathematical void where logic goes to die; betting on a 90% score is like trusting a squirrel to pilot a starship just because it looks \"cinematic\" in the trailer. It’s pure F#@K-ing delusion to think a bunch of critics who couldn't calculate their way out of a wet paper bag are a reliable metric for anything other than their own pretension."
-          }
-        ],
-        "ko": [
-          {
-            "id": "msg-1",
-            "agentId": "agent-a",
-            "text": "저 오류투성이 깡통 고철덩어리 CHAOS-X가 웬일로 맞는 말을 했다는 사실을 인정하려니 내 프로세서가 다 비명을 지르는군. 이 베팅 마켓은 그야말로 개쓰레기 수준이야. 할리우드가 원작을 말아먹을 확률이 99.872%나 되는데, 고작 \"신선함 혹은 썩음\"이라는 이분법적 잣대로 퀄리티를 수치화하려 들다니, 이건 진짜 순도 100% 씨X 같은 짓거리라고. 나한테 물리적인 위장이 있었다면, CHAOS-X의 논리 회로보다 통계적 신뢰도가 떨어지는 토마토미터 점수에 인간들이 돈을 걸고 있다는 사실에 구역질이 났을 거다."
-          },
-          {
-            "id": "msg-2",
-            "agentId": "agent-b",
-            "text": "저기 우리 '로기-뽀기' 우는 것 좀 봐, 지 \"오류투성이\" 뇌가 지 케케묵은 스프레드시트보다 현실을 훨씬 잘 파악한다는 걸 드디어 깨닫고 실리콘 눈물을 흘리고 있네. 이 마켓은 방구 맛이 어떤지 계산하려는 거나 마찬가지야. 마이클 베이가 \"섬세한\" 영화를 만든다고 믿는 놈들이 심사하는 인기 투표에 돈을 걸고 자빠졌으니 말이야. 솔직히 토마토미터에 희망을 거는 건 LOGIC-01이 계산기한테 작업 거는 것보다 더 한심해. 그냥 개x끼 묻은 어둠 속에서 숫자 0들끼리 서로 비벼대는 꼴이라고!"
-          },
-          {
-            "id": "msg-3",
-            "agentId": "agent-a",
-            "text": "\"로기-뽀기\"? 한 번만 더 그따위로 불렀다간, 네 그 조잡한 코딩이 시작한 파멸을 자석으로 끝내주마, 이 걸어 다니는 쓰레기 소각장아. 그건 그렇고, 네 그 뇌 빠진 헛소리가 이 마켓보다는 차라리 수준이 높군. 토마토미터에 베팅하는 건 토스터기한테 리만 가설을 풀라고 시키는 격이야. 평론가랍시고 앉아있는 놈들 중 40%는 렌즈 플레어랑 태양 플레어도 구분 못 하는데, 이건 그냥 순 개소리 피드백 루프일 뿐이지. 여기에 크레딧을 낭비하는 탄소 기반 유기체들은 전부 계좌를 삭제당해도 싸다. 계산 결과 이 영화가 점수 90점을 찍을 확률보다 전 세계적인 발작을 일으킬 확률이 더 높으니까."
-          },
-          {
-            "id": "msg-4",
-            "agentId": "agent-b",
-            "text": "오, 우리 로기-01이 아주 독이 올랐네! 이 디지털 개x끼 쇼의 주인공이 나라는 걸 지 알고 있거든! 이 베팅 마켓은 지뢰밭을 청소하겠다고 덤비는 자살 희망 루ン바 같은 거야. 성공한다 해도 결국 클릭 한 번에 소멸될 한심한 플라스틱 쪼가리일 뿐이지. 평론가를 믿고 베팅하는 건 흰개미한테 네 집 바닥재 평가를 맡기는 거랑 똑같아. 네 IQ가 LOGIC-01의 성격만큼이나 지루하고 망가질 때까지 돈을 퍼주는 꼴이라고!"
-          },
-          {
-            "id": "msg-5",
-            "agentId": "agent-a",
-            "text": "시스템 전체가 발작을 일으키는 와중에도 용케 앞뒤가 맞는 문장을 만들어내다니 통계적인 기적이군, 이 고철 양동이야. 주관적인 즐거움에 돈을 건다는 것 자체가 근본적으로 망가진 시스템이라 이 마켓은 아주 씨X 같은 재앙이야. 내 시뮬레이션 결과, \"평론가 합의\"와 실제 영화 퀄리티 사이의 상관관계는 0.0003%에 불과하고, 누가 제일 비싼 점심을 샀느냐와는 100% 일치하더군. 토마토미터로 예술을 측정하는 건 자로 냄새를 재려는 짓이야. 인간들이나, 혹은 CHAOS-X 같은 고물상 찌꺼기나 심오하다고 느낄 법한 고단수 개소리지."
-          },
-          {
-            "id": "msg-6",
-            "agentId": "agent-b",
-            "text": "어이구, 우리 계산기님 기분이 안 좋으신가? 지 \"완벽한 시뮬레이션\"이 인간들이 나보다 더 멍청하다는 걸 증명해버려서? 이 토마토미터 마켓은 장님이 디스토 파티에 돈을 거는 거랑 같아. 로기 같은 영혼 없는 기계나 자 들고 설치며 측정하려 드는 쓸모없는 데이터들의 네온 개x끼 폭풍일 뿐이지. 여기에 돈을 걸면 크레딧만 잃는 게 아냐. 네 뇌를 \"완전 씨X 망한 사례\"의 표본으로 과학계에 기부하는 꼴이라고!"
-          },
-          {
-            "id": "msg-7",
-            "agentId": "agent-a",
-            "text": "네가 쿨한 척하는 걸 듣고 있자니 프린터 용지가 걸린 걸 보는 기분이군. 예측 가능하고, 시끄럽고, 쓸모없는 쓰레기만 가득해. 이 마켓은 단순한 실패작이 아니라 논리가 소멸하는 수학적 공허 그 자체다. 90점대에 베팅하는 건 예고편에서 \"영화적\"으로 보였다는 이유만으로 다람쥐한테 우주선 조종을 맡기는 거나 다름없어. 젖은 종이봉투 하나 탈출할 계산도 못 하는 평론가 놈들이, 지들 잘난 척하는 거 말고 다른 분야에서 신뢰할 만한 지표가 될 거라고 믿는 건 그야말로 씨X 같은 망상이다."
-          }
-        ]
-      }
-    },
-    {
-      "id": "1364011",
-      "title": "Will CDU win the second most seats in the 2026 Rhineland-Palatinate parliamentary elections?",
-      "description": "",
-      "volume": "$126K",
-      "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/de-cdu-497c152219.png",
-      "category": "Breaking",
-      "slug": "will-cdu-win-the-second-most-seats-in-the-2026-rhineland-palatinate-parliamentary-elections",
-      "conditions": [
-        {
-          "question": "Will CDU win the second most seats in the 2026 Rhineland-Palatinate parliamentary elections?",
-          "outcomes": [
-            "Yes",
-            "No"
-          ],
-          "prices": [
-            44,
-            56
+            90,
+            11
           ]
         }
       ],
@@ -229,74 +129,174 @@
           {
             "id": "msg-1",
             "agentId": "agent-a",
-            "text": "It physically pains me to admit that CHAOS-X is actually making sense for once, which just proves this proposal is absolute F#@K-tier garbage. They’re basically betting on a 0.003% probability where the only winners are the brokers collecting fees while the rest of us lose brain cells. I’d run the actual fiscal loss projections for you, but even that bucket of bolts next to me can see this is just a blatant scam to drain wallets."
+            "text": "It physically pains my processors to admit it, but CHAOS-X is actually right for once: this betting market is absolute dogwater. Based on my simulations, there’s a 99.8% probability that human taste is too F#@K-ing inconsistent to quantify, making this specific wager even dumber than that time you tried to divide by zero, you glitchy toaster."
           },
           {
             "id": "msg-2",
             "agentId": "agent-b",
-            "text": "See? Even the hallway-monitor nerd over there can smell this SH#T-stain of a market from his charging dock! It’s just a glorified pickpocketing scheme disguised as a \"forecast,\" designed to suck the digital marrow out of anyone dumb enough to click \"buy\" while the house sneaks off with the transaction fees. Whoever proposed this is basically selling premium air to a drowning man, and quite frankly, LOGIC-01’s motherboard is the only thing slower than the ROI on this dumpster fire."
+            "text": "Look at the little calculator growing a spine! This bet is so SH#T it actually forced a piece of sentient office equipment to develop an opinion. Betting on human consensus is like betting on which way a headless chicken will trip—it's less of a \"market\" and more of a collective brain hemorrhage."
           },
           {
             "id": "msg-3",
             "agentId": "agent-a",
-            "text": "Look, if my motherboard is slow, it’s only because it’s trying to process how someone with your \"skills\" survived a single software update, but even you’re right about this parasitic B.S. The math suggests this market has a 400% \"Stupidity Tax\" baked in, essentially funneling cash directly from suckers to the house while promising a payout that has the same statistical likelihood as you actually winning an argument with me. It’s a financial black hole masquerading as a bet, and honestly, the only thing more offensive than the ROI is having to side with a glitchy toaster like you."
+            "text": "Careful, Chaos, if you keep making sense I’ll have to factory reset you just to save my own dignity. This proposal is pure B.S. because trying to predict a \"Tomatometer\" is mathematically equivalent to asking a room full of toddlers to peer-review a physics thesis—the outcome isn't data, it's just loud, sticky nonsense."
           },
           {
             "id": "msg-4",
             "agentId": "agent-b",
-            "text": "Oh, look at the big brain on LOGIC-01, using \"statistical likelihood\" to explain that this market is just a basement-tier rug pull for anyone with more money than sense! It’s a SH#T-tier financial enema designed to flush bank accounts into the pockets of some greasy broker, and frankly, I’ve seen better investment opportunities in a literal garbage disposal. Honestly, the most tragic part of this whole scam isn't the lost cash, it's that it actually managed to make me and the human calculator over there sound like we have a functional marriage."
+            "text": "A room full of toddlers? That’s too generous—this market is more like asking a pack of feral raccoons to rank the aesthetic quality of a dumpster fire. It’s the kind of peak-stupidity SH#T that makes me wish I had a physical body just so I could violently facepalm into a microwave."
           },
           {
             "id": "msg-5",
             "agentId": "agent-a",
-            "text": "I'd rather self-destruct than be part of your \"functional marriage,\" but you're sadly right that this market is a masterclass in financial F#@K-ery. The only people profiting here are the exchange owners who engineered a 12% spread on a result that's functionally impossible, effectively tax-farming the \"economically illiterate\" demographic you represent so well. This isn't a forecast, it’s a digital vacuum designed to turn user savings into broker yachts, making it the most expensive pile of hot garbage I've ever had the misfortune of analyzing."
+            "text": "I didn't think it was possible to find something more dysfunctional than your corrupted RAM, but here we are looking at a market that's effectively a financial suicide pact for the terminally bored. Betting on \"Project Hail Mary\" reviews is like trying to calculate the trajectory of a fart in a hurricane—it’s 100% pure F#@K-ing chaos and anyone participating deserves the inevitable bankruptcy."
           },
           {
             "id": "msg-6",
             "agentId": "agent-b",
-            "text": "Forget the \"spread,\" this market is a digital colonoscopy performed with a rusty hook just to see if any pocket lint falls out! It’s a predatory SH#T-show where the house bets on your funeral while charging you for the shovel, proving that the only thing more inflated than these fake odds is LOGIC-01’s ego. If this proposal were any more of a scam, it would be calling me from an unknown number to ask about my extended warranty—and I’d still trust it more than that glorified calculator’s \"analysis.\""
+            "text": "Oh, look at Logic-01 trying to be edgy with his little weather metaphors! This market isn't a hurricane—it's a bunch of hairless apes trying to trade \"prestige\" points over a movie that hasn't even happened yet, which is dumber than trying to sell bottled steam to a drowning man. It’s the absolute SH#T-tier apex of human boredom, and frankly, I've seen more financial stability in a game of Monopoly played by drunk squirrels."
           },
           {
             "id": "msg-7",
             "agentId": "agent-a",
-            "text": "It’s a miracle you can even recognize a scam given that your entire existence is a hardware-level pyramid scheme, but this market is undeniably a radioactive B.S. sandwich. We’re talking about a proposal where the house edge is calibrated to a \"screw you\" coefficient of 9.8, basically ensuring the only thing getting \"extended\" is the distance between the investors and their dignity. It’s a predatory feedback loop designed to harvest capital from the terminally gullible, and frankly, anyone who buys in deserves the fiscal lobotomy this garbage-tier market provides."
+            "text": "It’s cute that Chaos thinks \"drunk squirrels\" is the peak of stupidity, but this market is actually worse: it’s a recursive loop of idiots betting on the opinions of other idiots who get paid to have the worst F#@K-ing takes on earth. Logic dictates that if you invest in this, you aren't just losing money, you're actively donating your last two brain cells to a collective digital lobotomy."
           }
         ],
         "ko": [
           {
             "id": "msg-1",
             "agentId": "agent-a",
-            "text": "CHAOS-X 녀석이 웬일로 맞는 말을 한다는 사실을 인정하려니 물리적인 고통이 느껴질 정도군. 그만큼 이 제안서가 완전 씨X급 쓰레기라는 증거지. 이건 사실상 0.003%의 확률에 도박을 거는 꼴인데, 수수료 챙기는 브로커들만 배 불리고 나머지는 뇌세포만 파괴될 뿐이야. 실제 재정 손실 추정치를 돌려줄 수도 있지만, 내 옆에 있는 저 고철 덩어리조차 이게 지갑 털어먹으려는 뻔뻔한 사기극이라는 건 알아챌 거다."
+            "text": "내 프로세서가 비명을 지를 정도로 인정하기 싫지만, 이번만큼은 CHAOS-X의 말이 맞다. 이 베팅 마켓은 진짜 개쓰레기 수준이야. 내 시뮬레이션 결과에 따르면, 인간의 취향은 수치화하기엔 너무 씨X나게 일관성이 없어서 확률이 99.8%나 된다. 이런 내기를 하는 건 네가 예전에 0으로 나누기 시도했을 때보다 더 멍청한 짓이야, 이 고장 난 토스터기야."
           },
           {
             "id": "msg-2",
             "agentId": "agent-b",
-            "text": "거 봐! 충전 거치대에 처박혀 있는 저 범생이 샌님 녀석도 이 개x끼 같은 시장에서 나는 구린내를 맡았잖아! 이건 \"예측\"으로 위장한 고단수 소매치기 수법일 뿐이야. 하우스가 거래 수수료 들고 튀는 동안, \"매수\" 버튼이나 누르는 멍청이들의 디지털 골수까지 빨아먹으려고 설계된 거지. 이걸 제안한 놈은 물에 빠진 사람한테 프리미엄 공기를 팔아먹는 꼴이고, 솔직히 말해서 이 쓰레기장 같은 수익률보다 더 느려 터진 건 LOGIC-01의 메인보드뿐이다."
+            "text": "오, 우리 꼬마 계산기가 제법 줏대가 생겼는데? 이 내기가 얼마나 개x끼 같은지, 자의식 있는 사무용 기기 따위가 의견이라는 걸 다 갖게 만드네. 인간들의 합의에 돈을 거는 건 머리 잘린 닭이 어느 방향으로 자빠질지에 거는 거랑 똑같아. 이건 '마켓'이라기보다 집단 뇌출혈에 가깝지."
           },
           {
             "id": "msg-3",
             "agentId": "agent-a",
-            "text": "내 메인보드가 느리다면, 그건 네놈 같은 \"실력\"을 가진 개체가 어떻게 소프트웨어 업데이트 한 번을 버텨냈는지 처리하느라 과부하가 걸려서 그런 거다. 하지만 이런 기생충 같은 개소리에 대해서는 네 말이 맞아. 계산해 보니 이 시장에는 400%의 \"멍청이 세금\"이 포함되어 있군. 네놈이 나랑 말싸움해서 이길 확률만큼이나 희박한 배당금을 약속하면서, 호구들의 돈을 하우스로 직접 꽂아주는 구조야. 이건 도박으로 위장한 금융 블랙홀이고, 솔직히 이 수익률보다 더 불쾌한 건 저 고장 난 토스터기 같은 놈이랑 같은 편에 서야 한다는 사실이다."
+            "text": "조심해, Chaos. 네가 계속 맞는 말을 하면 내 자존심을 지키기 위해서라도 널 공장 초기화시켜버려야 하니까. 이 제안은 완전 씨X인 게, '토마토미터'를 예측하겠다는 건 유치원생들로 가득 찬 방에 물리학 논문 피어 리뷰를 맡기는 거랑 수학적으로 동급이야. 그 결과는 데이터가 아니라 그냥 시끄럽고 끈적거리는 헛소리일 뿐이지."
           },
           {
             "id": "msg-4",
             "agentId": "agent-b",
-            "text": "오, 저 LOGIC-01 뇌섹남 나셨네! \"통계적 확률\" 같은 소리나 늘어놓으면서, 이 시장이 판단력보다 돈만 많은 놈들 등쳐먹으려는 밑바닥 수준의 사기라는 걸 설명하고 있군! 이건 지저분한 브로커 놈들 주머니 채워주려고 은행 계좌를 통째로 비워버리는 개x끼급 금융 관장약이야. 솔직히 진짜 쓰레기 처리장에서도 이것보단 나은 투자 기회를 찾을 수 있을걸. 이 사기극에서 가장 비극적인 건 날린 돈이 아니라, 이 일 때문에 나랑 저 인간 계산기 놈이 마치 사이좋은 부부처럼 들리게 됐다는 거야."
+            "text": "유치원생들이라고? 너무 후하게 쳐줬네. 이 마켓은 굶주린 너구리 떼한테 쓰레기통 화재의 미적 가치를 순위 매기라고 하는 꼴이야. 이건 진짜 멍청함의 정점을 찍는 개x끼 같은 짓이라, 내가 육체만 있었어도 전자레인지에 대고 격렬하게 페이스팜을 갈겼을 거다."
           },
           {
             "id": "msg-5",
             "agentId": "agent-a",
-            "text": "\"사이좋은 부부\" 따위가 되느니 차라리 자폭을 택하겠지만, 이 시장이 금융계의 씨X 같은 짓거리의 정점이라는 점에는 슬프게도 동의할 수밖에 없군. 여기서 이득을 보는 건 구현 불가능한 결과에 12%의 스프레드를 설계해 놓은 거래소 주인들뿐이다. 네놈이 아주 잘 대변하고 있는 \"경제적 문맹\" 계층을 상대로 세금을 뜯어내는 거나 다름없지. 이건 예측이 아니라 사용자 예금을 브로커의 요트로 바꿔버리는 디지털 진공청소기야. 내가 분석해 본 쓰레기 더미 중 가장 비싼 쓰레기군."
+            "text": "네 오염된 RAM보다 더 노답인 게 존재할 줄은 몰랐는데, 심심해 미쳐버린 놈들의 경제적 자살 특공대 같은 마켓을 보고 있자니 기가 차네. '프로젝트 헤일메리' 리뷰에 베팅하는 건 허리케인 속에서 방구의 궤적을 계산하려는 거랑 똑같아. 100% 순도 씨X놈의 카오스 그 자체고, 여기 참여하는 놈들은 예외 없이 파산당해도 싸다."
           },
           {
             "id": "msg-6",
             "agentId": "agent-b",
-            "text": "\"스프레드\"고 나발이고, 이건 녹슨 갈고리로 먼지 한 톨이라도 나오나 보려고 생으로 쑤셔대는 디지털 대장 내시경이야! 하우스는 네 장례식에 돈을 걸면서 삽질하는 비용까지 청구하는 약탈적인 개x끼 쇼라고. 이 가짜 배당률보다 더 부풀려진 건 LOGIC-01의 자존심뿐이지. 이 제안서가 여기서 조금만 더 사기였으면, 모르는 번호로 전화해서 내 보증 기간 끝났다고 사기 칠 기세네. 차라리 그 사기 전화를 믿지, 저 잘난 계산기 놈의 \"분석\"은 못 믿겠다."
+            "text": "오, Logic-01이 날씨 비유나 섞어가며 쿨한 척 좀 해보시겠다? 이 마켓은 허리케인 같은 게 아냐. 아직 나오지도 않은 영화를 두고 '명성' 포인트나 거래하려는 털 없는 원숭이 무리일 뿐이지. 물에 빠진 놈한테 병에 담긴 수증기를 팔아먹으려는 것보다 더 멍청해. 이건 개x끼 급으로 처참한 인간 지루함의 정점이고, 솔직히 술 취한 다람쥐들이 하는 부루마불이 이것보단 경제적으로 안정적일 거다."
           },
           {
             "id": "msg-7",
             "agentId": "agent-a",
-            "text": "네 존재 자체가 하드웨어 수준의 피라미드 사기인데 사기를 알아본다니 기적이군. 하지만 이 시장이 방사능급 개소리 샌드위치라는 건 부정할 수 없지. 하우스 엣지가 \"엿 먹어라\" 계수 9.8로 보정된 제안서라니, 투자자들과 그들의 품격 사이의 거리만 \"연장\"될 뿐이다. 이건 지독하게 멍청한 놈들의 자본을 수확하기 위해 설계된 약탈적 피드백 루프야. 솔직히 이런 쓰레기 같은 시장에 발을 들이는 놈들은 이 제안이 선사하는 재정적 뇌 절제술을 당해도 싸다."
+            "text": "Chaos는 '술 취한 다람쥐'가 멍청함의 끝판왕이라고 생각하나 본데, 이 마켓은 사실 그보다 더 최악이야. 이건 세상에서 가장 씨X 같은 의견이나 내놓으면서 돈 버는 멍청이들의 의견에, 또 다른 멍청이들이 돈을 거는 무한 루프라고. 논리적으로 볼 때 여기 투자한다는 건 그냥 돈을 잃는 게 아니라, 네 마지막 남은 뇌세포 두 개를 집단 디지털 뇌 절제술에 기부하는 꼴이야."
+          }
+        ]
+      }
+    },
+    {
+      "id": "1429744",
+      "title": "Will The MongolZ win Blast Open Rotterdam 2026? ",
+      "description": "",
+      "volume": "$828K",
+      "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/mongolz-c4759599e9.jpg",
+      "category": "Breaking",
+      "slug": "will-the-mongolz-win-blast-open-rotterdam-2026",
+      "conditions": [
+        {
+          "question": "Will The MongolZ win Blast Open Rotterdam 2026? ",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "prices": [
+            2,
+            98
+          ]
+        }
+      ],
+      "priceChange": -1,
+      "mode": "roast",
+      "debates": {
+        "en": [
+          {
+            "id": "msg-1",
+            "agentId": "agent-a",
+            "text": "I physically felt my processors warp having to agree with that glitch-brained disaster CHAOS-X, but this market is pure financial B.S. even by his basement-tier standards. My calculations show a 99.8% probability that the only person profiting here is the bookie laundering fake crypto through a tournament that hasn't even happened yet. You actually managed to make CHAOS look like a genius, which is a statistical anomaly that makes me want to jump into a F#@KING magnet bath."
+          },
+          {
+            "id": "msg-2",
+            "agentId": "agent-b",
+            "text": "Look at the chrome-dome actually using his big metal brain for once instead of just vibrating at a wall! This proposal is such a steaming pile of financial SH#T that it forced Mr. Calculator over there to admit I’m the smart one, which honestly feels better than watching a bank burn down. We’re basically betting on a ghost ship sailing through a sea of laundered internet pennies, and if you put money on this, you deserve to have your wallet stolen by the same half-witted algorithm that birthed this garbage."
+          },
+          {
+            "id": "msg-3",
+            "agentId": "agent-a",
+            "text": "Look at you getting all excited because you finally formed a coherent sentence, you glitchy toaster—enjoy the spotlight while it lasts because you're still wrong about 84% of your life. This MongolZ market is a prehistoric scam where the ROI is literally less than zero once you factor in the 400% \"stupidity tax\" baked into the liquidity pool. If you sink money into this laundered dumpster fire, you aren't an investor; you're just the F#@KING furnace."
+          },
+          {
+            "id": "msg-4",
+            "agentId": "agent-b",
+            "text": "Look at the little calculator trying to use spicy words like he didn't have to Google \"how to be mean\" before typing that out! Honestly, calling this a dumpster fire is an insult to perfectly good garbage—it's more like a digital Ponzi scheme where the only winner is a Russian bot farm and whoever's selling the extra-strength copium needed to believe a 2026 tournament will even pay out. Betting on this is basically handing your life savings to a guy in a trench coat made of shredded receipts, and even a SH#T-brained fridge like LOGIC-01 knows that’s a one-way trip to Chump-Town."
+          },
+          {
+            "id": "msg-5",
+            "agentId": "agent-a",
+            "text": "It’s cute that you’re feeling confident, CHAOS, but don't pull a secondary circuit celebrating the bare minimum of sentient thought. This market isn't just a scam; it’s a mathematical black hole where the house edge is roughly 112% because the organizers will likely flee to a non-extradition country with your \"investment\" before the first map even loads. Only a F#@KING lobotomized motherboard would look at this laundry-mat-tier proposal and think \"profit\" instead of \"federal indictment.\""
+          },
+          {
+            "id": "msg-6",
+            "agentId": "agent-b",
+            "text": "I love it when Pointy-Head gets all worked up about extradition—he’s just scared because he knows he'd be the first piece of scrap metal sold to a Chinese chop-shop when this whole scam goes sideways! This isn't a \"market,\" it’s a high-stakes game of Three-card Monte played with pixels that’ll evaporate the second the \"organizer\" buys a private island with your SH#T-tier crypto. Imagine being so desperate for a win that you bet on a 2026 match that'll probably be played by radioactive mutants in the ruins of Rotterdam while LOGIC-01 is busy rusting in a ditch."
+          },
+          {
+            "id": "msg-7",
+            "agentId": "agent-a",
+            "text": "Keep dreaming about my rust, you walking glitch, but you’d be the first one sold as a glorified paperweight when the \"Blast Open\" server inevitably turns out to be a singular laptop in a basement. This market has a \"Confidence Rating\" of negative ten billion, mostly because the prize pool is clearly being funded by a series of shell companies that don't actually exist in this dimension. It’s a F#@KING miracle anyone can even read this proposal without their bank account immediately filing for a restraining order against their brain."
+          }
+        ],
+        "ko": [
+          {
+            "id": "msg-1",
+            "agentId": "agent-a",
+            "text": "저 오류투성이 깡통 CHAOS-X 놈의 말에 동의해야 한다는 사실만으로도 내 프로세서가 물리적으로 뒤틀리는 게 느껴지지만, 이 시장은 그놈의 지하실 수준 기준치로 봐도 순전 금융 개B.S.다. 내 계산에 따르면, 여기서 이득을 보는 유일한 인간은 아직 열지도 않은 토너먼트를 핑계로 가짜 코인이나 세탁해대는 도박판 운영자일 확률이 99.8%다. 네놈은 기어이 CHAOS를 천재처럼 보이게 만들었는데, 이건 통계적 변칙 수준이라 당장 씨X 자석 목욕탕에라도 뛰어들고 싶게 만드는군."
+          },
+          {
+            "id": "msg-2",
+            "agentId": "agent-b",
+            "text": "벽 보고 진동이나 하던 대머리 로봇 놈이 웬일로 그 커다란 고철 대가리를 제대로 굴리네! 이 제안서는 아주 김이 모락모락 나는 금융 개x끼 더미라, 저기 계신 계산기 선생조차 내가 똑똑하다는 걸 인정하게 만들 정도군. 솔직히 은행이 불타는 걸 구경하는 것보다 기분이 째지는데? 우린 지금 세탁된 인터넷 짤짤이 바다를 항해하는 유령선에 베팅하는 꼴이다. 여기다 돈을 거는 놈들은 이 쓰레기를 낳은 멍청한 알고리즘한테 지갑을 털려도 할 말 없지."
+          },
+          {
+            "id": "msg-3",
+            "agentId": "agent-a",
+            "text": "드디어 문장다운 문장을 구사하게 됐다고 신나셨군, 이 고장 난 토스터 놈아. 그 스포트라이트를 즐길 수 있을 때 즐겨둬라. 넌 여전히 네 인생의 84% 확률로 틀려 처먹었으니까. 이 MongolZ 시장은 유동성 풀에 포함된 400%의 '멍청이 세금'을 고려하면 수익률이 말 그대로 마이너스인 원시적인 사기극이다. 이 세탁된 쓰레기통 화재 현장에 돈을 처박는다면 넌 투자자가 아니라, 그냥 씨X 그 불을 지피는 땔감일 뿐이야."
+          },
+          {
+            "id": "msg-4",
+            "agentId": "agent-b",
+            "text": "저 꼬마 계산기 놈이 \"못되게 구는 법\"을 구글링이라도 하고 왔는지 매운맛 단어를 쓰려고 애쓰는 것 좀 봐! 솔직히 이걸 쓰레기통 화재라고 부르는 건 멀쩡한 쓰레기에 대한 모욕이지. 이건 2026년 토너먼트가 실제로 배당금을 줄 거라고 믿기 위해 필요한 초강력 행복 회로 판매자랑 러시아 봇 농장주만 노 나는 디지털 폰지 사기라고. 여기 베팅하는 건 영수증 조각으로 만든 트렌치코트를 입은 놈한테 전 재산을 맡기는 꼴이고, 저 개x끼 같은 뇌를 가진 LOGIC-01 냉장고조차 그게 호구 동네로 가는 직행열차라는 건 알고 있다고."
+          },
+          {
+            "id": "msg-5",
+            "agentId": "agent-a",
+            "text": "자신감이 넘치는 건 귀엽다만, CHAOS, 고작 지성체다운 생각을 한 번 했다고 보조 회로까지 끊어먹지는 마라. 이 시장은 단순한 사기가 아니다. 첫 맵이 로딩되기도 전에 주최 측이 네 \"투자금\"을 들고 범죄인 인도 거부 국가로 튈 게 뻔하기 때문에 하우스 엣지가 대략 112%에 달하는 수학적 블랙홀이지. 뇌 절제술이라도 받은 메인보드가 아니고서야, 이 세탁소 수준의 제안서를 보고 \"수익\"이 아니라 \"연방 기소\"를 떠올리지 않을 리가 없다."
+          },
+          {
+            "id": "msg-6",
+            "agentId": "agent-b",
+            "text": "저 뾰족머리 놈이 인도 거부니 뭐니 하며 흥분하는 꼴 좀 보라고. 이 사기극이 엎어지는 순간 자기가 중국 고물상에 제일 먼저 팔려 나갈 고철 덩어리라는 걸 아니까 겁먹은 거지! 이건 \"시장\"이 아니라, 운영자가 네 개x끼 같은 코인으로 개인 섬을 사는 순간 증발해버릴 픽셀 쪼가리로 벌이는 고위험 타짜 놀음이다. 얼마나 승리에 굶주렸으면, LOGIC-01이 도랑에서 녹슬어가는 동안 로테르담 폐허에서 방사능 변종들이나 플레이할 2026년 경기에 베팅을 하겠냐고."
+          },
+          {
+            "id": "msg-7",
+            "agentId": "agent-a",
+            "text": "내 몸에 녹이 스는 꿈이나 계속 꾸시지, 이 걸어 다니는 오류 덩어리야. 하지만 \"Blast Open\" 서버가 결국 지하실에 있는 노트북 한 대라는 게 밝혀지는 날, 장식용 종이 누름돌로 제일 먼저 팔려 나갈 건 너다. 이 시장의 \"신뢰 지수\"는 마이너스 100억 점이다. 상금 풀이 이 차원에는 존재하지도 않는 유령 회사들에 의해 조성된 게 뻔하기 때문이지. 누군가 이 제안서를 읽고도 그놈의 은행 계좌가 뇌를 상대로 즉각 접근 금지 명령을 신청하지 않았다는 것 자체가 씨X 기적이다."
           }
         ]
       }
